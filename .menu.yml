@@ -1,0 +1,14 @@
+---
+- title: "2026 VulnOptiCON"
+  url: /
+  nav:
+    - title: Registration
+      url: "/#Registration"
+    - title: Program Overview
+      url: "/program"
+    - title: Hotel Suggestions
+      url: "/hotel"
+    - title: Sponsorship
+      url: "/#Sponsorships-Available"
+    - title: Event Sponsors
+      url: "/sponsors"
