@@ -1,0 +1,27 @@
+# VulnOptiCON
+## Luxembourg, September 24-25, 2026
+
+VulnOptiCON (formerly [Vuln4Cast](https://www.first.org/events/colloquia/vuln4cast25/)) is a FIRST Technical Colloquium dedicated to exploring and sharing practical and creative ways to put vulnerability, configuration, or exploit data to work. Whether you are estimating, measuring, predicting, tracking, visualising or otherwise playing with vulnerability and exploit data, this may be the event for you. Our goal is to make the workshop as interactive as possible, so that as a community, we can inform and strengthen each other’s outcomes, adopt and adapt new ways of thinking, and uncover new opportunities.
+
+A good vulnerability forecast doesn’t start with code or exploits; it starts with a simple question: how many problems will we have tomorrow, and are we truly prepared to face them? In cybersecurity, our greatest enemy isn't the bug—it's the uncertainty about how many more are waiting. Let’s get together to talk about real-world vulnerability-related problems, and work as a group on potential solutions.
+
+We offer several session formats, so even if you only have the beginnings of an idea, it is worth exploring how it might fit. This is a great environment for both new speakers (we’re a small-ish, friendly group), and seasoned speakers looking for feedback (we’re highly engaged and want to get involved). You do not need to be a data visualisation guru or Dr DataScience to get involved – though they are always welcome!
+
+Oh also, you have to be living under a cyber rock to have missed the recent hoopla around #ProjectGlasswing and #Mythos. This is not the end of the story. The AI landscape is vast and evolving and our challenge to you is to tell or show us something about #AI and #securityvulnerabilities that we haven’t already seen or heard…
+
+
+## Call for Presentations
+
+The VulnOptiCon community gathers each year to discuss how we can measure/estimate/forecast/predict the number of vulnerabilities and exploits exist or will exist in the world. We want it all machine readable now, and we want to optimise it all against the background of risk. We're passionate debaters, and policy makers, practitioners, and academics, with fresh eyes, and battle scars. Everyone is a teacher and everyone is a student, and we think it's a great place to have mind expanding chats about these topics. We particularly welcome talks about how hard it is to do vulnerability management in large enterprises. Bring us your problems, and we'll bring you fresh insights, and young energy. We like discussion, debate, and (gently) teasing each other. We like to leave our egos at the door, and see innovation in the community. We'd like you to submit something novel, and new, and truly groundbreaking.
+
+[Submit to the Call for Presentations](https://hotcrp.dacs.utwente.nl/vulnopticon2026/) by June 1, 2026.
+
+
+## Sponsorships Available
+
+Sponsorship gives your organization different avenues to reach both experienced and up-and-coming vulnerability management and cybersecurity data science professionals. A motivated community of interest makes a good event, but sponsorship makes the event great. Sponsorship helps defray various event costs including the venue, food and beverage, keynote, and travel. Perhaps more importantly, sponsorship supports new people and new thinking by covering ticket costs for a number of students.
+
+To discuss sponsorship opportunities please contact one of the Program Committee members at <events@first.org>.
+
+
+<h4 class="ui-buttons"><a href="VulnOptiCON-sponsorship-2026.pdf" title="Sponsorship Prospectus" class="button color-button animated" target="_blank">Sponsorship Prospectus</a></h4>
