@@ -7,5 +7,5 @@ attributes:
 
 #### Event Partner
 
-![CIRCL](//www.first.org/_/e/_logos/sponsor-circl-wd.svg)
+[![CIRCL](//www.first.org/_/e/_logos/sponsor-circl-wd.svg)](https://circl.lu)
 
