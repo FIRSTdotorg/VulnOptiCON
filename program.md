@@ -29,4 +29,3 @@ All times are listed in Central European Summer Time - Luxembourg, LU (GMT+2)<br
         </p>
     </li>
 </ul>
-_tpl__tpl_
