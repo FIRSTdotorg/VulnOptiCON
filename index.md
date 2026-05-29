@@ -1,5 +1,5 @@
 # VulnOptiCON
-## Luxembourg, September 23-24-25, 2026
+## Luxembourg, September 23-25, 2026
 
 VulnOptiCON (formerly [Vuln4Cast](https://www.first.org/events/colloquia/vuln4cast25/)) is a FIRST Technical Colloquium dedicated to exploring and sharing practical and creative ways to put vulnerability, configuration, or exploit data to work. Whether you are estimating, measuring, predicting, tracking, visualising or otherwise playing with vulnerability and exploit data, this may be the event for you. Our goal is to make the workshop as interactive as possible, so that as a community, we can inform and strengthen each other’s outcomes, adopt and adapt new ways of thinking, and uncover new opportunities.
 
