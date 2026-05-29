@@ -14,10 +14,18 @@ All times are listed in Central European Summer Time - Luxembourg, LU (GMT+2)<br
 <ul id="toc-overview" class="overview">
     <li>
         <p>
+            <a href="program.html#d20260924">Wednesday, September 23<sup>th</sup></a>
+        </p>
+        <p class="sessions">
+            Day 1 - September 23
+        </p>
+    </li>
+    <li>
+        <p>
             <a href="program.html#d20260924">Thursday, September 24<sup>th</sup></a>
         </p>
         <p class="sessions">
-            Day 1 - September 24
+            Day 2 - September 24
         </p>
     </li>
     <li>
@@ -25,7 +33,7 @@ All times are listed in Central European Summer Time - Luxembourg, LU (GMT+2)<br
             <a href="program.html#d20260925">Friday, September 25<sup>th</sup></a>
         </p>
         <p class="sessions">
-            Day 2 - September 25
+            Day 3 - September 25
         </p>
     </li>
 </ul>
