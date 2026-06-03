@@ -24,4 +24,4 @@ Sponsorship gives your organization different avenues to reach both experienced 
 To discuss sponsorship opportunities please contact one of the Program Committee members at <events@first.org>.
 
 
-<h4 class="ui-buttons"><a href="VulnOptiCON-sponsorship-2026.pdf" title="Sponsorship Prospectus" class="button color-button animated" target="_blank">Sponsorship Prospectus</a></h4>
+<h4 class="ui-buttons"><a href="first-sponsorship-vulnopticon2026.pdf" title="Sponsorship Prospectus" class="button color-button animated" target="_blank">Sponsorship Prospectus</a></h4>
