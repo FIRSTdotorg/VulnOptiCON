@@ -69,6 +69,15 @@ Our single request is that sponsors engage authentically with the research commu
 | Vendors and consultants                                  | 10%               |
 | Invited media                                            | 5%                |  
 
-<h4 class="ui-buttons"><a href="https://www.first.org/events/colloquia/amsterdam2024/first-sponsorship-amsterdam2024.pdf" title="Sponsor Form" class="button color-button animated">Download the Sponsorship Prospectus!</a></h4>
+## Organised Under FIRST   
+
+VulnOptiCON is run under the auspices of FIRST: the Forum of Incident Response and Security Teams, a globally respected non-profit that has been building and sustaining security communities for over three decades. Running VulnOptiCON under this umbrella means sponsors are associated with an organisation whose reputation for impartial, community-first values is unimpeachable. It also means your logo appears in the context of an event that journalists covering the security beat already know and trust.  
+
+*Interested in Sponsoring VulnOptiCon?*  
+
+To discuss sponsorship options, request a media pack, or ask about bespoke arrangements, please contact the organising committee via FIRST.org. <events@first.org>
+_All sponsorship funds are administered transparently under FIRST.org’s non-profit governance framework._
+
+<h4 class="ui-buttons"><a href="first-sponsorship-vulnopticon2026.pdf" title="Sponsor Form" class="button color-button animated">Download the Sponsorship Prospectus!</a></h4>
 
 
