@@ -32,14 +32,7 @@ Luxembourg itself is a natural hub for European cyber security hiring, and VulnO
 
 | Sponsorship | Pricing | Benefits |
 | ----------- | ------- |--------- |
-| PLATINUM    | €15,000 | <ul>
-    <li> Headline venue sponsorship — your name on the venue signage </li>>
-    <li> Maximum student ticket allocation (10 free places) </li>
-        <li> Largest logo on all print, digital, and press materials </li>>
-    <li> Named first in all journalist briefings and press releases </li>
-            <li> Dedicated recruitment stand in the main foyer </li>
-    <li> Invitation to submit a position paper for the ‘Problems from Practice’ session </li>
-</ul> |
+| PLATINUM    | €15,000 | <ul> <li> Headline venue sponsorship — your name on the venue signage </li> <li> Maximum student ticket allocation (10 free places) </li> <li> Largest logo on all print, digital, and press materials </li> <li> Named first in all journalist briefings and press releases </li> <li> Dedicated recruitment stand in the main foyer </li>  <li> Invitation to submit a position paper for the ‘Problems from Practice’ session </li> </ul> |
 | GOLD        | €10,000 | $5,000 |
 | SILVER      | €5,000  | $16,000 |
 | BRONZE      | €2,500  | $16,000 |  
