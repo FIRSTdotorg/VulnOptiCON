@@ -55,6 +55,19 @@ Luxembourg itself is a natural hub for European cyber security hiring, and VulnO
 
 All tiers include logo placement on the VulnOptiCON website, the printed programme, and the digital slide deck shown between sessions. Bespoke packages, such as sponsoring specific workshops, panel sessions, or the evening social, are available on request.
 
+## What We Ask of Sponsors   
+
+Our single request is that sponsors engage authentically with the research community. Gold-tier and Platinum sponsors are invited (not required, but warmly encouraged) to submit a short position paper describing a real, unsolved vulnerability management challenge they face. These papers are presented in a dedicated ‘Problems from Practice’ session that consistently receives the highest delegate satisfaction scores of the programme. This is the conversation the security industry has been missing: practitioners setting the agenda, researchers responding with method, and students learning what the problems actually look like in production.   
+
+## Audience & Reach
+| Delegate Profile                                         | Approximate Share |
+| -------------------------------------------------------- | ----------------- |
+| Vulnerability management and cybersecurity professionals | 30%               | 
+| Academic researchers, data scientists                    | 20%               |
+| Government and national CSIRT staff                      | 15%               |
+| University students                                      | 20%               |  
+| Vendors and consultants                                  | 10%               |
+| Invited media                                            | 5%                |  
 
 <h4 class="ui-buttons"><a href="https://www.first.org/events/colloquia/amsterdam2024/first-sponsorship-amsterdam2024.pdf" title="Sponsor Form" class="button color-button animated">Download the Sponsorship Prospectus!</a></h4>
 
