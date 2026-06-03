@@ -17,7 +17,7 @@ The VulnOptiCon community gathers each year to discuss how we can measure/estima
 [Submit to the Call for Presentations](https://hotcrp.dacs.utwente.nl/vulnopticon2026/) by June 1, 2026.
 
 
-## [Sponsorships Available](https://vulnopticon.org/sponsorship)
+## [Sponsorships Available](/sponsorship)
 
 Sponsorship gives your organization different avenues to reach both experienced and up-and-coming vulnerability management and cybersecurity data science professionals. A motivated community of interest makes a good event, but sponsorship makes the event great. Sponsorship helps defray various event costs including the venue, food and beverage, keynote, and travel. Perhaps more importantly, sponsorship supports new people and new thinking by covering ticket costs for a number of students.
 
