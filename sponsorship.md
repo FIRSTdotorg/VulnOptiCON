@@ -71,7 +71,7 @@ Our single request is that sponsors engage authentically with the research commu
 
 VulnOptiCON is run under the auspices of FIRST: the Forum of Incident Response and Security Teams, a globally respected non-profit that has been building and sustaining security communities for over three decades. Running VulnOptiCON under this umbrella means sponsors are associated with an organisation whose reputation for impartial, community-first values is unimpeachable. It also means your logo appears in the context of an event that journalists covering the security beat already know and trust.  
 
-**Interested in Sponsoring VulnOptiCon?**  
+### Interested in Sponsoring VulnOptiCon?    
 
 To discuss sponsorship options, request a media pack, or ask about bespoke arrangements, please contact the organising committee via FIRST.org. <events@first.org>
 _All sponsorship funds are administered transparently under FIRST.org’s non-profit governance framework._
