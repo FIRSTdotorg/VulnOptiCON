@@ -37,18 +37,22 @@ Luxembourg itself is a natural hub for European cyber security hiring, and VulnO
 | SILVER      | €5,000  | $16,000 |
 | BRONZE      | €2,500  | $16,000 |  
 
-Challenge Sponsorship
-Implement a Challenge Sponsorship, whereby a sponsoring organisation proposes a vulnerability-or-exploit-data-related question or challenge for the VulnOptiCON community to work on.
-The VulnOptiCON management team will coordinate the process over a multi-month period (duration to be agreed), including initial promotion and sign up, ongoing communication, regular check-ins, and the final presentation and sharing of results.
-The VulnOptiCON event in September (23-25) will provide an opportunity for a first major check in between the Challenge Sponsor and the participants.
-For the final presentations, we will either identify a relevant Europe-based event, or coordinate a dedicated virtual or physical meeting.
-Challenge questions will be vetted by the management team for suitability.
-Specific timing, publication or confidentiality expectations, and prizes are all negotiable depending on the Sponsor and their challenge, and in accordance with the values and expectations of VulnOptiCON and its community.
-Costs:
-£10,000 sponsorship for initial set up, promotion, coordination, and participation during VulnOptiCON.
-£5000 - £15,000 for additional coordination, promotion, and support organisation of the final presentations. Agreed with Sponsor dependent on the specific requirements of the challenge.
-A reasonable and attractive prize amount for the winner - TBC depending on the scale of challenge. Paid either directly to Challenge winner or via FIRST as the Sponsor prefers.
-Optional budget to support travel and accommodation for international competitors invited to present findings at an in-person meeting.
+### Challenge Sponsorship   
+
+- Implement a Challenge Sponsorship, whereby a sponsoring organisation proposes a vulnerability-or-exploit-data-related question or challenge for the VulnOptiCON community to work on.
+- The VulnOptiCON management team will coordinate the process over a multi-month period (duration to be agreed), including initial promotion and sign up, ongoing communication, regular check-ins, and the final presentation and sharing of results.   
+
+- The VulnOptiCON event in September (23-25) will provide an opportunity for a first major check in between the Challenge Sponsor and the participants.
+- For the final presentations, we will either identify a relevant Europe-based event, or coordinate a dedicated virtual or physical meeting.
+- Challenge questions will be vetted by the management team for suitability.
+- Specific timing, publication or confidentiality expectations, and prizes are all negotiable depending on the Sponsor and their challenge, and in accordance with the values and expectations of VulnOptiCON and its community.
+
+#### Costs:
+- £10,000 sponsorship for initial set up, promotion, coordination, and participation during VulnOptiCON.   
+- £5000 - £15,000 for additional coordination, promotion, and support organisation of the final presentations. Agreed with Sponsor dependent on the specific requirements of the challenge.   
+- A reasonable and attractive prize amount for the winner - TBC depending on the scale of challenge. Paid either directly to Challenge winner or via FIRST as the Sponsor prefers.   
+- Optional budget to support travel and accommodation for international competitors invited to present findings at an in-person meeting.   
+
 All tiers include logo placement on the VulnOptiCON website, the printed programme, and the digital slide deck shown between sessions. Bespoke packages, such as sponsoring specific workshops, panel sessions, or the evening social, are available on request.
 
 
