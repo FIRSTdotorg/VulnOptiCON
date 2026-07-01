@@ -14,7 +14,7 @@ Oh also, you have to be living under a cyber rock to have missed the recent hoop
 
 The VulnOptiCon community gathers each year to discuss how we can measure/estimate/forecast/predict the number of vulnerabilities and exploits exist or will exist in the world. We want it all machine readable now, and we want to optimise it all against the background of risk. We're passionate debaters, and policy makers, practitioners, and academics, with fresh eyes, and battle scars. Everyone is a teacher and everyone is a student, and we think it's a great place to have mind expanding chats about these topics. We particularly welcome talks about how hard it is to do vulnerability management in large enterprises. Bring us your problems, and we'll bring you fresh insights, and young energy. We like discussion, debate, and (gently) teasing each other. We like to leave our egos at the door, and see innovation in the community. We'd like you to submit something novel, and new, and truly groundbreaking.
 
-[Submit to the Call for Presentations](https://hotcrp.dacs.utwente.nl/vulnopticon2026/) by June 1, 2026.
+[Call for Presentations is closed](https://hotcrp.dacs.utwente.nl/vulnopticon2026/).
 
 
 ## [Sponsorships Available](/sponsorship)
