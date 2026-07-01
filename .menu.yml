@@ -2,8 +2,8 @@
 - title: "VulnOptiCON 2026"
   url: /
   nav:
-    # - title: Registration
-    #   url: "/#Registration"
+    - title: Registration
+      url: "/#Registration"
     - title: Program Overview
       url: "/program"
     - title: Hotel Suggestions
