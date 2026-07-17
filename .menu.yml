@@ -3,7 +3,7 @@
   url: /
   nav:
     - title: Registration
-      url: "/Registration"
+      url: "/registration"
     - title: Program Overview
       url: "/program"
     - title: Hotel Suggestions
