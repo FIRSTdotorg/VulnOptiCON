@@ -16,9 +16,8 @@ Luxembourg Marriott Hotel Alfa
 
 ## Key updates:
 
-3/08/2026 Registration opens!
-2/29/2026 Keynote announcement: Regina Joseph
-2/20/2026
+3/08/2026 Registration opens!  
+2/29/2026 Keynote announcement: Regina Joseph  
 
 ## Luxembourg, September 23-25, 2026
 
