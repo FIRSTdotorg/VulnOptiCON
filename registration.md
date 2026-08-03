@@ -6,6 +6,8 @@ title: "Registration | VulnOptiCON 2026"
 # Registration
 ## VulnOptiCON 2026
 
+The registration include coffee and tea break refreshments, and lunch, a lanyard with your name, and consensual inclusion in the conference attendee contact list. 
+
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/circl/vulnopticon2026/widget/v2.css" crossorigin>
 <script type="text/javascript" src="https://pretix.eu/widget/v2.en.js" async crossorigin></script>
 
