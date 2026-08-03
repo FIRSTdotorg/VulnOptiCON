@@ -2,7 +2,7 @@
 
 ## Registration now open!
 
-<h4 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register Now</a></h4>
+<h4 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register for the conference now</a></h4>
 
 ## Day one will be held at:
 
@@ -13,6 +13,12 @@ Belval (Esch-sur-Alzette)
 
 Luxembourg Marriott Hotel Alfa
 16, Place de la Gare, L-1616 Luxembourg
+
+## Key updates:
+
+3/08/2026 Registration opens!
+2/29/2026 Keynote announcement: Regina Joseph
+2/20/2026
 
 ## Luxembourg, September 23-25, 2026
 
