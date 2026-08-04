@@ -34,7 +34,7 @@ Oh also, you have to be living under a cyber rock to have missed the recent hoop
 
 Sponsorship gives your organization different avenues to reach both experienced and up-and-coming vulnerability management and cybersecurity data science professionals. A motivated community of interest makes a good event, but sponsorship makes the event great. Sponsorship helps defray various event costs including the venue, food and beverage, keynote, and travel. Perhaps more importantly, sponsorship supports new people and new thinking by covering ticket costs for a number of students.
 
-To discuss sponsorship opportunities please contact one of the Program Committee members at <eireann.leverett@cantab.net>.
+To discuss sponsorship opportunities please contact one of the Program Committee members at <vulnopticon@gmail.com>.
 
 
 <h4 class="ui-buttons"><a href="first-sponsorship-vulnopticon2026.pdf" title="Sponsorship Prospectus" class="button color-button animated" target="_blank">Sponsorship Prospectus</a></h4>
