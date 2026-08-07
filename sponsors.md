@@ -9,7 +9,7 @@ attributes:
 # Our 2026 Event Sponsors
 ## VulnOptiCON 2026
 
-FIRST is looking for sponsors for VulnOptiCON26!
+FIRST is looking for [sponsors](sponsorship) for VulnOptiCON26!
 
 ## Event Partner
 
