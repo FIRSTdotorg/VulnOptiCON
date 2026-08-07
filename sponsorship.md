@@ -75,9 +75,6 @@ VulnOptiCON is run under the auspices of FIRST: the Forum of Incident Response a
 
 ### Interested in Sponsoring VulnOptiCon?    
 
-To discuss sponsorship options, request a media pack, or ask about bespoke arrangements, please contact the organising committee via FIRST.org. <vulnopticon@gmail.com>
-_All sponsorship funds are administered transparently under FIRST.org’s non-profit governance framework._
+To discuss sponsorship options, request a media pack, or ask about bespoke arrangements, please [contact the Program Committee](mailto:vulnopticon@gmail.com). _All sponsorship funds are administered transparently under FIRST.org’s non-profit governance framework._
 
 <h4 class="ui-buttons"><a href="assets/first-sponsorship-vulnopticon2026.pdf" title="Sponsor Form" class="button color-button animated">Download the Sponsorship Prospectus!</a></h4>
-
-
