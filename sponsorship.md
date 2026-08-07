@@ -13,6 +13,8 @@ VulnOptiCON (formerly [Vuln4Cast](https://www.first.org/events/colloquia/vuln4ca
 
 ### Why Sponsor VulnOptiCon?
 
+[Sponsorship Prospectus](assets/first-sponsorship-vulnopticon2026.pdf)
+
 VulnOptiCON provides a space for practitioners with real world experience, brilliant data magicians, and up and coming future security leaders to inform, probe, and exchange ideas. We invite attendees to share real world pain points, incubate new ideas and approaches to solving them, and to look ahead to how the vulnerability and exploit landscape will evolve. For sponsors, this is an opportunity to get ahead of the issues that will affect you in the future, and test and get feedback on your thinking as it develops. Your sponsorship is an investment in the pipeline of ideas that will eventually become the tools your team depends on.  
 
 In addition, student bursaries bring talented individuals — many completing postgraduate degrees in computer science, statistics, or information security — directly into the conference foyer. This is an opportunity for sponsors to help shape and recruit the next generation of vulnerability management and research professionals.   
