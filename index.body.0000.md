@@ -6,4 +6,4 @@ attributes:
 ...
 -->
 
-- [![VulnOptiCON: September 23-24-25, 2026 - Luxembourg](/vulnopticon-banner-v23.jpg)](/){.center}
+- [![VulnOptiCON: September 23-24-25, 2026 - Luxembourg](/assets/vulnopticon-banner-v2.jpg)](/){.center}
