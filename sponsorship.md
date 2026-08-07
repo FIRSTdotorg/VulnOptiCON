@@ -4,8 +4,8 @@ title: Amsterdam 2025 FIRST Technical Colloquium / Sponsorship
 attributes:
   class: data-preview
 -->
-
-## 2026 VulnOptiCON FIRST TC Sponsorship Opportunities
+# Sponsorship
+## VulnOptiCON 2026
 
 ### About VulnOptiCON 
 
