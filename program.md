@@ -21,9 +21,9 @@ All times are Luxembourg local, that is Central European Summer Time (CEST, UTC+
 ### <a name="day-1"></a> Day 1
 | Time  | Talk |
 | :---  | :--- |
-|  9:30 | Opening remarks | VulnOptiCON Program Committee |
+|  9:30 | Opening remarks | <br> VulnOptiCON Program Committee |
 | 10:00 | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
-| 11:00 | | Johannes Clos, ENISA |
+| 11:00 | | <br> Johannes Clos, ENISA |
 
 <hr>
 
