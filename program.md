@@ -6,15 +6,11 @@ title: "Program Test | VulnOptiCON 2026"
 # Program
 ## VulnOptiCON 2026
 
-This year, we’re introducing an additional day (23 September) to more broadly cover All the (Vulnerability) Things. The expanded scope of Day 1 will provide a forum for the European vulnerability community to network and discuss vulnerability management, the anticipated AI vulnpocalypse, the realities of building a VDP, legal and policy considerations, and more.
+This year, we’re adding a day (aptly named Day 1, on 23 September) to more broadly cover All the (Vulnerability) Things. The expanded scope of Day 1 will provide a forum for the European vulnerability community to network and discuss vulnerability management, the anticipated AI vulnpocalypse, the realities of building a VDP, legal and policy considerations, and more.
 
 All times are Luxembourg local, that is Central European Summer Time (CEST, UTC+2). Subject to change!
 
-[Day 1](#day-1): 23 September
-
-[Day 2](#day-2): 24 September
-
-[Day 3](#day-3): 25 September
+Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
 
 <hr>
 
@@ -37,10 +33,11 @@ All times are Luxembourg local, that is Central European Summer Time (CEST, UTC+
 
 <hr>
 
-### <a name="day-3"></a> Day 3
+### <a name="day-3"></a> Day 3 (25 September)
 | Time  | Talk |
 | :---  | :--- |
 |  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
+| 13:45 | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
 | 16:30 | Closing remarks <br> VulnOptiCON Program Committee |
 
 <hr>
@@ -51,9 +48,7 @@ All times are Luxembourg local, that is Central European Summer Time (CEST, UTC+
 
 Jaya Baloo, AISLE
 
-Jaya Baloo is a globally recognized cybersecurity leader, consistently ranked among the top 100 CISOs and top 100 security influencers worldwide. She is a leading expert in cybersecurity and quantum readiness. Baloo brings extensive CISO experience to her role as COO & CISO at AISLE, an AI & Cybersecurity startup she co-founded. With over 12 years of leadership in cybersecurity, she previously served as CISO at Rapid7 and Avast, and prior to that at KPN, the Netherlands' largest telecommunications provider. She served as an Expert in Quantum and Cybersecurity for the World Economic Forum and advised Europol's European Cybercrime Centre (EC3). She was also formerly the Vice Chair of the EU Quantum Flagship and on the board of the Dutch news service, the NOS.
-
-Jaya Baloo currently sits on the audit committee of TIN Capital, a cybersecurity fund, and serves as a board member of Yubico, the Cyber Threat Alliance (CTA), & the DIVD and is on the CTREX Board for the Monetary Authority of Singapore. Baloo also lectures as a faculty member at Singularity University. In 2019, she was selected as one of the 50 most inspiring women in the Netherlands by Inspiring Fifty. Baloo's distinguished career includes an honorary doctorate from the University of Twente in 2022, awarded in recognition of her inspiring leadership and contributions to cybersecurity advancements.
+*Jaya Baloo is a globally recognized cybersecurity leader, consistently ranked among the top 100 CISOs and top 100 security influencers worldwide. She is a leading expert in cybersecurity and quantum readiness. Baloo brings extensive CISO experience to her role as COO & CISO at AISLE, an AI & Cybersecurity startup she co-founded. With over 12 years of leadership in cybersecurity, she previously served as CISO at Rapid7 and Avast, and prior to that at KPN, the Netherlands' largest telecommunications provider. She served as an Expert in Quantum and Cybersecurity for the World Economic Forum and advised Europol's European Cybercrime Centre (EC3). She was also formerly the Vice Chair of the EU Quantum Flagship and on the board of the Dutch news service, the NOS. Jaya Baloo currently sits on the audit committee of TIN Capital, a cybersecurity fund, and serves as a board member of Yubico, the Cyber Threat Alliance (CTA), & the DIVD and is on the CTREX Board for the Monetary Authority of Singapore. Baloo also lectures as a faculty member at Singularity University. In 2019, she was selected as one of the 50 most inspiring women in the Netherlands by Inspiring Fifty. Baloo's distinguished career includes an honorary doctorate from the University of Twente in 2022, awarded in recognition of her inspiring leadership and contributions to cybersecurity advancements.*
 
 <hr>
 
@@ -73,7 +68,7 @@ Before the results of an Intelligence Advanced Research Projects and Activity (I
 
 Andrey Lukashenkov, Vulners
 
-Andrey Lukashenkov works on vulnerability management at Vulners, a bootstrapped and profitable vulnerability-intelligence company. His work sits at the seam where software inventories meet vulnerability data - SBOM enrichment, component-to-vulnerability matching, exploitation signals, and the data-quality problems that quietly undermine every scanner and dashboard downstream. Technical by background and curious by default, he has unlimited access to the Vulners database and uses it to chase down whatever question he is stuck on that week, publishing the results to more than 20,000 practitioners on LinkedIn and, increasingly, from conference stages across Europe. A first-principles thinker with a consistent bias: distrust hype, insist on measurement, prefer engineering over demos. Happy to argue about any of it over coffee.
+*Andrey Lukashenkov works on vulnerability management at Vulners, a bootstrapped and profitable vulnerability-intelligence company. His work sits at the seam where software inventories meet vulnerability data - SBOM enrichment, component-to-vulnerability matching, exploitation signals, and the data-quality problems that quietly undermine every scanner and dashboard downstream. Technical by background and curious by default, he has unlimited access to the Vulners database and uses it to chase down whatever question he is stuck on that week, publishing the results to more than 20,000 practitioners on LinkedIn and, increasingly, from conference stages across Europe. A first-principles thinker with a consistent bias: distrust hype, insist on measurement, prefer engineering over demos. Happy to argue about any of it over coffee.*
 
 <hr>
 
@@ -83,12 +78,26 @@ Andrey Lukashenkov works on vulnerability management at Vulners, a bootstrapped 
 
 Alexandre Dulaunoy and Cedric Bonhomme, CIRCL
 
-The vulnerability ecosystem has become critical infrastructure for defenders, vendors, researchers, and open source maintainers. Yet the way identifiers and vulnerability data are assigned, published, and distributed still reflects a centralized model that does not always match the speed, diversity, and realities of today’s security landscape.
+The vulnerability ecosystem has become critical infrastructure for defenders, vendors, researchers, and open source maintainers. Yet the way identifiers and vulnerability data are assigned, published, and distributed still reflects a centralized model that does not always match the speed, diversity, and realities of today’s security landscape. This talk introduces GCVE, a new approach to vulnerability identification and tracking designed to support a more open, decentralized, and resilient ecosystem. GCVE rethinks how vulnerability numbers can be allocated, how trusted actors can publish advisories, and how vulnerability information can be synchronized without creating unnecessary bottlenecks or dependency on a single central authority. Through the lens of open source security, the talk will explain why this matters: maintainers need lightweight processes, defenders need timely and structured data, and the community needs a model that encourages participation rather than gatekeeping. It will also show how GCVE and its associated tooling can help make vulnerability tracking more transparent, interoperable, and adaptable. Rather than presenting only a new identifier format, this session will explore a broader idea: how we can build vulnerability tracking as shared public infrastructure for the security community.
 
-This talk introduces GCVE, a new approach to vulnerability identification and tracking designed to support a more open, decentralized, and resilient ecosystem. GCVE rethinks how vulnerability numbers can be allocated, how trusted actors can publish advisories, and how vulnerability information can be synchronized without creating unnecessary bottlenecks or dependency on a single central authority.
+<hr>
 
-Through the lens of open source security, the talk will explain why this matters: maintainers need lightweight processes, defenders need timely and structured data, and the community needs a model that encourages participation rather than gatekeeping. It will also show how GCVE and its associated tooling can help make vulnerability tracking more transparent, interoperable, and adaptable.
+#### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
 
-Rather than presenting only a new identifier format, this session will explore a broader idea: how we can build vulnerability tracking as shared public infrastructure for the security community.
+<img style="border:1px solid black;" src="../assets/nacho.jpg" width="150" alt="Natalie Kilber" />
+
+Natalie Kilber, Haste
+
+Real-world exploitation rarely hinges on a single vulnerability. In practice, attackers construct layered attack chains — combining memory corruption, privilege escalation, container escapes, and logic flaws — to achieve their intended impact. This talk examines why the "single CVE" mental model understates actual attack complexity, and why that complexity, paradoxically, creates detection opportunity. The ultimate goal is to discuss if the vulnerability ecosystem can be optimized for faster zero day anaylsis and transfer into signatures. We explore how behavioral and anomaly-based detection operates independently of signature knowledge: rather than asking what vulnerability is being exploited, it asks what the system is doing that it shouldn't be. Process lineage, unexpected syscall sequences, lateral movement patterns, and anomalous inter-process communication all surface attacker behavior regardless of whether the underlying flaw has a CVE number attached to it. The central challenge of zero-day detection is one of elimination: known exploit types, known attack chains, and known indicators of compromise can all be ruled out through conventional detection, but will be part of the attack chain. What remains — behavior that is anomalous but matches no known pattern — is where zero-day candidates live. We discuss what it takes to shrink the window between exploitation and discovery - showing three interlocking problems:
+
+* First, the adequacy of behavioral/threat detection as a primary paradigm: does it represent a sufficiently developed methodology — in telemetry fidelity, baselining, and cross-layer signal/IoC/attack chain correlation — to close the gap that signature-based approaches leave structurally open?
+
+* Second, the upstream question of whether the vulnerability ecosystem itself can be reformed to accelerate the transition from zero-day discovery to actionable signature: disclosure practices, patch cadence, CVE taxonomy, and exploit broker market dynamics all shape how long an unknown flaw remains uncharacterized, and structural interventions at any of these points could compress that window before detection is even attempted.
+
+* Third, the organizational and epistemic conditions required for effective zero-day detection in practice — specifically, the institutional willingness to treat unattributed anomalies as threat hypotheses rather than noise or uncertainties, and the taxonomy and process investment for the vulnerability ecosystem.
+
+Running beneath all three is a foundational epistemological tension: zero-day detection is, by definition, the problem of detecting what cannot yet be named.
+
+*Natalie Kilber is the CEO of Haste, a stealth startup securing the future of compute. She brings more than 16+ years of experience spanning research, industrial control systems, cloud, and technology sectors, with a focus on emergent technologies, product development, and threat hunting. Before founding Haste, Natalie held roles at HARMAN, Microsoft, Siemens Energy, MHP – A Porsche Company, and several startups. She also serves as an external evaluator for EU research funding programs covering quantum, AI, and cybersecurity, and is a frequent speaker at international conferences. Natalie studied physics and computer science at the University of Stuttgart and quantum physics at Cardiff University, and holds a BA from Hult International Business School. She holds multiple industry certifications, including GCFA, CAISP (Certified AI Security Practitioner), Microsoft certifications, and speaks nine languages. Outside of work, she enjoys electric skateboarding, fast cars, cross-country jumping, and anything that involves a little adrenaline.*
 
 <hr>
