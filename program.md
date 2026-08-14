@@ -33,9 +33,9 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 |       |      |
 | ---:  | :--- |
-|  9:00 <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
-|  9:15 <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
-| 10:00 <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
+|  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
+|  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
+| 10:00 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
 
 <hr>
 
@@ -45,9 +45,9 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 |       |      |
 | ---:  | :--- |
-|  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
-| 13:45 | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
-| 16:30 | Closing remarks <br> VulnOptiCON Program Committee |
+|  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
+| 13:45 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
+| 16:30 &nbsp; <br> &nbsp; | Closing remarks <br> VulnOptiCON Program Committee |
 
 <hr>
 
