@@ -19,11 +19,11 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 |       |      |
 | :---  | :--- |
-|  9:30 | Opening remarks <br> VulnOptiCON Program Committee |
-| 10:00 | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
-| 11:00 | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
-| 11:30 | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
-| 12:00 | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
+|  9:30 <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
+| 10:00 <br> &nbsp;| Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
+| 11:00 <br> &nbsp;| [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
+| 11:30 <br> &nbsp;| [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
+| 12:00 <br> &nbsp;| [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
 
 <hr>
 
