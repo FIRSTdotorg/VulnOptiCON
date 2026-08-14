@@ -56,7 +56,7 @@ Jaya Baloo, AISLE
 
 <img style="border:1px solid black;" src="../assets/johannes-clos.jpg" width="150" alt="Johannes Clos" />
 
-Johannes Clos
+Johannes Clos, ENISA
 
 As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA rolls out the Single Reporting Platform, this session offers a timely deep dive into how ENISA is scaling its EU Vulnerability Services, including the European Vulnerability Database (EUVD), support to Member States’ coordinated vulnerability disclosure processes, and a growing operational role in the global vulnerability management ecosystem. The session will show how ENISA together with the EU CSIRTs network transforms vulnerability information into actionable guidance, prioritised mitigation, and more effective risk reduction across critical systems and supply chains. The talk will also examine lessons learned from real-world implementation, the importance of global interoperability and cooperation, and how AI is reshaping vulnerability discovery, potential exploitation, and faster remediation.
 
