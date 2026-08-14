@@ -11,7 +11,7 @@ This year, we’re adding a day (aptly named Day 1, on 23 September) to more bro
 All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC+2). Program is stil subject to change!
 
 Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
-
+<br>
 <hr>
 
 ### <a name="day-1"></a> Day 1
@@ -24,7 +24,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 | 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
 | 12:00 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
-
+<br>
 <hr>
 
 ### <a name="day-2"></a> Day 2
@@ -36,7 +36,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
 | 10:00 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
-
+<br>
 <hr>
 
 ### <a name="day-3"></a> Day 3
@@ -48,7 +48,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 | 13:45 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
 | 16:30 &nbsp; <br> &nbsp; | Closing remarks <br> VulnOptiCON Program Committee |
-
+<br>
 <hr>
 
 #### <a name="day-1-keynote"></a> Day 1 Keynote: AI Innovations for Vulnerability Management
@@ -71,6 +71,8 @@ As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA r
 
 *Johannes Kaspar Clos discovered an interest in computers initially through his passion for audio engineering and signal processing. Encountering the power of applied cryptography got him interested in information security and the political implications of technology. After receiving his diploma in computer science from TU Darmstadt, he followed initial research at Fraunhofer-Gesellschaft and University of Newcastle and worked as a network security engineer. In 2010, he joined CERT-Bund, Germany's national CSIRT section at the Federal Office for Information Security's (BSI). While supporting the team with building up its vulnerability coordination capacity, abuse automation, and strategic development, he cultivated a passion for CSIRT collaboration. Today, he is working for ENISA’s Incident and Vulnerability ServicesJ section where his tasks include the implementation of the EU vulnerability services catalogue.*
 
+<hr>
+
 #### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
 
 <!-- <img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" /> -->
@@ -80,6 +82,8 @@ Jay Jacobs, Empirical Security
 Ask security practitioners to define "vulnerability" and you will get a variety of answers that look roughly the same yet fall short in roughly the same places. The definitions aren't wrong, they work well on most cases well enough, but they break down on the edge cases, where the disputes live. This talk looks at the disputed CVEs (especially the high profile ones) and shows how these are just a failure in precise language and definition. A vulnerability is a disposition: a capacity for a security failure that exists in a system, that is waiting to be discovered and have the conditions for exploitation manifest that security failure. Understanding vulnerability as a disposition rather than just a weakness, flaw or an event changes how we classify hard cases, how we describe vulnerabilities, measure risk, and how we should be reporting and naming them.
 
 *Jay Jacobs is a Co-founder and Data Scientist at Empirical Security and Data Scientist Emeritus at Cyentia Institute. Jay is also the lead data scientist for the Exploit Prediction Scoring System (EPSS), a co-chair of the EPSS special interest group at FIRST and chair of the Consumer Working Group within the CVE program. He is also a co-founder of the Society for Information Risk Analysts (SIRA), a not-for-profit association dedicated to advancing risk management practices where he served on the board of directors for several years.*
+
+<hr>
 
 #### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
@@ -130,5 +134,3 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 *Natalie Kilber is the CEO of Haste, a stealth startup securing the future of compute. She brings more than 16+ years of experience spanning research, industrial control systems, cloud, and technology sectors, with a focus on emergent technologies, product development, and threat hunting. Before founding Haste, Natalie held roles at HARMAN, Microsoft, Siemens Energy, MHP – A Porsche Company, and several startups. She also serves as an external evaluator for EU research funding programs covering quantum, AI, and cybersecurity, and is a frequent speaker at international conferences. Natalie studied physics and computer science at the University of Stuttgart and quantum physics at Cardiff University, and holds a BA from Hult International Business School. She holds multiple industry certifications, including GCFA, CAISP (Certified AI Security Practitioner), Microsoft certifications, and speaks nine languages. Outside of work, she enjoys electric skateboarding, fast cars, cross-country jumping, and anything that involves a little adrenaline.*
 
 <hr>
-
-
