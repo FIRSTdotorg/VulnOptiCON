@@ -54,7 +54,7 @@ Jaya Baloo, AISLE
 
 #### <a name="enisa"></a> Establishing a Unified Model for EU Vulnerability Services
 
-<img style="border:1px solid black;" src="../assets/johannes-clos.jpg" alt="Johannes Clos" />
+<img style="border:1px solid black;" src="assets/johannes-clos.jpg" width="150" alt="Johannes Clos" />
 
 Johannes Clos, ENISA
 
