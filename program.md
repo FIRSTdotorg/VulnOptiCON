@@ -74,7 +74,7 @@ Regina Joseph
 
 #### <a name="andrey"></a> Pick a Number Anyway: Measuring the SBOM...
 
-<img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Regina Joseph" />
+<img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Andrey Lukashenkov" />
 
 Andrey Lukashenkov, Vulners
 
@@ -84,7 +84,7 @@ Andrey Lukashenkov, Vulners
 
 #### <a name="gcve"></a> GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
 
-<!-- <img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Regina Joseph" /> -->
+<!-- <img style="border:1px solid black;" src="../assets/headshots" width="150" alt="names" /> -->
 
 Alexandre Dulaunoy and Cedric Bonhomme, CIRCL
 
