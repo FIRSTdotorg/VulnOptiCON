@@ -15,17 +15,20 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <hr>
 
 ### <a name="day-1"></a> Day 1
-| Time  | Talk |
+23 September
+| Time  |      |
 | :---  | :--- |
 |  9:30 | Opening remarks <br> VulnOptiCON Program Committee |
 | 10:00 | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
 | 11:00 | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
+| 12:00 | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
 
 <hr>
 
 ### <a name="day-2"></a> Day 2
-| Time  | Talk |
+24 September
+| Time  |      |
 | :---  | :--- |
 |  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
@@ -33,8 +36,9 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 <hr>
 
-### <a name="day-3"></a> Day 3 (25 September)
-| Time  | Talk |
+### <a name="day-3"></a> Day 3
+25 September
+| Time  |      |
 | :---  | :--- |
 |  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
 | 13:45 | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
@@ -61,6 +65,16 @@ Johannes Clos, ENISA
 As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA rolls out the Single Reporting Platform, this session offers a timely deep dive into how ENISA is scaling its EU Vulnerability Services, including the European Vulnerability Database (EUVD), support to Member States’ coordinated vulnerability disclosure processes, and a growing operational role in the global vulnerability management ecosystem. The session will show how ENISA together with the EU CSIRTs network transforms vulnerability information into actionable guidance, prioritised mitigation, and more effective risk reduction across critical systems and supply chains. The talk will also examine lessons learned from real-world implementation, the importance of global interoperability and cooperation, and how AI is reshaping vulnerability discovery, potential exploitation, and faster remediation.
 
 *Johannes Kaspar Clos discovered an interest in computers initially through his passion for audio engineering and signal processing. Encountering the power of applied cryptography got him interested in information security and the political implications of technology. After receiving his diploma in computer science from TU Darmstadt, he followed initial research at Fraunhofer-Gesellschaft and University of Newcastle and worked as a network security engineer. In 2010, he joined CERT-Bund, Germany's national CSIRT section at the Federal Office for Information Security's (BSI). While supporting the team with building up its vulnerability coordination capacity, abuse automation, and strategic development, he cultivated a passion for CSIRT collaboration. Today, he is working for ENISA’s Incident and Vulnerability ServicesJ section where his tasks include the implementation of the EU vulnerability services catalogue.*
+
+#### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+
+<!-- <img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" /> -->
+
+Jay Jacobs, Empirical Security
+
+Ask security practitioners to define "vulnerability" and you will get a variety of answers that look roughly the same yet fall short in roughly the same places. The definitions aren't wrong, they work well on most cases well enough, but they break down on the edge cases, where the disputes live. This talk looks at the disputed CVEs (especially the high profile ones) and shows how these are just a failure in precise language and definition. A vulnerability is a disposition: a capacity for a security failure that exists in a system, that is waiting to be discovered and have the conditions for exploitation manifest that security failure. Understanding vulnerability as a disposition rather than just a weakness, flaw or an event changes how we classify hard cases, how we describe vulnerabilities, measure risk, and how we should be reporting and naming them.
+
+*Jay Jacobs is a Co-founder and Data Scientist at Empirical Security and Data Scientist Emeritus at Cyentia Institute. Jay is also the lead data scientist for the Exploit Prediction Scoring System (EPSS), a co-chair of the EPSS special interest group at FIRST and chair of the Consumer Working Group within the CVE program. He is also a co-founder of the Society for Information Risk Analysts (SIRA), a not-for-profit association dedicated to advancing risk management practices where he served on the board of directors for several years.*
 
 #### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
