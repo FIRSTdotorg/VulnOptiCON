@@ -15,21 +15,33 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <hr>
 
 ### <a name="day-1"></a> Day 1
+
 23 September
+
+Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette
 
 |       |      |
 | ---:  | :--- |
+|  9:00 &nbsp; <br> &nbsp; | Venue open |
 |  9:30 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 | 10:00 &nbsp; <br> &nbsp; | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
 | 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
 | 12:00 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
+| 12:30 &nbsp; <br> &nbsp; | Lunch |
+| 13:30 &nbsp; <br> &nbsp; | [Interactive Tabletop Game](#carson) <br> Joseph Carson, Segura |
+| 15:00 &nbsp; <br> &nbsp; | Break |
+| 15:30 &nbsp; <br> &nbsp; | [PSIRT Realities in the Age of AI Discovery](#ktn) <br> Katie Noble, Intel |
+| 16:00 &nbsp; <br> &nbsp; | [I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents](#erick) <br> Erick Galinkin, NVIDIA |
+| 17:00 &nbsp; <br> &nbsp; | Fin |
 <br>
 <hr>
 
 ### <a name="day-2"></a> Day 2
 
 24 September
+
+Luxembourg Mariott Hotel Alfa
 
 |       |      |
 | ---:  | :--- |
@@ -42,6 +54,8 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 ### <a name="day-3"></a> Day 3
 
 25 September
+
+Luxembourg Mariott Hotel Alfa
 
 |       |      |
 | ---:  | :--- |
@@ -84,6 +98,12 @@ Ask security practitioners to define "vulnerability" and you will get a variety 
 *Jay Jacobs is a Co-founder and Data Scientist at Empirical Security and Data Scientist Emeritus at Cyentia Institute. Jay is also the lead data scientist for the Exploit Prediction Scoring System (EPSS), a co-chair of the EPSS special interest group at FIRST and chair of the Consumer Working Group within the CVE program. He is also a co-founder of the Society for Information Risk Analysts (SIRA), a not-for-profit association dedicated to advancing risk management practices where he served on the board of directors for several years.*
 
 <hr>
+
+#### <a name="carson"></a> Interactive
+
+#### <a name="ktn"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+
+#### <a name="erick"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
 
 #### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
