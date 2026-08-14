@@ -1,6 +1,6 @@
 <!--
 ---
-title: "Program Test | VulnOptiCON 2026"
+title: "Program | VulnOptiCON 2026"
 ...
 -->
 # Program
@@ -8,7 +8,7 @@ title: "Program Test | VulnOptiCON 2026"
 
 This year, we’re adding a day (aptly named Day 1, on 23 September) to more broadly cover All the (Vulnerability) Things. The expanded scope of Day 1 will provide a forum for the European vulnerability community to network and discuss vulnerability management, the anticipated AI vulnpocalypse, the realities of building a VDP, legal and policy considerations, and more.
 
-All times are Luxembourg local, that is Central European Summer Time (CEST, UTC+2). Subject to change!
+All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC+2). Program is stil subject to change!
 
 Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
 
@@ -19,7 +19,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 | :---  | :--- |
 |  9:30 | Opening remarks <br> VulnOptiCON Program Committee |
 | 10:00 | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
-| 11:00 | Johannes Clos, ENISA |
+| 11:00 | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
 
 <hr>
@@ -52,13 +52,23 @@ Jaya Baloo, AISLE
 
 <hr>
 
+#### <a name="enisa"></a> Establishing a Unified Model for EU Vulnerability Services
+
+<img style="border:1px solid black;" src="../assets/johannes-clos.jpg" width="150" alt="Johannes Clos" />
+
+Johannes Clos
+
+As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA rolls out the Single Reporting Platform, this session offers a timely deep dive into how ENISA is scaling its EU Vulnerability Services, including the European Vulnerability Database (EUVD), support to Member States’ coordinated vulnerability disclosure processes, and a growing operational role in the global vulnerability management ecosystem. The session will show how ENISA together with the EU CSIRTs network transforms vulnerability information into actionable guidance, prioritised mitigation, and more effective risk reduction across critical systems and supply chains. The talk will also examine lessons learned from real-world implementation, the importance of global interoperability and cooperation, and how AI is reshaping vulnerability discovery, potential exploitation, and faster remediation.
+
+*ohannes Kaspar Clos discovered an interest in computers initially through his passion for audio engineering and signal processing. Encountering the power of applied cryptography got him interested in information security and the political implications of technology. After receiving his diploma in computer science from TU Darmstadt, he followed initial research at Fraunhofer-Gesellschaft and University of Newcastle and worked as a network security engineer. In 2010, he joined CERT-Bund, Germany's national CSIRT section at the Federal Office for Information Security's (BSI). While supporting the team with building up its vulnerability coordination capacity, abuse automation, and strategic development, he cultivated a passion for CSIRT collaboration. Today, he is working for ENISA’s Incident and Vulnerability ServicesJ section where his tasks include the implementation of the EU vulnerability services catalogue.*
+
 #### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
 <img style="border:1px solid black;" src="../assets/regina-joseph.jpg" width="150" alt="Regina Joseph" />
 
 Regina Joseph
 
-Before the results of an Intelligence Advanced Research Projects and Activity (IARPA) experiment that ran from 2011-2015 testing human forecasting ability, few believed that consistent and replicable accuracy was possible. Since the celebrated findings of that experiment, e.g., the discovery of superforecasters as well as the identification of technical systems, processes and behaviors correlated with better foresight, a pipeline of forecasting experiments (and their consequences) has revealed the complexity of what it takes to build a solid forecasting community. This research also exposed the unique challenges in applying the technologies of prediction in critical decision-making environments. As both a researcher and superforecaster veteran of IARPA’s multiple experiments in anticipatory intelligence&mdash;as well as her own forecasting research programs with European and US federal entities and private sector organizations&emdash;Regina Joseph will share apocryphal stories from the superforecaster frontlines, as well as insights on how to construct a high quality forecasting cohort.
+*Before the results of an Intelligence Advanced Research Projects and Activity (IARPA) experiment that ran from 2011-2015 testing human forecasting ability, few believed that consistent and replicable accuracy was possible. Since the celebrated findings of that experiment, e.g., the discovery of superforecasters as well as the identification of technical systems, processes and behaviors correlated with better foresight, a pipeline of forecasting experiments (and their consequences) has revealed the complexity of what it takes to build a solid forecasting community. This research also exposed the unique challenges in applying the technologies of prediction in critical decision-making environments. As both a researcher and superforecaster veteran of IARPA’s multiple experiments in anticipatory intelligence&mdash;as well as her own forecasting research programs with European and US federal entities and private sector organizations&emdash;Regina Joseph will share apocryphal stories from the superforecaster frontlines, as well as insights on how to construct a high quality forecasting cohort.*
 
 <hr>
 
@@ -101,3 +111,5 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 *Natalie Kilber is the CEO of Haste, a stealth startup securing the future of compute. She brings more than 16+ years of experience spanning research, industrial control systems, cloud, and technology sectors, with a focus on emergent technologies, product development, and threat hunting. Before founding Haste, Natalie held roles at HARMAN, Microsoft, Siemens Energy, MHP – A Porsche Company, and several startups. She also serves as an external evaluator for EU research funding programs covering quantum, AI, and cybersecurity, and is a frequent speaker at international conferences. Natalie studied physics and computer science at the University of Stuttgart and quantum physics at Cardiff University, and holds a BA from Hult International Business School. She holds multiple industry certifications, including GCFA, CAISP (Certified AI Security Practitioner), Microsoft certifications, and speaks nine languages. Outside of work, she enjoys electric skateboarding, fast cars, cross-country jumping, and anything that involves a little adrenaline.*
 
 <hr>
+
+
