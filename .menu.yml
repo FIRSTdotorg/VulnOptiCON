@@ -4,11 +4,11 @@
   nav:
     - title: Registration
       url: "/registration"
-    - title: Program Overview
+    - title: Program
       url: "/program"
     - title: Hotel and Venues
       url: "/hotel"
-    - title: Sponsorship Opportunities
+    - title: Sponsorship
       url: "/sponsorship"
     - title: Event Sponsors
       url: "/sponsors"
