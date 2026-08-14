@@ -22,18 +22,18 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 
 |       |      |
 | ---:  | :--- |
-|  9:00 &nbsp; <br> &nbsp; | Venue open |
+|  9:00 &nbsp;             | Venue open |
 |  9:30 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 | 10:00 &nbsp; <br> &nbsp; | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
 | 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
 | 12:00 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
-| 12:30 &nbsp; <br> &nbsp; | Lunch |
+| 12:30 &nbsp;             | Lunch |
 | 13:30 &nbsp; <br> &nbsp; | [Interactive Tabletop Game](#carson) <br> Joseph Carson, Segura |
 | 15:00 &nbsp; <br> &nbsp; | Break |
 | 15:30 &nbsp; <br> &nbsp; | [PSIRT Realities in the Age of AI Discovery](#ktn) <br> Katie Noble, Intel |
 | 16:00 &nbsp; <br> &nbsp; | [I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents](#erick) <br> Erick Galinkin, NVIDIA |
-| 17:00 &nbsp; <br> &nbsp; | Fin |
+| 17:00 &nbsp;             | Fin |
 <br>
 <hr>
 
@@ -99,11 +99,30 @@ Ask security practitioners to define "vulnerability" and you will get a variety 
 
 <hr>
 
-#### <a name="carson"></a> Interactive
+#### <a name="carson"></a> Interactive Tabletop Game
 
-#### <a name="ktn"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+Joseph Carson, Segura
 
-#### <a name="erick"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+<hr>
+
+#### <a name="ktn"></a> PSIRT Realities in the Age of AI Discovery
+
+Katie Noble, Intel
+
+<hr>
+
+#### <a name="erick"></a> I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents
+
+<img style="border:1px solid black;" src="../assets/dorfy.jpg" width="150" alt="Erick Galinkin" />
+
+Erick Galinkin, NVIDIA
+
+Suddenly, automated vulnerability discovery has become the eldritch monster stalking the security community. While policymakers and tech startups have proffered countless opinions about regulatory regimes, security teams must deal with the reality that the maxim "attackers are people too" does not necessarily hold any longer. This session offers practical guidance for defenders&mdash;and probably attackers&mdash;on the capabilities of agentic systems to autonomously discover vulnerabilities and conduct operations, and how they have evolved. Where defenders have attempted to incorporate language models, this session offers gentle reminders and at least one hot take about how to limit risk.
+
+*Erick Galinkin is a Research Scientist at NVIDIA, where he spends his time attacking AI systems, defending AI systems, and occasionally trying to determine which of those two things he is doing. His work focuses on the security of large language model-powered systems, and he currently chairs the AI Working Groups for both the CVE and CWE programs. Previously, he led AI research at Rapid7 after working his way through enough different cybersecurity roles to develop opinions about most of them. 
+Erick holds a PhD in Computer Science from Drexel University, where his dissertation explored autonomous cyber defense through game theory, decision theory, and reinforcement learning, as well as an MS in Applied and Computational Mathematics from Johns Hopkins University. When not trying to make computers behave themselves, Erick is a father to three boys, which has provided extensive practical experience with intelligent agents that do not reliably follow instructions.*
+
+<hr>
 
 #### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
