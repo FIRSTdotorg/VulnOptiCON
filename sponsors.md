@@ -12,11 +12,11 @@ attributes:
 FIRST is looking for one more [sponsor](sponsorship) for VulnOptiCON 2026!
 
 * [![CIRCL](https://www.first.org/_/e/_logos/sponsor-circl-sq.svg "CIRCL")](https://circl.lu/)
-### Event Partner and Host | [CIRCL](https://circl.lu/)
+### Event Partner and Host | &nbsp; [CIRCL](https://circl.lu/)
 The Computer Incident Response Center Luxembourg (CIRCL) is a government-led initiative aimed at collecting, analyzing, reporting, and addressing computer security threats and incidents. CIRCL serves as the host for several open-source software projects, including MISP and AIL, which play critical roles in facilitating information sharing and enhancing threat intelligence capabilities.
 <hr>
 
-* [![Brinqa](https://www.first.org/_/e/_logos/sponsor-brinqa-sq.svg "Brinqa" )](https://brinqa.com/))
+* [![Brinqa](https://www.first.org/_/e/_logos/sponsor-brinqa-sq.svg "Brinqa" )](https://brinqa.com/)
 ### Platinum Sponsor | [Brinqa](https://brinqa.com/))
 Your AI, Our Foundation. Exposure Management Built for You.
 Brinqa ingests and correlates limitless exposure data into a single, trusted foundation&mdash;deduplicated, attributed, and ready for your AI agents, your models, and your team&mdash;so you know which exposures matter most and how to act.
