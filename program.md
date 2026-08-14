@@ -15,7 +15,9 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <hr>
 
 ### <a name="day-1"></a> Day 1
+
 23 September
+
 | Time  |      |
 | :---  | :--- |
 |  9:30 | Opening remarks <br> VulnOptiCON Program Committee |
@@ -27,7 +29,9 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <hr>
 
 ### <a name="day-2"></a> Day 2
+
 24 September
+
 | Time  |      |
 | :---  | :--- |
 |  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
@@ -37,7 +41,9 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <hr>
 
 ### <a name="day-3"></a> Day 3
+
 25 September
+
 | Time  |      |
 | :---  | :--- |
 |  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
