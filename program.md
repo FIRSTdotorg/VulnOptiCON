@@ -31,19 +31,18 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 24 September
 
-| Time  |      |
-| :---  | :--- |
-|  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
-|  9:15 | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
-| 10:00 | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
+|       |      |
+| ---:  | :--- |
+|  9:00 &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
+|  9:15 &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
+| 10:00 &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
 
 <hr>
 
 ### <a name="day-3"></a> Day 3
 
 25 September
-
-| Time  |      |
+|       |      |
 | :---  | :--- |
 |  9:00 | Opening remarks <br> VulnOptiCON Program Committee |
 | 13:45 | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
