@@ -42,7 +42,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 <hr>
 
-#### <a name="day-1-keynote"></a> Day 1 Keynote: Jaya Baloo
+#### <a name="day-1-keynote"></a> Day 1 Keynote: AI Innovations for Vulnerability Management
 
 <img style="border:1px solid black;" src="../assets/JayaBaloo.jpg" width="150" alt="Jaya Baloo" />
 
