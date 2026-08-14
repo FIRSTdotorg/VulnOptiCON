@@ -23,7 +23,7 @@ The Computer Incident Response Center Luxembourg (CIRCL) is a government-led ini
 Your AI, Our Foundation. Exposure Management Built for You.
 Brinqa ingests and correlates limitless exposure data into a single, trusted foundation&mdash;deduplicated, attributed, and ready for your AI agents, your models, and your team&mdash;so you know which exposures matter most and how to act.
 
-[brinqa.com](https://brinqa.com/)  
+&nbsp;[brinqa.com](https://brinqa.com/)  
 
 <hr>
 
