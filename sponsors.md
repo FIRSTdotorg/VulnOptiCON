@@ -14,7 +14,6 @@ FIRST is looking for one more [sponsor](sponsorship) for VulnOptiCON 2026!
 * ![CIRCL](https://www.first.org/_/e/_logos/sponsor-circl-sq.svg)
 ### Event Partner and Host | CIRCL
 The Computer Incident Response Center Luxembourg (CIRCL) is a government-led initiative aimed at collecting, analyzing, reporting, and addressing computer security threats and incidents. CIRCL serves as the host for several open-source software projects, including MISP and AIL, which play critical roles in facilitating information sharing and enhancing threat intelligence capabilities.
-
 * [circl.lu](https://circl.lu/)
 
 <hr>
