@@ -18,7 +18,7 @@ The Computer Incident Response Center Luxembourg (CIRCL) is a government-led ini
 
 <hr>
 
-* ![Brinqa](https://www.first.org/_/e/_logos/sponsor-brinqa-sq.svg "Brinqa" )
+* ![Brinqa](https://www.first.org/_/e/_logos/sponsor-brinqa-sq.svg "Brinqa")
 ### Platinum Sponsor | &nbsp;&nbsp;&nbsp; [Brinqa](https://brinqa.com/)
 Your AI, Our Foundation. Exposure Management Built for You.
 Brinqa ingests and correlates limitless exposure data into a single, trusted foundation-deduplicated, attributed, and ready for your AI agents, your models, and your team-so you know which exposures matter most and how to act.
