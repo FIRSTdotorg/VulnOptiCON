@@ -5,8 +5,14 @@ attributes:
 ...
 -->
 
-#### Partner   
-[![CIRCL](/_/e/_logos/sponsor-circl-wd.svg)](https://circl.lu)  
+#### Event Partner and Host 
+
+[![CIRCL](/_/e/_logos/sponsor-circl-wd.svg)](https://circl.lu/ "CIRCL")
+
+#### Platinum Sponsor
+
+[![Brinqa](/_/e/_logos/sponsor-brinqa-sq.svg)](https://brinqa.com/ "Brinqa")
 
 #### Bronze Sponsor   
-[![Vulners](/_/e/_logos/sponsor-vulners-wd.svg)](https://vulners.com/)  
+
+[![Vulners](/_/e/_logos/sponsor-vulners-wd.svg)](https://vulners.com/ "Vulners")
