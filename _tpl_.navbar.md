@@ -11,7 +11,7 @@ attributes:
 
 #### Platinum Sponsor
 
-[![Brinqa](/_/e/_logos/sponsor-brinqa-wq.svg)](https://brinqa.com/ "Brinqa")
+[![Brinqa](/_/e/_logos/sponsor-brinqa-wd.svg)](https://brinqa.com/ "Brinqa")
 
 #### Bronze Sponsor
 [![Vulners](/_/e/_logos/sponsor-vulners-wd.svg)](https://vulners.com/ "Vulners")
