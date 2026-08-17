@@ -25,7 +25,7 @@ Brinqa ingests and correlates limitless exposure data into a single, trusted fou
 
 <hr>
 
-* ![Vulners](asseets/sponsor-vulners-sq-2.svg "Vulners")
+* ![Vulners](assets/sponsor-vulners-sq-2.svg "Vulners")
 ### Bronze Sponsor | &nbsp;&nbsp;&nbsp; [Vulners](https://vulners.com/)
 Vulners is an all-in-one vulnerability intelligence database that aggregates over 200 data sources, providing a unified platform for accessing a vast array of security-related information. With more than 4 million constantly updated entries, it includes Common Vulnerabilities and Exposures (CVEs), vendor security advisories, exploits, and Indicators of Compromise (IoC), making it essential for staying updated on cybersecurity threats. Vulners platform offers a robust scalable API for complex search queries allowing users to find vulnerabilities by various parameters such as software name and version, or CPE. Vulners also offers enriched context for vulnerabilities, including proprietary AI Score and common metrics like CVSS, EPSS, SSVC, enabling users to prioritize remediation efforts effectively.
 
