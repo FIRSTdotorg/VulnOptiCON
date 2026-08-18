@@ -27,10 +27,10 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 | 10:00 &nbsp; <br> &nbsp; | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
 | 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
-| 12:00 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
+| 12:00 &nbsp; <br> &nbsp; | [Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management](#brinqa) <br> Ron Dovich, Brinqa |
 | 12:30 &nbsp;             | Lunch |
 | 13:30 &nbsp; <br> &nbsp; | [Interactive Tabletop Game](#carson) <br> Joseph Carson, Segura |
-| 15:00 &nbsp; <br> &nbsp; | Break |
+| 15:00 &nbsp;             | Break |
 | 15:30 &nbsp; <br> &nbsp; | [PSIRT Realities in the Age of AI Discovery](#ktn) <br> Katie Noble, Intel |
 | 16:00 &nbsp; <br> &nbsp; | [I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents](#erick) <br> Erick Galinkin, NVIDIA |
 | 17:00 &nbsp;             | Fin |
@@ -48,6 +48,7 @@ Luxembourg Mariott Hotel Alfa
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
 | 10:00 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
+| 12:00 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
 <br>
 <hr>
 
