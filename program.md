@@ -25,10 +25,10 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 |       |      |
 | ---:  | :--- |
 |  9:00 &nbsp;             | Venue open |
-|  9:30 &nbsp; <br> &nbsp; | Opening remarks <br> FIRST and the VulnOptiCON Program Committee |
+|  9:30 &nbsp; <br> &nbsp; <br> &nbsp; | Opening remarks <br> FIRST <br> VulnOptiCON Program Committee |
 | 10:00 &nbsp; <br> &nbsp; | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
 | 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
-| 11:30 &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
+| 11:30 &nbsp; <br> &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy, CIRCL <br> Cedric Bonhomme, CIRCL |
 | 12:00 &nbsp; <br> &nbsp; | [Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management](#brinqa) <br> Ron Dovich, Brinqa |
 | 12:30 &nbsp;             | Lunch |
 | 13:30 &nbsp; <br> &nbsp; | [Interactive Tabletop Game](#carson) <br> Joseph Carson, Segura |
@@ -39,7 +39,6 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 | 17:00 &nbsp;             | End of Day 1 |
 <br>
 <hr>
-
 ### <a name="day-2"></a> Day 2
 
 24 September
@@ -51,7 +50,10 @@ Luxembourg Mariott Hotel Alfa
 |  8:30 &nbsp;             | Venue open |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
+| 15:00 &nbsp;             | Break |
 | 12:30 &nbsp;             | Lunch |
+| 15:00 &nbsp;             | Break |
+| 17:00 &nbsp;             | End of Day 2 |
 <br>
 <hr>
 
@@ -69,10 +71,10 @@ Luxembourg Mariott Hotel Alfa
 | 10:00 &nbsp; <br> &nbsp; <br> &nbsp; | [Group Therapy&mdash;Bring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
 | 10:45 &nbsp;             | Break |
 | 11:15 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
-| 11:45 &nbsp; <br> &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
+| 11:45 &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
 | 12:15 &nbsp; <br> &nbsp; | [The Silent Fix Gap](#cassie) <br> Cassie Crossley, VulNow |
 | 12:30 &nbsp;             | Lunch |
-| 13:30 &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis and her Mysterious Debators |
+| 13:30 &nbsp; <br> &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis <br> &hellip;and her Mysterious Debators |
 | 14:20 &nbsp; <br> &nbsp; | [On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging](#trey) <br> Trey Darley, Proper Tools SRL |
 | 16:30 &nbsp; <br> &nbsp; | Closing remarks <br> VulnOptiCON Program Committee |
 | 14:45 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half](#andrey) <br> Andrey Lukashenkov, Vulners |
@@ -80,6 +82,7 @@ Luxembourg Mariott Hotel Alfa
 | 15:30 &nbsp; <br> &nbsp; | [The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu](#adulau) <br> Alexandre Dulaunoy, CIRCL |
 | 16:00 &nbsp; <br> &nbsp; | VulnOptiCON 2027, The Next Episode <br> Everyone |
 | 16:15 &nbsp; <br> &nbsp; | Closing Remarks <br> VulnOptiCON Program Commitee |
+| 16:30 &nbsp;             | Fin |
 <br>
 <hr>
 
