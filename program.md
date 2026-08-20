@@ -39,6 +39,7 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 | 17:00 &nbsp;             | End of Day 1 |
 <br>
 <hr>
+
 ### <a name="day-2"></a> Day 2
 
 24 September
@@ -50,10 +51,19 @@ Luxembourg Mariott Hotel Alfa
 |  8:30 &nbsp;             | Venue open |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
+| 10:00 &nbsp; <br> &nbsp; | [The CVE Panopticon: What Happens When The Prisoners Set The Standards?](#jerry) <br> Jerry Gamblin, Empirical Security |
+| 10:30 &nbsp;             | Break |
+| 16:30 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [Beyond Remediation: Integrating Countermeasures into Vulnerability Management](#nestle) <br> Angelo Punturiero, Nestle <br> Martin Karel, Nestle <br> Alexia Sorel, Nestle |
+| 11:20 &nbsp; <br> &nbsp; | [Measuring and Forecasting Exploitation Conditions](#ruben) <br> Ruben Bos, Volerion |
+| 12:00 &nbsp;             | Lunch |
+| 13:00 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [You, Me, and CVE: What Does the Future Hold for the CVE Program?](#cve) <br> Jen Ellis, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente <br> Lindsay Cerkovnik, CISA <br> Nuno Rodrigues Carvalho, ENISA |
+| 16:30 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> NCSC (UK) |
+| 14:30 &nbsp; <br> &nbsp; | [What Does NCSC (UK) Actually Do With Vulnerability Data?](#jacobs) <br> NCSC (UK) |
 | 15:00 &nbsp;             | Break |
-| 12:30 &nbsp;             | Lunch |
-| 15:00 &nbsp;             | Break |
+| 15:30 &nbsp; <br> &nbsp; | [SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT](#jacobs) <br> Tina Rezaei, University of Twente |
+| 16:15 &nbsp; <br> &nbsp; | [Exploitation Saturation and Designing for Detection](#leverett) <br> Éireann Leverett, Concinnity Risks |
 | 17:00 &nbsp;             | End of Day 2 |
+| 18:00 &nbsp;             | Social Event |
 <br>
 <hr>
 
