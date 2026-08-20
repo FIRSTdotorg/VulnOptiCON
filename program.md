@@ -65,7 +65,7 @@ Luxembourg Mariott Hotel Alfa
 | 10:00 &nbsp; <br> &nbsp; <br> &nbsp; | [Group Therapy&mdash;Bring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
 | 10:45 &nbsp;             | Break |
 | 11:15 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
-| 11:45 &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
+| 11:45 &nbsp; <br> &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and<br>Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
 | 12:15 &nbsp; <br> &nbsp; | [The Silent Fix Gap](#cassie) <br> Cassie Crossley, VulNow |
 | 12:30 &nbsp;             | Lunch |
 | 13:30 &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis and her Mysterious Debators |
