@@ -8,7 +8,9 @@ title: "Program | VulnOptiCON 2026"
 
 This year, we’re adding a day (aptly named Day 1, on 23 September) to more broadly cover All the (Vulnerability) Things. The expanded scope of Day 1 will provide a forum for the European vulnerability community to network and discuss vulnerability management, the anticipated AI vulnpocalypse, the realities of building a VDP, legal and policy considerations, and more.
 
-All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC+2). Program is stil subject to change!
+All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC+2).
+
+Reminder! Day 1 is in a different location than Days 2 and 3.
 
 Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
 <br>
@@ -34,7 +36,7 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 | 15:30 &nbsp; <br> &nbsp; | [PSIRT Realities in the Age of AI Discovery](#ktn) <br> Katie Noble, Intel |
 | 16:00 &nbsp; <br> &nbsp; | [I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents](#erick) <br> Erick Galinkin, NVIDIA |
 | 16:30 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
-| 17:00 &nbsp;             | Fin |
+| 17:00 &nbsp;             | End of Day 1 |
 <br>
 <hr>
 
@@ -46,6 +48,7 @@ Luxembourg Mariott Hotel Alfa
 
 |       |      |
 | ---:  | :--- |
+|  8:30 &nbsp;             | Venue open |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
 | 12:30 &nbsp;             | Lunch |
@@ -60,18 +63,23 @@ Luxembourg Mariott Hotel Alfa
 
 |       |      |
 | ---:  | :--- |
+|  8:30 &nbsp;             | Venue open |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | [Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?](#davi) <br> Davi Ottenheimer |
 | 10:00 &nbsp; <br> &nbsp; <br> &nbsp; | [Group Therapy&mdash;Bring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
 | 10:45 &nbsp;             | Break |
 | 11:15 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
-| 11:45 &nbsp; <br> &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and<br>Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
+| 11:45 &nbsp; <br> &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
 | 12:15 &nbsp; <br> &nbsp; | [The Silent Fix Gap](#cassie) <br> Cassie Crossley, VulNow |
 | 12:30 &nbsp;             | Lunch |
 | 13:30 &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis and her Mysterious Debators |
 | 14:20 &nbsp; <br> &nbsp; | [On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging](#trey) <br> Trey Darley, Proper Tools SRL |
 | 16:30 &nbsp; <br> &nbsp; | Closing remarks <br> VulnOptiCON Program Committee |
-| 14:45 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
+| 14:45 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half](#andrey) <br> Andrey Lukashenkov, Vulners |
+| 15:05 &nbsp;             | Break |
+| 15:30 &nbsp; <br> &nbsp; | [The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu](#adulau) <br> Alexandre Dulaunoy, CIRCL |
+| 16:00 &nbsp; <br> &nbsp; | VulnOptiCON 2027, The Next Episode <br> Everyone |
+| 16:15 &nbsp; <br> &nbsp; | Closing Remarks <br> VulnOptiCON Program Commitee |
 <br>
 <hr>
 
@@ -129,8 +137,7 @@ Erick Galinkin, NVIDIA
 
 Suddenly, automated vulnerability discovery has become the eldritch monster stalking the security community. While policymakers and tech startups have proffered countless opinions about regulatory regimes, security teams must deal with the reality that the maxim "attackers are people too" does not necessarily hold any longer. This session offers practical guidance for defenders&mdash;and probably attackers&mdash;on the capabilities of agentic systems to autonomously discover vulnerabilities and conduct operations, and how they have evolved. Where defenders have attempted to incorporate language models, this session offers gentle reminders and at least one hot take about how to limit risk.
 
-*Erick Galinkin is a Research Scientist at NVIDIA, where he spends his time attacking AI systems, defending AI systems, and occasionally trying to determine which of those two things he is doing. His work focuses on the security of large language model-powered systems, and he currently chairs the AI Working Groups for both the CVE and CWE programs. Previously, he led AI research at Rapid7 after working his way through enough different cybersecurity roles to develop opinions about most of them. 
-Erick holds a PhD in Computer Science from Drexel University, where his dissertation explored autonomous cyber defense through game theory, decision theory, and reinforcement learning, as well as an MS in Applied and Computational Mathematics from Johns Hopkins University. When not trying to make computers behave themselves, Erick is a father to three boys, which has provided extensive practical experience with intelligent agents that do not reliably follow instructions.*
+*Erick Galinkin is a Research Scientist at NVIDIA, where he spends his time attacking AI systems, defending AI systems, and occasionally trying to determine which of those two things he is doing. His work focuses on the security of large language model-powered systems, and he currently chairs the AI Working Groups for both the CVE and CWE programs. Previously, he led AI research at Rapid7 after working his way through enough different cybersecurity roles to develop opinions about most of them. Erick holds a PhD in Computer Science from Drexel University, where his dissertation explored autonomous cyber defense through game theory, decision theory, and reinforcement learning, as well as an MS in Applied and Computational Mathematics from Johns Hopkins University. When not trying to make computers behave themselves, Erick is a father to three boys, which has provided extensive practical experience with intelligent agents that do not reliably follow instructions.*
 
 <hr>
 
@@ -181,5 +188,17 @@ Real-world exploitation rarely hinges on a single vulnerability. In practice, at
 Running beneath all three is a foundational epistemological tension: zero-day detection is, by definition, the problem of detecting what cannot yet be named.
 
 *Natalie Kilber is the CEO of Haste, a stealth startup securing the future of compute. She brings more than 16+ years of experience spanning research, industrial control systems, cloud, and technology sectors, with a focus on emergent technologies, product development, and threat hunting. Before founding Haste, Natalie held roles at HARMAN, Microsoft, Siemens Energy, MHP – A Porsche Company, and several startups. She also serves as an external evaluator for EU research funding programs covering quantum, AI, and cybersecurity, and is a frequent speaker at international conferences. Natalie studied physics and computer science at the University of Stuttgart and quantum physics at Cardiff University, and holds a BA from Hult International Business School. She holds multiple industry certifications, including GCFA, CAISP (Certified AI Security Practitioner), Microsoft certifications, and speaks nine languages. Outside of work, she enjoys electric skateboarding, fast cars, cross-country jumping, and anything that involves a little adrenaline.*
+
+<hr>
+
+#### <a name="adulau"></a> The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu
+
+<img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" />
+
+Alexandre Dulaunoy, CIRCL
+
+CPE records are a critical building block of vulnerability management, but in practice they are often incomplete, inconsistent, duplicated, or difficult to map to real-world products. Vendors rename products, projects move between organizations, open-source components appear under multiple identifiers, and the same software may be represented through several names, aliases, CPEs, or package URLs. These inconsistencies create noise for vulnerability scanners, asset inventories, SBOM tooling, CSIRTs, vendors, and analysts: missed vulnerabilities, false positives, duplicated work, and fragile enrichment pipelines. This talk introduces cpe.gcve.eu, a collaborative catalog for vendors, products, CPEs, and PURLs, together with its open-source backend, gcve-eu/cpe-editor. The goal is to move CPE maintenance from opaque, isolated correction processes toward a transparent, reusable, and community-driven workflow. We will explain how the platform supports browsing and searching vendor/product records, proposing new entries and corrections, documenting synonyms and renames, linking CPEs with PURLs, moderating changes, exporting datasets, and integrating the data through APIs. The talk will also discuss the design choices behind the project: deterministic identifiers, documented data formats, proposal workflows, moderation, relationship tracking, and practical reuse by vulnerability intelligence platforms. More broadly, it presents cpe.gcve.eu as an attempt to fix one of the least glamorous but most operationally painful problems in vulnerability management: naming things correctly.
+
+*Alexandre encountered his first computer in the eighties, and he disassembled it to know how the thing works. While pursuing his logical path towards information security and free software, he worked as senior security network consultant at different places (e.g. Ubizen, now Cybertrust). He co-founded a startup called Conostix specialized in information security management, and the past 6 years, he was the manager of global information security at SES, a leading international satellite operator. He is now working at the Luxembourgian Computer Security Incident Response Team (CSIRT) called CIRCL in the research and operational fields. He is also lecturer in information security at Paul-Verlaine University in Metz and the University of Luxembourg. Alexandre enjoys working on projects where there is a blend of “free information”, innovation and a direct social improvement. When not gardening binary streams, he likes facing the reality of ecosystems while gardening or doing photography.*
 
 <hr>
