@@ -23,7 +23,7 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 |       |      |
 | ---:  | :--- |
 |  9:00 &nbsp;             | Venue open |
-|  9:30 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
+|  9:30 &nbsp; <br> &nbsp; | Opening remarks <br> FIRST and the VulnOptiCON Program Committee |
 | 10:00 &nbsp; <br> &nbsp; | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
 | 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
 | 11:30 &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy and Cedric Bonhomme, CIRCL |
@@ -48,7 +48,7 @@ Luxembourg Mariott Hotel Alfa
 | ---:  | :--- |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
-| 10:00 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
+| 12:30 &nbsp;             | Lunch |
 <br>
 <hr>
 
@@ -61,8 +61,17 @@ Luxembourg Mariott Hotel Alfa
 |       |      |
 | ---:  | :--- |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
-| 13:45 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
+|  9:15 &nbsp; <br> &nbsp; | [Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?](#davi) <br> Davi Ottenheimer |
+| 10:00 &nbsp; <br> &nbsp; | [Group Therapy&mdashBring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
+| 10:45 &nbsp;             | Break |
+| 11:15 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
+| 11:45 &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
+| 12:15 &nbsp; <br> &nbsp; | [The Silent Fix Gap](#cassie) <br> Cassie Crossley, VulNow |
+| 12:30 &nbsp;             | Lunch |
+| 13:30 &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis and her Mysterious Debators |
+| 14:20 &nbsp; <br> &nbsp; | [On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging](#trey) <br> Trey Darley, Proper Tools SRL |
 | 16:30 &nbsp; <br> &nbsp; | Closing remarks <br> VulnOptiCON Program Committee |
+| 14:45 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
 <br>
 <hr>
 
