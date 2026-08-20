@@ -53,11 +53,10 @@ Luxembourg Mariott Hotel Alfa
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
 | 10:00 &nbsp; <br> &nbsp; | [The CVE Panopticon: What Happens When The Prisoners Set The Standards?](#jerry) <br> Jerry Gamblin, Empirical Security |
 | 10:30 &nbsp;             | Break |
-| 16:30 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [Beyond Remediation: Integrating Countermeasures into Vulnerability Management](#nestle) <br> Angelo Punturiero, Nestle <br> Martin Karel, Nestle <br> Alexia Sorel, Nestle |
+| 16:30 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [Beyond Remediation: Integrating Countermeasures into Vulnerability Management](#nestle) <br> Angelo Punturiero, Nestlé <br> Martin Karel, Nestlé <br> Alexia Sorel, Nestlé |
 | 11:20 &nbsp; <br> &nbsp; | [Measuring and Forecasting Exploitation Conditions](#ruben) <br> Ruben Bos, Volerion |
 | 12:00 &nbsp;             | Lunch |
 | 13:00 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [You, Me, and CVE: What Does the Future Hold for the CVE Program?](#cve) <br> Jen Ellis, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente <br> Lindsay Cerkovnik, CISA <br> Nuno Rodrigues Carvalho, ENISA |
-| 16:30 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> NCSC (UK) |
 | 14:30 &nbsp; <br> &nbsp; | [What Does NCSC (UK) Actually Do With Vulnerability Data?](#jacobs) <br> NCSC (UK) |
 | 15:00 &nbsp;             | Break |
 | 15:30 &nbsp; <br> &nbsp; | [SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT](#jacobs) <br> Tina Rezaei, University of Twente |
@@ -164,16 +163,6 @@ Regina Joseph
 
 <hr>
 
-#### <a name="andrey"></a> Pick a Number Anyway: Measuring the SBOM...
-
-<img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Andrey Lukashenkov" />
-
-Andrey Lukashenkov, Vulners
-
-*Andrey Lukashenkov works on vulnerability management at Vulners, a bootstrapped and profitable vulnerability-intelligence company. His work sits at the seam where software inventories meet vulnerability data - SBOM enrichment, component-to-vulnerability matching, exploitation signals, and the data-quality problems that quietly undermine every scanner and dashboard downstream. Technical by background and curious by default, he has unlimited access to the Vulners database and uses it to chase down whatever question he is stuck on that week, publishing the results to more than 20,000 practitioners on LinkedIn and, increasingly, from conference stages across Europe. A first-principles thinker with a consistent bias: distrust hype, insist on measurement, prefer engineering over demos. Happy to argue about any of it over coffee.*
-
-<hr>
-
 #### <a name="gcve"></a> GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
 
 <!-- <img style="border:1px solid black;" src="../assets/headshots" width="150" alt="names" /> -->
@@ -201,6 +190,34 @@ Real-world exploitation rarely hinges on a single vulnerability. In practice, at
 Running beneath all three is a foundational epistemological tension: zero-day detection is, by definition, the problem of detecting what cannot yet be named.
 
 *Natalie Kilber is the CEO of Haste, a stealth startup securing the future of compute. She brings more than 16+ years of experience spanning research, industrial control systems, cloud, and technology sectors, with a focus on emergent technologies, product development, and threat hunting. Before founding Haste, Natalie held roles at HARMAN, Microsoft, Siemens Energy, MHP – A Porsche Company, and several startups. She also serves as an external evaluator for EU research funding programs covering quantum, AI, and cybersecurity, and is a frequent speaker at international conferences. Natalie studied physics and computer science at the University of Stuttgart and quantum physics at Cardiff University, and holds a BA from Hult International Business School. She holds multiple industry certifications, including GCFA, CAISP (Certified AI Security Practitioner), Microsoft certifications, and speaks nine languages. Outside of work, she enjoys electric skateboarding, fast cars, cross-country jumping, and anything that involves a little adrenaline.*
+
+<hr>
+
+#### <a name="jacobs"></a> On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
+
+<!-- <img style="border:1px solid black;" src="../assets/trey.jpg" width="150" alt="Trey Darley" /> -->
+
+Trey Darley, Proper Tools SRL
+
+As J. B. S. Haldane observed in his famous 1926 essay: "You can drop a mouse down a thousand-yard mine shaft; and, on arriving at the bottom, it gets a slight shock and walks away, provided that the ground is fairly soft. A rat is killed, a man is broken, a horse splashes." The structural question this talk surfaces is: what happens to this Internet when it gets dropped down a thousand-yard mine shaft sometime in the next decade? Leverett and van der Ham-de Vos recently proved software vulnerabilities are countably infinite. They then reassured us that exploits are not, as fewer than ~6% of CVEs are ever exploited, and only a small subset aimed at market-share monocultures does most of the damage. Their Exploitation Exposure, E = abundance × deployment-share × P(exploit), is the firewall between an infinite problem and a manageably finite one.
+
+Consider one instance of their own CWE-190 (signed overflow past INT_MAX): the 2038 timestamp boundary in Kerberos, beneath the Active Directory identity fabric of nearly every enterprise on Earth. Enterprises deploy AD as a monoculture deliberately — one single trust root is the value proposition — which means the very deployment share that maximises the exposure term also makes remediation a global, fixed-date, flag-day transition rather than a patch. What makes this CWE-190 different is that it is deterministic (time is the trigger; no attacker required) and ubiquitous (one representation, maximal reach) — and there the Abundance Frame's firewall fails: it measures reach, but has no term for whether remediation can be coordinated once reach is known. For this class, ecosystem coordination is the binding constraint. Microsoft has spent more than a decade telling the world to disable NTLM, a self-paced, deadline-free migration that remains impossible in brownfield environments. The Kerberos transition, by contrast, is externally dated, all-at-once, and has no public transition messaging yet. That gap is governance capacity, measured in the wild — Haldane's carrying capacity past which the institutional form no longer supports the function. The whole point of a flag day is lost if you keep it a secret. The mouse walks away from the mineshaft but the horse splashes.
+
+Step back far enough and this isn't a vulnerability in the abundance sense at all. The Internet's coherence rests on what amounts to a vast distributed proof — interlocking RFCs and other standards whose local semantics compose into global interoperability, with the running network as the constructive witness that the proof holds. 2038 stresses that proof at a layer beneath the explicit standards: a coherence invariant — that any two systems' time-dependent validations agree under shared assumptions — that partial migration silently breaks pairwise, holding for some pairs and failing for others depending on who has remediated. The system stays up; it just becomes progressively harder to reason about, coordinate across, and defend. Boehm and Baran proved in 1964 that the network survives the independent loss of half its nodes; no one has retested that resilience against correlated failure at present scale — which is precisely the question the looming mineshaft asks. AI sharpens the forecast twice over: it grows the population (helpful assistants emitting time_t at scale) and migrates it (remediation-by-rewrite trading known open-source or commercial attack surface for unknown bespoke surface). And the brownfield we are asked to upgrade already hosts footholds multiple uncoordinated actors consider strategic, so "remediate for 2038" is also "disturb contested substrate." In this talk I'll ask how we forecast a class that is correlated, self-masking, coherence-level, and contested.
+
+The talk closes with a helpful refresher on Roseannadanna's Law: "It's always something — if it's not one thing, it's another."
+
+*Trey is an independent adviser, recovering sysadmin, facilitator, and writer based in Brussels. He has spent more than twenty-five years working on systems that matter beyond the organisations that operate them. He began close to the machinery: embedded computers, telecommunications equipment, networks, test laboratories, and infrastructure expected to keep working in difficult conditions. Over time, the work moved outward—from individual systems to the organisations responsible for them, and then to the standards, institutions, and communities that allow many organisations to act together.*
+
+<hr>
+
+#### <a name="andrey"></a> Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half
+
+<img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Andrey Lukashenkov" />
+
+Andrey Lukashenkov, Vulners
+
+*Andrey Lukashenkov works on vulnerability management at Vulners, a bootstrapped and profitable vulnerability-intelligence company. His work sits at the seam where software inventories meet vulnerability data - SBOM enrichment, component-to-vulnerability matching, exploitation signals, and the data-quality problems that quietly undermine every scanner and dashboard downstream. Technical by background and curious by default, he has unlimited access to the Vulners database and uses it to chase down whatever question he is stuck on that week, publishing the results to more than 20,000 practitioners on LinkedIn and, increasingly, from conference stages across Europe. A first-principles thinker with a consistent bias: distrust hype, insist on measurement, prefer engineering over demos. Happy to argue about any of it over coffee.*
 
 <hr>
 
