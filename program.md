@@ -62,7 +62,7 @@ Luxembourg Mariott Hotel Alfa
 | ---:  | :--- |
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | [Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?](#davi) <br> Davi Ottenheimer |
-| 10:00 &nbsp; <br> &nbsp; | [Group Therapy&mdashBring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
+| 10:00 &nbsp; <br><br> &nbsp; | [Group Therapy&mdashBring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
 | 10:45 &nbsp;             | Break |
 | 11:15 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
 | 11:45 &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
