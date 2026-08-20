@@ -33,6 +33,7 @@ Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval
 | 15:00 &nbsp;             | Break |
 | 15:30 &nbsp; <br> &nbsp; | [PSIRT Realities in the Age of AI Discovery](#ktn) <br> Katie Noble, Intel |
 | 16:00 &nbsp; <br> &nbsp; | [I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents](#erick) <br> Erick Galinkin, NVIDIA |
+| 16:30 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
 | 17:00 &nbsp;             | Fin |
 <br>
 <hr>
@@ -48,7 +49,6 @@ Luxembourg Mariott Hotel Alfa
 |  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
 |  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
 | 10:00 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM...](#andrey) <br> Andrey Lukashenkov, Vulners |
-| 12:00 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
 <br>
 <hr>
 
