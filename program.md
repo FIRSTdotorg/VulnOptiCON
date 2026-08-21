@@ -511,7 +511,9 @@ Regina Joseph
 
 <!-- cve -->
 
-<!-- ncsc -->
+#### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
+
+A data scientist specialising in the analysis of vulnerability data and focused on applying data-driven approaches to support risk-informed decision-making.
 
 <!-- sok -->
 
