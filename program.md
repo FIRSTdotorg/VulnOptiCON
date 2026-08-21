@@ -406,7 +406,6 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 </div>
 </div>
 <br>
-<br>
 <hr>
 <br>
 
@@ -508,9 +507,11 @@ Regina Joseph
 
 A data scientist specialising in the analysis of vulnerability data and focused on applying data-driven approaches to support risk-informed decision-making.
 
+<hr>
+
 <!-- sok -->
 
-#### <a name="jacobs"></a> Title: Exploitation Saturation and Designing for Detection
+#### <a name="leverett"></a> Title: Exploitation Saturation and Designing for Detection
 
 <img style="border:1px solid black;" src="../assets/leverett.jpg" width="150" alt="Éireann Leverett" />
 
