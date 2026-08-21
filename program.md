@@ -10,7 +10,7 @@ This year, we’re adding a day (aptly named Day 1, on 23 September) to more bro
 
 All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC+2).
 
-Reminder! Day 1 is in a different location than Days 2 and 3.
+Reminder! Day 1 is in a different location than Days 2 and 3. See [Hotel and Venues](hotel).
 
 Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
 <br>
