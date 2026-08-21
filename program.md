@@ -16,6 +16,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <br>
 <hr>
 
+<div class="data-preview">
 <div class="program">
 <h3 id="Day-1">
     <a name="day-1"></a>
@@ -106,7 +107,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 15:30 &nbsp;<br>&nbsp;
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation">a href="#ktn">PSIRT Realities in the Age of AI Discovery</a></p>
+                <p class="cat4 presentation"><a href="#ktn">PSIRT Realities in the Age of AI Discovery</a></p>
                 <p class="presenter">Katie Noble, Intel</p>
             </td>
         </tr>
@@ -422,7 +423,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     </tbody>
 </table>
 </div>
-
+</div>
 
 #### <a name="day-1-keynote"></a> Day 1 Keynote: AI Innovations for Vulnerability Management
 
