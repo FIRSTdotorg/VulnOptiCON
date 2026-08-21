@@ -371,12 +371,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 14:45 &nbsp;<br>&nbsp;
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM &rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
+                <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
                 <p class="presenter">Andrey Lukashenkov, Vulners</p>
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">15:05 &nbsp;</td>
+            <td class="agenda-time">15:00 &nbsp;</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
@@ -549,7 +549,7 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 
 #### <a name="trey"></a> On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
 
-<!-- <img style="border:1px solid black;" src="../assets/trey.jpg" width="150" alt="Trey Darley" /> -->
+<img style="border:1px solid black;" src="../assets/trey.jpg" width="150" alt="Trey Darley" />
 
 Trey Darley, Proper Tools SRL
 
