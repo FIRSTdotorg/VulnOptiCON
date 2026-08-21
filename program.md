@@ -66,17 +66,18 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                11:30 &nbsp;<br>
-                &nbsp;<br>&nbsp;
+                11:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#gcve">GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem</a></p>
-                <p class="presenter">Alexandre Dulaunoy, CIRCL; Cedric Bonhomme, CIRCL</p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL</p>
+                <p class="presenter">Cedric Bonhomme, CIRCL
+</p>
             </td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                12:00 &nbsp;<br>&nbsp;
+                12:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#brinqa">Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management</a></p>
@@ -84,7 +85,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">12:30 &nbsp;</td>
+            <td class="agenda-time">12:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
         </tr>
         <tr class="even">
