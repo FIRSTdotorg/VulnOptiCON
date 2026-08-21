@@ -70,9 +70,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#gcve">GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem</a></p>
-                <p class="presenter">Alexandre Dulaunoy, CIRCL</p>
-                <p class="presenter">Cedric Bonhomme, CIRCL
-</p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL <br> Cedric Bonhomme, CIRCL</p>
             </td>
         </tr>
         <tr class="even">
@@ -227,7 +225,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 14:30 &nbsp;<br>&nbsp;
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#jacobs">What Does NCSC (UK) Actually Do With Vulnerability Data?</a></p>
+                <p class="cat4 presentation"><a href="#ncsc">What Does NCSC (UK) Actually Do With Vulnerability Data?</a></p>
                 <p class="presenter">NCSC (UK)</p>
             </td>
         </tr>
