@@ -14,6 +14,7 @@ Reminder! Day 1 is in a different location than Days 2 and 3. See [Hotel and Ven
 
 Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
 <br>
+<br>
 <hr>
 <br>
 
@@ -413,6 +414,10 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 </table>
 </div>
 </div>
+<br>
+<br>
+<hr>
+<br>
 
 #### <a name="day-1-keynote"></a> Day 1 Keynote: AI Innovations for Vulnerability Management
 
@@ -450,7 +455,7 @@ The vulnerability ecosystem has become critical infrastructure for defenders, ve
 
 #### <a name="carson"></a> Interactive Tabletop Game
 
-Joseph Carson, Segura
+TBC
 
 <hr>
 
@@ -541,8 +546,6 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 <!-- ben -->
 
 <!-- cassie -->
-
-
 
 #### <a name="trey"></a> On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
 
