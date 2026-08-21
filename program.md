@@ -59,7 +59,7 @@ Luxembourg Mariott Hotel Alfa
 | 13:00 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [You, Me, and CVE: What Does the Future Hold for the CVE Program?](#cve) <br> Jen Ellis, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente <br> Lindsay Cerkovnik, CISA <br> Nuno Rodrigues Carvalho, ENISA |
 | 14:30 &nbsp; <br> &nbsp; | [What Does NCSC (UK) Actually Do With Vulnerability Data?](#jacobs) <br> NCSC (UK) |
 | 15:00 &nbsp;             | Break |
-| 15:30 &nbsp; <br> &nbsp; | [SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT](#jacobs) <br> Tina Rezaei, University of Twente |
+| 15:30 &nbsp; <br> &nbsp; | [SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT](#sok) <br> Tina Rezaei, University of Twente |
 | 16:15 &nbsp; <br> &nbsp; | [Exploitation Saturation and Designing for Detection](#leverett) <br> Éireann Leverett, Concinnity Risks |
 | 17:00 &nbsp;             | End of Day 2 |
 | 18:00 &nbsp;             | Social Event |
@@ -85,7 +85,6 @@ Luxembourg Mariott Hotel Alfa
 | 12:30 &nbsp;             | Lunch |
 | 13:30 &nbsp; <br> &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis <br> &hellip;and her Mysterious Debators |
 | 14:20 &nbsp; <br> &nbsp; | [On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging](#trey) <br> Trey Darley, Proper Tools SRL |
-| 16:30 &nbsp; <br> &nbsp; | Closing remarks <br> VulnOptiCON Program Committee |
 | 14:45 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half](#andrey) <br> Andrey Lukashenkov, Vulners |
 | 15:05 &nbsp;             | Break |
 | 15:30 &nbsp; <br> &nbsp; | [The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu](#adulau) <br> Alexandre Dulaunoy, CIRCL |
@@ -117,17 +116,17 @@ As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA r
 
 <hr>
 
-#### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+#### <a name="gcve"></a> GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
 
-<!-- <img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" /> -->
+<!-- <img style="border:1px solid black;" src="../assets/headshots" width="150" alt="names" /> -->
 
-Jay Jacobs, Empirical Security
+Alexandre Dulaunoy and Cedric Bonhomme, CIRCL
 
-Ask security practitioners to define "vulnerability" and you will get a variety of answers that look roughly the same yet fall short in roughly the same places. The definitions aren't wrong, they work well on most cases well enough, but they break down on the edge cases, where the disputes live. This talk looks at the disputed CVEs (especially the high profile ones) and shows how these are just a failure in precise language and definition. A vulnerability is a disposition: a capacity for a security failure that exists in a system, that is waiting to be discovered and have the conditions for exploitation manifest that security failure. Understanding vulnerability as a disposition rather than just a weakness, flaw or an event changes how we classify hard cases, how we describe vulnerabilities, measure risk, and how we should be reporting and naming them.
-
-*Jay Jacobs is a Co-founder and Data Scientist at Empirical Security and Data Scientist Emeritus at Cyentia Institute. Jay is also the lead data scientist for the Exploit Prediction Scoring System (EPSS), a co-chair of the EPSS special interest group at FIRST and chair of the Consumer Working Group within the CVE program. He is also a co-founder of the Society for Information Risk Analysts (SIRA), a not-for-profit association dedicated to advancing risk management practices where he served on the board of directors for several years.*
+The vulnerability ecosystem has become critical infrastructure for defenders, vendors, researchers, and open source maintainers. Yet the way identifiers and vulnerability data are assigned, published, and distributed still reflects a centralized model that does not always match the speed, diversity, and realities of today’s security landscape. This talk introduces GCVE, a new approach to vulnerability identification and tracking designed to support a more open, decentralized, and resilient ecosystem. GCVE rethinks how vulnerability numbers can be allocated, how trusted actors can publish advisories, and how vulnerability information can be synchronized without creating unnecessary bottlenecks or dependency on a single central authority. Through the lens of open source security, the talk will explain why this matters: maintainers need lightweight processes, defenders need timely and structured data, and the community needs a model that encourages participation rather than gatekeeping. It will also show how GCVE and its associated tooling can help make vulnerability tracking more transparent, interoperable, and adaptable. Rather than presenting only a new identifier format, this session will explore a broader idea: how we can build vulnerability tracking as shared public infrastructure for the security community.
 
 <hr>
+
+<!-- brinqa -->
 
 #### <a name="carson"></a> Interactive Tabletop Game
 
@@ -159,6 +158,18 @@ Suddenly, automated vulnerability discovery has become the eldritch monster stal
 
 <hr>
 
+#### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+
+<!-- <img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" /> -->
+
+Jay Jacobs, Empirical Security
+
+Ask security practitioners to define "vulnerability" and you will get a variety of answers that look roughly the same yet fall short in roughly the same places. The definitions aren't wrong, they work well on most cases well enough, but they break down on the edge cases, where the disputes live. This talk looks at the disputed CVEs (especially the high profile ones) and shows how these are just a failure in precise language and definition. A vulnerability is a disposition: a capacity for a security failure that exists in a system, that is waiting to be discovered and have the conditions for exploitation manifest that security failure. Understanding vulnerability as a disposition rather than just a weakness, flaw or an event changes how we classify hard cases, how we describe vulnerabilities, measure risk, and how we should be reporting and naming them.
+
+*Jay Jacobs is a Co-founder and Data Scientist at Empirical Security and Data Scientist Emeritus at Cyentia Institute. Jay is also the lead data scientist for the Exploit Prediction Scoring System (EPSS), a co-chair of the EPSS special interest group at FIRST and chair of the Consumer Working Group within the CVE program. He is also a co-founder of the Society for Information Risk Analysts (SIRA), a not-for-profit association dedicated to advancing risk management practices where he served on the board of directors for several years.*
+
+<hr>
+
 #### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
 <img style="border:1px solid black;" src="../assets/regina-joseph.jpg" width="150" alt="Regina Joseph" />
@@ -169,15 +180,23 @@ Regina Joseph
 
 <hr>
 
-#### <a name="gcve"></a> GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
+<!-- jerry -->
 
-<!-- <img style="border:1px solid black;" src="../assets/headshots" width="150" alt="names" /> -->
+<!-- nestle -->
 
-Alexandre Dulaunoy and Cedric Bonhomme, CIRCL
+<!-- ruben -->
 
-The vulnerability ecosystem has become critical infrastructure for defenders, vendors, researchers, and open source maintainers. Yet the way identifiers and vulnerability data are assigned, published, and distributed still reflects a centralized model that does not always match the speed, diversity, and realities of today’s security landscape. This talk introduces GCVE, a new approach to vulnerability identification and tracking designed to support a more open, decentralized, and resilient ecosystem. GCVE rethinks how vulnerability numbers can be allocated, how trusted actors can publish advisories, and how vulnerability information can be synchronized without creating unnecessary bottlenecks or dependency on a single central authority. Through the lens of open source security, the talk will explain why this matters: maintainers need lightweight processes, defenders need timely and structured data, and the community needs a model that encourages participation rather than gatekeeping. It will also show how GCVE and its associated tooling can help make vulnerability tracking more transparent, interoperable, and adaptable. Rather than presenting only a new identifier format, this session will explore a broader idea: how we can build vulnerability tracking as shared public infrastructure for the security community.
+<!-- cve -->
 
-<hr>
+<!-- ncsc -->
+
+<!-- sok -->
+
+<!-- leverett -->
+
+<!-- davi -->
+
+<!-- therapy --> 
 
 #### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
 
@@ -199,7 +218,13 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 
 <hr>
 
-#### <a name="jacobs"></a> On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
+<!-- ben -->
+
+<!-- cassie -->
+
+
+
+#### <a name="trey"></a> On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
 
 <!-- <img style="border:1px solid black;" src="../assets/trey.jpg" width="150" alt="Trey Darley" /> -->
 
