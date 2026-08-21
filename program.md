@@ -28,7 +28,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         <tr>
             <th class="agenda-time" ></th>
             <th class="sess0" >
-                <span>Day 1 - 23 September</span>
+                <span>Day 1 - 23 September - Belval</span>
             </th>
         </tr>
     </thead>
@@ -72,8 +72,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#gcve">GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem</a></p>
-                <p class="presenter">Alexandre Dulaunoy, CIRCL</p>
-                <p class="presenter">Cedric Bonhomme, CIRCL</p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL; Cedric Bonhomme, CIRCL</p>
             </td>
         </tr>
         <tr class="even">
@@ -143,13 +142,14 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     <a name="day-2"></a>
     Day 2
 </h3>
-<p>24 September</p>
 <p>Luxembourg Mariott Hotel Alfa</p>
 <table>
     <thead>
         <tr>
             <th class="agenda-time"></th>
-            <th class="sess0 not-empty"></th>
+            <th class="sess0" >
+                <span>Day 2 - 24 September - Mariott Alfa</span>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -196,9 +196,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#nestle">Beyond Remediation: Integrating Countermeasures into Vulnerability Management</a></p>
-                <p class="presenter">Angelo Punturiero, Nestlé</p>
-                <p class="presenter">Martin Karel, Nestlé</p>
-                <p class="presenter">Alexia Sorel, Nestlé</p>
+                <p class="presenter">Angelo Punturiero, Nestlé; Martin Karel, Nestlé; Alexia Sorel, Nestlé</p>
             </td>
         </tr>
         <tr class="odd">
@@ -223,10 +221,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#cve">You, Me, and CVE: What Does the Future Hold for the CVE Program?</a></p>
-                <p class="presenter">Jen Ellis, NextJen Security</p>
-                <p class="presenter">Jeroen van der Ham-de Vos, University of Twente</p>
-                <p class="presenter">Lindsay Cerkovnik, CISA </p>
-                <p class="presenter">Nuno Rodrigues Carvalho, ENISA</p>
+                <p class="presenter">Jen Ellis, NextJen Security; Jeroen van der Ham-de Vos, University of Twente; Lindsay Cerkovnik, CISA ; Nuno Rodrigues Carvalho, ENISA</p>
             </td>
         </tr>
         <tr class="even">
@@ -278,13 +273,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     <a name="day-3"></a>
     Day 3
 </h3>
-<p>25 September</p>
 <p>Luxembourg Mariott Hotel Alfa</p>
 <table>
     <thead>
         <tr>
             <th class="agenda-time"></th>
-            <th class="sess0 not-empty"></th>
+            <th class="sess0 not-empty">Day 3 - 25 September - Mariott Alfa</th>
         </tr>
     </thead>
     <tbody>
@@ -317,8 +311,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#therapy">Group Therapy &mdash;Bring Your AI Uncertainty and Pain</a></p>
-                <p class="presenter">Alexandre Dulaunoy, CIRCL </p>
-                <p class="presenter">Claus Cramon Houmann</p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL ; Claus Cramon Houmann</p>
             </td>
         </tr>
         <tr class="odd">
@@ -363,8 +356,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#zap">Lightning Debates &mdash;Bring Us Your Topics!</a></p>
-                <p class="presenter">Jen Ellis </p>
-                <p class="presenter">&hellip;and her Mysterious Debators</p>
+                <p class="presenter">Jen Ellis; &hellip;and her Mysterious Debators</p>
             </td>
         </tr>
         <tr class="odd">
