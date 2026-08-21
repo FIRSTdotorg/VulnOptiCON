@@ -105,7 +105,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 15:30 &nbsp;<br>&nbsp;
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#ktn">PSIRT Realities in the Age of AI Discovery</a></p>
+                <p class="cat4 presentation"><a href="#ktn">Drowning in Disclosure: The Operational Reality of Vulnerability Response</a></p>
                 <p class="presenter">Katie Noble, Intel</p>
             </td>
         </tr>
@@ -456,13 +456,13 @@ Joseph Carson, Segura
 
 <hr>
 
-#### <a name="ktn"></a> PSIRT Realities in the Age of AI Discovery
+#### <a name="ktn"></a> Drowning in Disclosure: The Operational Reality of Vulnerability Response
 
 <img style="border:1px solid black;" src="../assets/ktn.jpg" width="150" alt="Katie Noble" />
 
 Katie Noble, Intel
 
-Modern PSIRTs face a growing imbalance between vulnerability demand and defensive capacity. Teams must triage an endless stream of reports of varying quality, coordinate remediation across complex products and supply chains, respond to active exploitation, and satisfy expanding regulatory obligations, all with finite resources and, regrettably, finite hours in the day. Releasing a patch is only part of the challenge. Patch fatigue, deployment complexity, incomplete data, disclosure deadlines, and competing business priorities can prevent vulnerability activity from producing meaningful risk reduction. Emerging technologies may accelerate vulnerability discovery, but finding more problems does not magically create more engineers to fix them. This 25-minute talk examines how PSIRTs can forecast demand, identify operational bottlenecks, prioritize work based on exploitation and impact, and measure defensive capacity rather than celebrate ever-growing vulnerability counts. The central question is not how many vulnerabilities an organization can process, but whether limited resources are being directed toward the actions most likely to reduce real-world harm.
+Modern PSIRTs face a growing imbalance between vulnerability demand and defensive capacity. Teams must triage an endless stream of reports of varying quality, coordinate remediation across complex products and supply chains, respond to active exploitation, and satisfy expanding regulatory obligations, all with finite resources and, regrettably, finite hours in the day. Releasing a patch is only part of the challenge. Patch fatigue, deployment complexity, incomplete data, disclosure deadlines, and competing business priorities can prevent vulnerability activity from producing meaningful risk reduction. Emerging technologies may accelerate vulnerability discovery, but finding more problems does not magically create more engineers to fix them. This talk examines how PSIRTs can forecast demand, identify operational bottlenecks, prioritize work based on exploitation and impact, and measure defensive capacity rather than celebrate ever-growing vulnerability counts. The central question is not how many vulnerabilities an organization can process, but whether limited resources are being directed toward the actions most likely to reduce real-world harm.
 
 *Katie serves as a CVE Program Board, Bug Bounty Community of Interest Founder, and Hacking Policy Council Founding member. She is a passionate defensive cybersecurity community activist, she is regularly involved is community driven projects and is most happy when she is able to effect positive progress in cyber defense. In her day job Katie Noble serves as a Director of PSIRT, specializing in Global Secretarial Policy and Industry Engagement and Bug Bounty, at a fortune 50 Technology Company. Prior to joining private sector, Katie spent over 15 years in the US Government. Most recently as the Section Chief of Vulnerability Management and Coordination at the Department of Homeland Security, Cyber and Infrastructure Security Agency (CISA). Her team is credited with the coordination and public disclosure of 20,000+ cybersecurity vulnerabilities within a two-year period. During her government tenure, in roles spanning Intelligence Analyst for the National Intelligence Community to Senior Policy Advisor for White House led National Security Council Cyber programs, Katie’s work directly impacted decision making for government agencies in the United States, United Kingdom, Canada, and Australia.*
 
