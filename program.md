@@ -14,12 +14,14 @@ Reminder! Day 1 is in a different location than Days 2 and 3. See [Hotel and Ven
 
 Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3](#day-3) (25 September)
 <br>
+<hr>
+<br>
 
 <div class="data-preview">
 <div class="program">
 <h3 id="Day-1">
     <a name="day-1"></a>
-    Day 1: 23 September, Belval
+    Day 1: 23 September
 </h3>
 <p>Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette</p>
 <table>
@@ -137,16 +139,14 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 <h3 id="Day-2">
     <a name="day-2"></a>
-    Day 2
+    Day 2: 24 September
 </h3>
 <p>Luxembourg Mariott Hotel Alfa</p>
 <table>
     <thead>
         <tr>
             <th class="agenda-time"></th>
-            <th class="sess0" >
-                <span>Day 2 - 24 September - Mariott Alfa</span>
-            </th>
+            <th class="sess0" ></th>
         </tr>
     </thead>
     <tbody>
@@ -268,14 +268,14 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 
 <h3 id="Day-3">
     <a name="day-3"></a>
-    Day 3
+    Day 3: 25 September
 </h3>
 <p>Luxembourg Mariott Hotel Alfa</p>
 <table>
     <thead>
         <tr>
             <th class="agenda-time"></th>
-            <th class="sess0 not-empty">Day 3 - 25 September - Mariott Alfa</th>
+            <th class="sess0"> </th>
         </tr>
     </thead>
     <tbody>
