@@ -88,20 +88,20 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                13:30 &nbsp;<br>&nbsp;
+                13:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#carson">Interactive Tabletop Game</a></p>
-                <p class="presenter">Joseph Carson, Segura</p>
+                <p class="cat4 presentation"><a href="#itg">Interactive Tabletop Game</a></p>
+                <p class="presenter">TBC</p>
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">15:00 &nbsp;</td>
+            <td class="agenda-time">15:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                15:30 &nbsp;<br>&nbsp;
+                15:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#ktn">Drowning in Disclosure: The Operational Reality of Vulnerability Response</a></p>
@@ -110,7 +110,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                16:00 &nbsp;<br>&nbsp;
+                16:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#erick">I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents</a></p>
@@ -119,7 +119,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:30 &nbsp;<br>&nbsp;
+                16:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#jacobs">Broken, Reachable, and Harmful: Rethinking Vulnerabilities</a></p>
@@ -127,7 +127,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">17:00 &nbsp;</td>
+            <td class="agenda-time">17:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">End of Day 1</p></td>
         </tr>
     </tbody>
@@ -150,12 +150,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     </thead>
     <tbody>
         <tr class="odd">
-            <td class="agenda-time">8:30 &nbsp;</td>
+            <td class="agenda-time">8:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Venue open</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                9:00 &nbsp;<br>&nbsp;
+                9:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
@@ -164,7 +164,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                9:15 &nbsp;<br>&nbsp;
+                9:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Day 2 Keynote: <a href="#day-2-keynote">Signal and Noise: What A Decade In Forecasting Science Has Taught Me</a></p>
@@ -173,7 +173,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                10:00 &nbsp;<br>&nbsp;
+                10:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#jerry">The CVE Panopticon: What Happens When The Prisoners Set The Standards?</a></p>
@@ -181,14 +181,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">10:30 &nbsp;</td>
+            <td class="agenda-time">10:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:30 &nbsp;<br>
-                &nbsp;<br>
-                &nbsp;<br>&nbsp;
+                16:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#nestle">Beyond Remediation: Integrating Countermeasures into Vulnerability Management</a></p>
@@ -197,7 +195,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                11:20 &nbsp;<br>&nbsp;
+                11:20
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#ruben">Measuring and Forecasting Exploitation Conditions</a></p>
@@ -205,15 +203,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="even">
-            <td class="agenda-time">12:00 &nbsp;</td>
+            <td class="agenda-time">12:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                13:00 &nbsp;<br>
-                &nbsp;<br>
-                &nbsp;<br>
-                &nbsp;<br>&nbsp;
+                13:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#cve">You, Me, and CVE: What Does the Future Hold for the CVE Program?</a></p>
@@ -222,7 +217,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                14:30 &nbsp;<br>&nbsp;
+                14:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#ncsc">What Does NCSC (UK) Actually Do With Vulnerability Data?</a></p>
@@ -230,12 +225,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">15:00 &nbsp;</td>
+            <td class="agenda-time">15:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                15:30 &nbsp;<br>&nbsp;
+                15:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#sok">SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT</a></p>
@@ -244,7 +239,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                16:15 &nbsp;<br>&nbsp;
+                16:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#leverett">Exploitation Saturation and Designing for Detection</a></p>
@@ -252,11 +247,11 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="even">
-            <td class="agenda-time">17:00 &nbsp;</td>
+            <td class="agenda-time">17:00</td>
             <td class="sess0 not-empty">End of Day 2</td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">18:00 &nbsp;</td>
+            <td class="agenda-time">18:00</td>
             <td class="sess0 not-empty">Social Event</td>
         </tr>
     </tbody>
@@ -279,12 +274,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     </thead>
     <tbody>
         <tr class="odd">
-            <td class="agenda-time">8:30 &nbsp;</td>
+            <td class="agenda-time">8:30</td>
             <td class="sess0 not-empty">Venue open</td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                9:00 &nbsp;<br>&nbsp;
+                9:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
@@ -293,7 +288,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                9:15 &nbsp;<br>&nbsp;
+                9:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#davi">Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?</a></p>
@@ -302,21 +297,20 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                10:00 &nbsp;<br>
-                &nbsp;<br>&nbsp;
+                10:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#therapy">Group Therapy &mdash;Bring Your AI Uncertainty and Pain</a></p>
-                <p class="presenter">Alexandre Dulaunoy, CIRCL ; Claus Cramon Houmann</p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann <br> Art Manion</p>
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">10:45 &nbsp;</td>
+            <td class="agenda-time">10:45</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                11:15 &nbsp;<br>&nbsp;
+                11:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#nacho">Detecting What Cannot Yet Be Named &mdash;Can We Optimize the Vulnerability Ecoystem?</a></p>
@@ -325,7 +319,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                11:45 &nbsp;<br>&nbsp;
+                11:45
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#ben">CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns</a></p>
@@ -334,7 +328,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                12:15 &nbsp;<br>&nbsp;
+                12:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#cassie">The Silent Fix Gap</a></p>
@@ -342,22 +336,21 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">12:30 &nbsp;</td>
+            <td class="agenda-time">12:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                13:30 &nbsp;<br>
-                &nbsp;<br>&nbsp;
+                13:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#zap">Lightning Debates &mdash;Bring Us Your Topics!</a></p>
-                <p class="presenter">Jen Ellis; &hellip;and her Mysterious Debators</p>
+                <p class="presenter">Jen Ellis, NextJen Security <br> &hellip;and her Mysterious Debators</p>
             </td>
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                14:20 &nbsp;<br>&nbsp;
+                14:20
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#trey">On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging</a></p>
@@ -366,7 +359,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                14:45 &nbsp;<br>&nbsp;
+                14:45
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
@@ -374,12 +367,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">15:00 &nbsp;</td>
+            <td class="agenda-time">15:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                15:30 &nbsp;<br>&nbsp;
+                15:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#adulau">The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu</a></p>
@@ -388,7 +381,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                16:00 &nbsp;<br>&nbsp;
+                16:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">VulnOptiCON 2027, The Next Episode</p>
@@ -397,7 +390,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:15 &nbsp;<br>&nbsp;
+                16:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Closing Remarks</p>
@@ -405,7 +398,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">16:30 &nbsp;</td>
+            <td class="agenda-time">16:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Fin</p></td>
         </tr>
     </tbody>
@@ -517,7 +510,17 @@ A data scientist specialising in the analysis of vulnerability data and focused 
 
 <!-- sok -->
 
-<!-- leverett -->
+#### <a name="jacobs"></a> Title: Exploitation Saturation and Designing for Detection
+
+<!-- <img style="border:1px solid black;" src="../assets/leverett.jpg" width="150" alt="Éireann Leverett" /> -->
+
+Éireann Leverett, Concinnity Risks
+
+There's a limit to how many CVEs are necessary to exploit a product successfully, and we think of this as exploitation saturation. We believe it is an ecosystem limiter on how many CVEs will see active exploitation, and needs a community consensus definition. Another limit that will be useful is how quickly we can write detection signatures for new CVEs and exploits. We want to explore this with the community to stay ahead of the game.
+
+*Éireann Leverett works on the parts of cyber risk that refuse to behave: the fat tails, the correlated losses, and the vulnerabilities nobody has found yet. As Founder and CTO of Concinnity Risks he builds the Extortion Loss Model, a ransomware catastrophe model on the Oasis framework that prices extortion loss across 245 countries. He leads the Vulnerability Forecasting Team at FIRST.org, Founded the Ransomware and Cyber Insurance SIGs there, and has published on actuarial methods for cyber, entity resolution, and ransomware economics. He is a cyber risk entrepreneur, and long term DFIR professional. With an Edinburgh BEng and Cambridge MPhil; he can occasionally found arguing that the set of vulnerabilities in a program is countably infinite. He once placed second in an Éireann Leverett impersonation contest.*
+
+<hr>
 
 <!-- davi -->
 
