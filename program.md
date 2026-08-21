@@ -571,6 +571,20 @@ The talk closes with a helpful refresher on Roseannadanna's Law: "It's always so
 
 Andrey Lukashenkov, Vulners
 
+By the time we meet at VulnOptiCon, the EU Cyber Resilience Act's Article 14 reporting obligations will have been operational for roughly two weeks. The regulation describes a continuous machine-readable pipeline: component identifier (SBOM)&rarr;matched vulnerability (Art. 3(40))&rarr;exploitable in your operational context (Art. 3(41))&rarr;actively exploited (Art. 3(42))&rarr;24-hour CSIRT and ENISA early warning. Policy text describes the output. The engineering (and VulnOptiCon) question is: what is the failure rate at each hop, and what does the bucket at the end actually contain?
+
+This talk walks every hop on a single real container SBOM (insecure-app: 11,725 SBOM entries&rarr;677 packages with PURLs&rarr;three ecosystems: deb, Python, Go) and puts empirical numbers on each:
+
+* Matching disagreement. Same SBOM, several scanners, varied overlap, and not always in the direction you'd expect. Different identifier paths (CPE vs. PURL), different advisory databases, and different matching logic produce different defensible answers on the same components. The disagreement isn't noise; it's a measurement of which corner of the ecosystem each tool can see.
+
+* Multi-source divergence in one component. Article 13(7) and Commission Guidance §211 push you toward multi-database monitoring, but the databases don't speak the same identifier dialect, and some have no version filtering at all. Querying the same component across PURL-native, CPE-native, and EUVD-proxy sources returns different sets, and the differences are systematic: each database's coverage model leaves its own shape in the result.
+
+* Scanner blind spots in properly versioned code. Even when an SBOM identifier is clean - no pseudo-versions, no escaped slashes, no scoped-name pathologies - the PURL&rarr;CPE translation inside the scanner can lose the namespace, and the component drops out of NVD-based tooling entirely. The blind spot lives in the translation, not in the source data; properly versioned does not mean reliably matched.
+
+The novel contribution for VulnOptiCon is not the pipeline (Article 14 describes that). It is the measurement layer over the pipeline, anchored on the empirical numbers above, with explicit failure-rate metrics at each hop. I will argue that the right CRA defense is not the final reporting bucket - it is the process. The talk's stated posture: "Sources will contradict. You will have to be opinionated. Your CRA defense is in the process, not the number. This is not a finish line. It's a treadmill."
+
+The talk assumes you already know CVSS, EPSS, KEV, VEX, SBOM, and PURL and that you have already been frustrated by what happens when you try to make them cooperate.
+
 *Andrey Lukashenkov works on vulnerability management at Vulners, a bootstrapped and profitable vulnerability-intelligence company. His work sits at the seam where software inventories meet vulnerability data - SBOM enrichment, component-to-vulnerability matching, exploitation signals, and the data-quality problems that quietly undermine every scanner and dashboard downstream. Technical by background and curious by default, he has unlimited access to the Vulners database and uses it to chase down whatever question he is stuck on that week, publishing the results to more than 20,000 practitioners on LinkedIn and, increasingly, from conference stages across Europe. A first-principles thinker with a consistent bias: distrust hype, insist on measurement, prefer engineering over demos. Happy to argue about any of it over coffee.*
 
 <hr>
