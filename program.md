@@ -34,13 +34,12 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     </thead>
     <tbody>
         <tr class="odd">
-            <td class="agenda-time">9:00 &nbsp;</td>
+            <td class="agenda-time">9:00</td>
             <td class="sess0 not-empty">Venue open</td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                9:30 &nbsp;<br>
-                &nbsp;<br>&nbsp;
+                9:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
@@ -49,7 +48,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                10:00 &nbsp;<br>&nbsp;
+                10:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Day 1 Keynote: <a href="#day-1-keynote">AI Innovations for Vulnerability Management</a></p>
@@ -58,7 +57,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                11:00 &nbsp;<br>&nbsp;
+                11:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#enisa">Establishing a Unified Model for EU Vulnerability Services</a></p>
