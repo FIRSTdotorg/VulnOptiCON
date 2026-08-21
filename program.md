@@ -519,7 +519,7 @@ Regina Joseph
 
 <!-- davi -->
 
-<!-- therapy --> 
+<!-- therapy -->
 
 #### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
 
