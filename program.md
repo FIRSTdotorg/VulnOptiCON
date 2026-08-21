@@ -369,7 +369,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 14:45 &nbsp;<br>&nbsp;
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
+                <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
                 <p class="presenter">Andrey Lukashenkov, Vulners</p>
             </td>
         </tr>
@@ -565,21 +565,21 @@ The talk closes with a helpful refresher on Roseannadanna's Law: "It's always so
 
 <hr>
 
-#### <a name="andrey"></a> Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half
+#### <a name="andrey"></a> Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half
 
 <img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Andrey Lukashenkov" />
 
 Andrey Lukashenkov, Vulners
 
-By the time we meet at VulnOptiCon, the EU Cyber Resilience Act's Article 14 reporting obligations will have been operational for roughly two weeks. The regulation describes a continuous machine-readable pipeline: component identifier (SBOM)&rarr;matched vulnerability (Art. 3(40))&rarr;exploitable in your operational context (Art. 3(41))&rarr;actively exploited (Art. 3(42))&rarr;24-hour CSIRT and ENISA early warning. Policy text describes the output. The engineering (and VulnOptiCon) question is: what is the failure rate at each hop, and what does the bucket at the end actually contain?
+By the time we meet at VulnOptiCon, the EU Cyber Resilience Act's Article 14 reporting obligations will have been operational for roughly two weeks. The regulation describes a continuous machine-readable pipeline: component identifier (SBOM) &rarr; matched vulnerability (Art. 3(40)) &rarr; exploitable in your operational context (Art. 3(41)) &rarr; actively exploited (Art. 3(42)) &rarr; 24-hour CSIRT and ENISA early warning. Policy text describes the output. The engineering (and VulnOptiCon) question is: what is the failure rate at each hop, and what does the bucket at the end actually contain?
 
-This talk walks every hop on a single real container SBOM (insecure-app: 11,725 SBOM entries&rarr;677 packages with PURLs&rarr;three ecosystems: deb, Python, Go) and puts empirical numbers on each:
+This talk walks every hop on a single real container SBOM (insecure-app: 11,725 SBOM entries &rarr; 677 packages with PURLs &rarr; three ecosystems: deb, Python, Go) and puts empirical numbers on each:
 
 * Matching disagreement. Same SBOM, several scanners, varied overlap, and not always in the direction you'd expect. Different identifier paths (CPE vs. PURL), different advisory databases, and different matching logic produce different defensible answers on the same components. The disagreement isn't noise; it's a measurement of which corner of the ecosystem each tool can see.
 
-* Multi-source divergence in one component. Article 13(7) and Commission Guidance §211 push you toward multi-database monitoring, but the databases don't speak the same identifier dialect, and some have no version filtering at all. Querying the same component across PURL-native, CPE-native, and EUVD-proxy sources returns different sets, and the differences are systematic: each database's coverage model leaves its own shape in the result.
+* Multi-source divergence in one component. Article 13(7) and Commission Guidance &sect;211 push you toward multi-database monitoring, but the databases don't speak the same identifier dialect, and some have no version filtering at all. Querying the same component across PURL-native, CPE-native, and EUVD-proxy sources returns different sets, and the differences are systematic: each database's coverage model leaves its own shape in the result.
 
-* Scanner blind spots in properly versioned code. Even when an SBOM identifier is clean - no pseudo-versions, no escaped slashes, no scoped-name pathologies - the PURL&rarr;CPE translation inside the scanner can lose the namespace, and the component drops out of NVD-based tooling entirely. The blind spot lives in the translation, not in the source data; properly versioned does not mean reliably matched.
+* Scanner blind spots in properly versioned code. Even when an SBOM identifier is clean - no pseudo-versions, no escaped slashes, no scoped-name pathologies - the PURL &rarr; CPE translation inside the scanner can lose the namespace, and the component drops out of NVD-based tooling entirely. The blind spot lives in the translation, not in the source data; properly versioned does not mean reliably matched.
 
 The novel contribution for VulnOptiCon is not the pipeline (Article 14 describes that). It is the measurement layer over the pipeline, anchored on the empirical numbers above, with explicit failure-rate metrics at each hop. I will argue that the right CRA defense is not the final reporting bucket - it is the process. The talk's stated posture: "Sources will contradict. You will have to be opinionated. Your CRA defense is in the process, not the number. This is not a finish line. It's a treadmill."
 
