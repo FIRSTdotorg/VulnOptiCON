@@ -16,83 +16,413 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <br>
 <hr>
 
-### <a name="day-1"></a> Day 1
-
-23 September
-
-Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette
-
-|       |      |
-| ---:  | :--- |
-|  9:00 &nbsp;             | Venue open |
-|  9:30 &nbsp; <br> &nbsp; <br> &nbsp; | Opening remarks <br> FIRST <br> VulnOptiCON Program Committee |
-| 10:00 &nbsp; <br> &nbsp; | Day 1 Keynote: [AI Innovations for Vulnerability Management](#day-1-keynote) <br> Jaya Baloo, AISLE |
-| 11:00 &nbsp; <br> &nbsp; | [Establishing a Unified Model for EU Vulnerability Services](#enisa) <br> Johannes Clos, ENISA |
-| 11:30 &nbsp; <br> &nbsp; <br> &nbsp; | [GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem](#gcve) <br> Alexandre Dulaunoy, CIRCL <br> Cedric Bonhomme, CIRCL |
-| 12:00 &nbsp; <br> &nbsp; | [Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management](#brinqa) <br> Ron Dovich, Brinqa |
-| 12:30 &nbsp;             | Lunch |
-| 13:30 &nbsp; <br> &nbsp; | [Interactive Tabletop Game](#carson) <br> Joseph Carson, Segura |
-| 15:00 &nbsp;             | Break |
-| 15:30 &nbsp; <br> &nbsp; | [PSIRT Realities in the Age of AI Discovery](#ktn) <br> Katie Noble, Intel |
-| 16:00 &nbsp; <br> &nbsp; | [I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents](#erick) <br> Erick Galinkin, NVIDIA |
-| 16:30 &nbsp; <br> &nbsp; | [Broken, Reachable, and Harmful: Rethinking Vulnerabilities](#jacobs) <br> Jay Jacobs, Empirical Security |
-| 17:00 &nbsp;             | End of Day 1 |
-<br>
+<div class="program">
+<h3 id="Day-1">
+    <a name="day-1"></a>
+    Day 1
+</h3>
+<p>Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette</p>
+<table class="tbl-program cols2">
+    <thead>
+        <tr>
+            <th class="agenda-time" ></th>
+            <th class="sess0" >
+                <span>Day 1 - 23 September</span>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td class="agenda-time">9:00 &nbsp;</td>
+            <td class="sess0 not-empty">Venue open</td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                9:30 &nbsp;<br>
+                &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">Opening remarks</p>
+                <p class="presenter">FIRST VulnOptiCON Program Committee</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                10:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">Day 1 Keynote: <a href="#day-1-keynote">AI Innovations for Vulnerability Management</a></p>
+                <p class="presenter">Jaya Baloo, AISLE</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                11:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#enisa">Establishing a Unified Model for EU Vulnerability Services</a></p>
+                <p class="presenter">Johannes Clos, ENISA</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                11:30 &nbsp;<br>
+                &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#gcve">GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem</a></p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL</p>
+                <p class="presenter">Cedric Bonhomme, CIRCL</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                12:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#brinqa">Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management</a></p>
+                <p class="presenter">Ron Dovich, Brinqa</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">12:30 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                13:30 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#carson">Interactive Tabletop Game</a></p>
+                <p class="presenter">Joseph Carson, Segura</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">15:00 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                15:30 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">a href="#ktn">PSIRT Realities in the Age of AI Discovery</a></p>
+                <p class="presenter">Katie Noble, Intel</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                16:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#erick">I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents</a></p>
+                <p class="presenter">Erick Galinkin, NVIDIA</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                16:30 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#jacobs">Broken, Reachable, and Harmful: Rethinking Vulnerabilities</a></p>
+                <p class="presenter">Jay Jacobs, Empirical Security</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">17:00 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">End of Day 1</p></td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <br>
+</p>
 <hr>
-
-### <a name="day-2"></a> Day 2
-
-24 September
-
-Luxembourg Mariott Hotel Alfa
-
-|       |      |
-| ---:  | :--- |
-|  8:30 &nbsp;             | Venue open |
-|  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
-|  9:15 &nbsp; <br> &nbsp; | Day 2 Keynote: [Signal and Noise: What A Decade In Forecasting Science Has Taught Me](#day-2-keynote) <br> Regina Joseph |
-| 10:00 &nbsp; <br> &nbsp; | [The CVE Panopticon: What Happens When The Prisoners Set The Standards?](#jerry) <br> Jerry Gamblin, Empirical Security |
-| 10:30 &nbsp;             | Break |
-| 16:30 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [Beyond Remediation: Integrating Countermeasures into Vulnerability Management](#nestle) <br> Angelo Punturiero, Nestlé <br> Martin Karel, Nestlé <br> Alexia Sorel, Nestlé |
-| 11:20 &nbsp; <br> &nbsp; | [Measuring and Forecasting Exploitation Conditions](#ruben) <br> Ruben Bos, Volerion |
-| 12:00 &nbsp;             | Lunch |
-| 13:00 &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; | [You, Me, and CVE: What Does the Future Hold for the CVE Program?](#cve) <br> Jen Ellis, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente <br> Lindsay Cerkovnik, CISA <br> Nuno Rodrigues Carvalho, ENISA |
-| 14:30 &nbsp; <br> &nbsp; | [What Does NCSC (UK) Actually Do With Vulnerability Data?](#jacobs) <br> NCSC (UK) |
-| 15:00 &nbsp;             | Break |
-| 15:30 &nbsp; <br> &nbsp; | [SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT](#sok) <br> Tina Rezaei, University of Twente |
-| 16:15 &nbsp; <br> &nbsp; | [Exploitation Saturation and Designing for Detection](#leverett) <br> Éireann Leverett, Concinnity Risks |
-| 17:00 &nbsp;             | End of Day 2 |
-| 18:00 &nbsp;             | Social Event |
-<br>
+<h3 id="Day-2">
+    <a name="day-2"></a>
+    Day 2
+</h3>
+<p>24 September</p>
+<p>Luxembourg Mariott Hotel Alfa</p>
+<table>
+    <thead>
+        <tr>
+            <th class="agenda-time"></th>
+            <th class="sess0 not-empty"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td class="agenda-time">8:30 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Venue open</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                9:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">Opening remarks</p>
+                VulnOptiCON Program Committee
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                9:15 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">Day 2 Keynote: <a href="#day-2-keynote">Signal and Noise: What A Decade In Forecasting Science Has Taught Me</a></p>
+                <p class="presenter">Regina Joseph</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                10:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#jerry">The CVE Panopticon: What Happens When The Prisoners Set The Standards?</a></p>
+                <p class="presenter">Jerry Gamblin, Empirical Security</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">10:30 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                16:30 &nbsp;<br>
+                &nbsp;<br>
+                &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#nestle">Beyond Remediation: Integrating Countermeasures into Vulnerability Management</a></p>
+                <p class="presenter">Angelo Punturiero, Nestlé</p>
+                <p class="presenter">Martin Karel, Nestlé</p>
+                <p class="presenter">Alexia Sorel, Nestlé</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                11:20 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#ruben">Measuring and Forecasting Exploitation Conditions</a></p>
+                <p class="presenter">Ruben Bos, Volerion</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">12:00 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                13:00 &nbsp;<br>
+                &nbsp;<br>
+                &nbsp;<br>
+                &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#cve">You, Me, and CVE: What Does the Future Hold for the CVE Program?</a></p>
+                <p class="presenter">Jen Ellis, NextJen Security</p>
+                <p class="presenter">Jeroen van der Ham-de Vos, University of Twente</p>
+                <p class="presenter">Lindsay Cerkovnik, CISA </p>
+                <p class="presenter">Nuno Rodrigues Carvalho, ENISA</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                14:30 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#jacobs">What Does NCSC (UK) Actually Do With Vulnerability Data?</a></p>
+                <p class="presenter">NCSC (UK)</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">15:00 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                15:30 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#sok">SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT</a></p>
+                <p class="presenter">Tina Rezaei, University of Twente</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                16:15 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#leverett">Exploitation Saturation and Designing for Detection</a></p>
+                <p class="presenter">Éireann Leverett, Concinnity Risks</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">17:00 &nbsp;</td>
+            <td class="sess0 not-empty">End of Day 2</td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">18:00 &nbsp;</td>
+            <td class="sess0 not-empty">Social Event</td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <br>
+</p>
 <hr>
+<h3 id="Day-3">
+    <a name="day-3"></a>
+    Day 3
+</h3>
+<p>25 September</p>
+<p>Luxembourg Mariott Hotel Alfa</p>
+<table>
+    <thead>
+        <tr>
+            <th class="agenda-time"></th>
+            <th class="sess0 not-empty"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td class="agenda-time">8:30 &nbsp;</td>
+            <td class="sess0 not-empty">Venue open</td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                9:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">Opening remarks</p>
+                VulnOptiCON Program Committee
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                9:15 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#davi">Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?</a></p>
+                <p class="presenter">Davi Ottenheimer</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                10:00 &nbsp;<br>
+                &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#therapy">Group Therapy &mdash;Bring Your AI Uncertainty and Pain</a></p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL </p>
+                <p class="presenter">Claus Cramon Houmann</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">10:45 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                11:15 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#nacho">Detecting What Cannot Yet Be Named &mdash;Can We Optimize the Vulnerability Ecoystem?</a></p>
+                <p class="presenter">Natalie Kilber, Haste</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                11:45 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#ben">CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns</a></p>
+                <p class="presenter">Ben Edwards, Empirical Security</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                12:15 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#cassie">The Silent Fix Gap</a></p>
+                <p class="presenter">Cassie Crossley, VulNow</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">12:30 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                13:30 &nbsp;<br>
+                &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#zap">Lightning Debates &mdash;Bring Us Your Topics!</a></p>
+                <p class="presenter">Jen Ellis </p>
+                <p class="presenter">&hellip;and her Mysterious Debators</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                14:20 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#trey">On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging</a></p>
+                <p class="presenter">Trey Darley, Proper Tools SRL</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                14:45 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM &rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
+                <p class="presenter">Andrey Lukashenkov, Vulners</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">15:05 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                15:30 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#adulau">The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu</a></p>
+                <p class="presenter">Alexandre Dulaunoy, CIRCL</p>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">
+                16:00 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">VulnOptiCON 2027, The Next Episode</p>
+                <p class="presenter">Everyone</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                16:15 &nbsp;<br>&nbsp;
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation">Closing Remarks</p>
+                VulnOptiCON Program Commitee
+            </td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">16:30 &nbsp;</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Fin</p></td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
-### <a name="day-3"></a> Day 3
-
-25 September
-
-Luxembourg Mariott Hotel Alfa
-
-|       |      |
-| ---:  | :--- |
-|  8:30 &nbsp;             | Venue open |
-|  9:00 &nbsp; <br> &nbsp; | Opening remarks <br> VulnOptiCON Program Committee |
-|  9:15 &nbsp; <br> &nbsp; | [Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?](#davi) <br> Davi Ottenheimer |
-| 10:00 &nbsp; <br> &nbsp; <br> &nbsp; | [Group Therapy&mdash;Bring Your AI Uncertainty and Pain](#therapy) <br> Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann |
-| 10:45 &nbsp;             | Break |
-| 11:15 &nbsp; <br> &nbsp; | [Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?](#nacho) <br> Natalie Kilber, Haste |
-| 11:45 &nbsp; <br> &nbsp; | [CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns](#ben) <br> Ben Edwards, Empirical Security |
-| 12:15 &nbsp; <br> &nbsp; | [The Silent Fix Gap](#cassie) <br> Cassie Crossley, VulNow |
-| 12:30 &nbsp;             | Lunch |
-| 13:30 &nbsp; <br> &nbsp; <br> &nbsp; | [Lightning Debates&mdash;Bring Us Your Topics!](#zap) <br> Jen Ellis <br> &hellip;and her Mysterious Debators |
-| 14:20 &nbsp; <br> &nbsp; | [On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging](#trey) <br> Trey Darley, Proper Tools SRL |
-| 14:45 &nbsp; <br> &nbsp; | [Pick a Number Anyway: Measuring the SBOM&rarr;CRA Article 14 Pipeline When Your Tools Disagree by Half](#andrey) <br> Andrey Lukashenkov, Vulners |
-| 15:05 &nbsp;             | Break |
-| 15:30 &nbsp; <br> &nbsp; | [The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu](#adulau) <br> Alexandre Dulaunoy, CIRCL |
-| 16:00 &nbsp; <br> &nbsp; | VulnOptiCON 2027, The Next Episode <br> Everyone |
-| 16:15 &nbsp; <br> &nbsp; | Closing Remarks <br> VulnOptiCON Program Commitee |
-| 16:30 &nbsp;             | Fin |
-<br>
-<hr>
 
 #### <a name="day-1-keynote"></a> Day 1 Keynote: AI Innovations for Vulnerability Management
 
