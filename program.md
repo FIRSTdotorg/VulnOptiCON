@@ -19,16 +19,14 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
 <div class="program">
 <h3 id="Day-1">
     <a name="day-1"></a>
-    Day 1
+    Day 1: 23 September, Belval
 </h3>
 <p>Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette</p>
 <table>
     <thead>
         <tr>
             <th class="agenda-time" ></th>
-            <th class="sess0" >
-                <span>Day 1 - 23 September - Belval</span>
-            </th>
+            <th class="sess0" ></th>
         </tr>
     </thead>
     <tbody>
