@@ -3,7 +3,7 @@
 title: "Program | VulnOptiCON 2026"
 ...
 -->
-# Program
+# Program and Speakers
 ## VulnOptiCON 2026
 
 This year, we’re adding a day (aptly named Day 1, on 23 September) to more broadly cover All the (Vulnerability) Things. The expanded scope of Day 1 will provide a forum for the European vulnerability community to network and discuss vulnerability management, the anticipated AI vulnpocalypse, the realities of building a VDP, legal and policy considerations, and more.
