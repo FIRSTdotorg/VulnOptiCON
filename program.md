@@ -22,7 +22,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
     Day 1
 </h3>
 <p>Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette</p>
-<table class="tbl-program cols2">
+<table>
     <thead>
         <tr>
             <th class="agenda-time" ></th>
