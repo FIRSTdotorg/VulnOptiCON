@@ -476,7 +476,7 @@ Suddenly, automated vulnerability discovery has become the eldritch monster stal
 
 #### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
 
-<!-- <img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" /> -->
+<img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" />
 
 Jay Jacobs, Empirical Security
 
@@ -512,7 +512,7 @@ A data scientist specialising in the analysis of vulnerability data and focused 
 
 #### <a name="jacobs"></a> Title: Exploitation Saturation and Designing for Detection
 
-<!-- <img style="border:1px solid black;" src="../assets/leverett.jpg" width="150" alt="Éireann Leverett" /> -->
+<img style="border:1px solid black;" src="../assets/leverett.jpg" width="150" alt="Éireann Leverett" />
 
 Éireann Leverett, Concinnity Risks
 
