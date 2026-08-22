@@ -511,7 +511,7 @@ A data scientist specialising in the analysis of vulnerability data and focused 
 
 <!-- sok -->
 
-#### <a name="leverett"></a> Title: Exploitation Saturation and Designing for Detection
+#### <a name="leverett"></a> Exploitation Saturation and Designing for Detection
 
 <img style="border:1px solid black;" src="../assets/leverett.jpg" width="150" alt="Éireann Leverett" />
 
@@ -523,7 +523,17 @@ There's a limit to how many CVEs are necessary to exploit a product successfully
 
 <hr>
 
-<!-- davi -->
+#### <a name="davi"></a> Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?
+
+<img style="border:1px solid black;" src="../assets/davi.png" width="150" alt="Davi Ottenheimer" />
+
+Davi Ottenheimer
+
+A CDN reported in late 2025 that more than half its traffic uses hybrid key agreement and wrote a story about being halfway to post-quantum. We started measuring origin servers to check and found the headlines about adoption are an inflated client-side figure distracting from a near-zero origin deployment. Over the past year [https://pqprobe.com/dashboard/nis2](https://pqprobe.com/dashboard/nis2) has been tracking EU origin infrastructure (NIS2 essential entities, named vendors, BSI C5 attested cloud providers) with a rescore on every probe, producing a trajectory map to compare with the snapshots. This talk presents the latest trajectory data: where things started, the slope over time, and what the observed remediation velocity implies for the CNSA 2.0 and BSI deadlines of 2027, 2030, and 2035. Data is segmented by industry and state. The forecast is a remediation rate for the known, dated exposure (HNDL) across a stable population, scored against each regulatory deadline. We focus on where and why a slope will go flat, where and when it degraded, and which areas are moving fast enough to hit the looming deadlines.
+
+*Davi Ottenheimer operates a new EU-based security research and consulting practice focused on AI harness safety and post-quantum cryptography readiness. He builds and operates a PQC tool and grading platform that tracks migration posture across NIS2 Annex I and II sectors in Europe. Previously as head of security for Inrupt (Tim Berners-Lee's future vision for the Web) he released the "Charlie" secure personal assistant running the Solid protocol, designed for TEE-based models. Before that he was head of security at MongoDB, where he built field level encryption, the company's CVE Numbering Authority and coordinated disclosure program, and established their CISO function. His current research examines insecure-by-default patterns, data integrity breaches, and the gap between post-quantum adoption claims and measurable deployment. He has presented at security conferences across Europe and North America for twenty years and has been part of the BSides community since its founding. He bloviates at [flyingpenguin.com](https://www.flyingpenguin.com/).*
+
+<hr>
 
 <!-- therapy -->
 
