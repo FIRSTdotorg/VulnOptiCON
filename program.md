@@ -547,7 +547,7 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
         </td>
         <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" /><br>
-            Alexandre Dulaunoy, CIRCL
+            <a href="#adulau-bio"Alexandre Dulaunoy, CIRCL</a>
         </td>
         <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/art.jpg" width="150" alt="Art Manion" /><br>
@@ -557,6 +557,8 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 </table>
 
 There's been a lot of hype and fear, uncertainty, and doubt (FUD) around rapidly evolving AI capabilities to discover and exploit vulnerabilities. Despite the huge amount of misreporting, misunderstanding, and uncertainty, the aggregate impact of LLMs over the last 12+ months IS a significant step change for defenders. We're only just beginning to see the new reality; however, as defenders, we must quickly adjust to it and mitigate the shifting risk landscape. Mythos and various other AI models have created enough noise to overwhelm even large and well-resourced corporations. We're now starting to see signs of meaningful change in conversations and activity to tackle this. This requires substantially reframing current understandings, baselines for security behaviour and processes, budgets and risk management frameworks. What does a machine-speed response look like? Can such a response be useful, and if so, how and when? Come join our group therapy session on this timely issue of AI pain and uncertainty in the vulnerability ecosystem. We'll have a frank, guided discussion with as many participants as want to join in, kicked-off by Claus and Alexandre sharing their own experiences, concerns, and response plans. Bring your perspectives on the emerging realities, predictions of what is to come, and suggestions for ideas and architecture to respond to the evolving risk.
+
+<hr>
 
 #### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
 
@@ -632,6 +634,7 @@ Alexandre Dulaunoy, CIRCL
 
 CPE records are a critical building block of vulnerability management, but in practice they are often incomplete, inconsistent, duplicated, or difficult to map to real-world products. Vendors rename products, projects move between organizations, open-source components appear under multiple identifiers, and the same software may be represented through several names, aliases, CPEs, or package URLs. These inconsistencies create noise for vulnerability scanners, asset inventories, SBOM tooling, CSIRTs, vendors, and analysts: missed vulnerabilities, false positives, duplicated work, and fragile enrichment pipelines. This talk introduces cpe.gcve.eu, a collaborative catalog for vendors, products, CPEs, and PURLs, together with its open-source backend, gcve-eu/cpe-editor. The goal is to move CPE maintenance from opaque, isolated correction processes toward a transparent, reusable, and community-driven workflow. We will explain how the platform supports browsing and searching vendor/product records, proposing new entries and corrections, documenting synonyms and renames, linking CPEs with PURLs, moderating changes, exporting datasets, and integrating the data through APIs. The talk will also discuss the design choices behind the project: deterministic identifiers, documented data formats, proposal workflows, moderation, relationship tracking, and practical reuse by vulnerability intelligence platforms. More broadly, it presents cpe.gcve.eu as an attempt to fix one of the least glamorous but most operationally painful problems in vulnerability management: naming things correctly.
 
+<a name="adulau-bio">
 *Alexandre encountered his first computer in the eighties, and he disassembled it to know how the thing works. While pursuing his logical path towards information security and free software, he worked as senior security network consultant at different places (e.g. Ubizen, now Cybertrust). He co-founded a startup called Conostix specialized in information security management, and the past 6 years, he was the manager of global information security at SES, a leading international satellite operator. He is now working at the Luxembourgian Computer Security Incident Response Team (CSIRT) called CIRCL in the research and operational fields. He is also lecturer in information security at Paul-Verlaine University in Metz and the University of Luxembourg. Alexandre enjoys working on projects where there is a blend of “free information”, innovation and a direct social improvement. When not gardening binary streams, he likes facing the reality of ecosystems while gardening or doing photography.*
 
 <hr>
