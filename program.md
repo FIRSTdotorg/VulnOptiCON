@@ -433,9 +433,18 @@ As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA r
 
 #### <a name="gcve"></a> GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
 
-<!-- <img style="border:1px solid black;" src="../assets/headshots" width="150" alt="names" /> -->
-
-Alexandre Dulaunoy and Cedric Bonhomme, CIRCL
+<table>
+    <tr>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" /><br>
+            <a href="#adulau-bio">Alexandre Dulaunoy, CIRCL</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/cedric.jpg" width="150" alt="Cedric Bonhomme" /><br>
+            Cedric Bonhomme, CIRCL
+        </td>
+    </tr>
+</table>
 
 The vulnerability ecosystem has become critical infrastructure for defenders, vendors, researchers, and open source maintainers. Yet the way identifiers and vulnerability data are assigned, published, and distributed still reflects a centralized model that does not always match the speed, diversity, and realities of today’s security landscape. This talk introduces GCVE, a new approach to vulnerability identification and tracking designed to support a more open, decentralized, and resilient ecosystem. GCVE rethinks how vulnerability numbers can be allocated, how trusted actors can publish advisories, and how vulnerability information can be synchronized without creating unnecessary bottlenecks or dependency on a single central authority. Through the lens of open source security, the talk will explain why this matters: maintainers need lightweight processes, defenders need timely and structured data, and the community needs a model that encourages participation rather than gatekeeping. It will also show how GCVE and its associated tooling can help make vulnerability tracking more transparent, interoperable, and adaptable. Rather than presenting only a new identifier format, this session will explore a broader idea: how we can build vulnerability tracking as shared public infrastructure for the security community.
 
@@ -536,8 +545,6 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 <hr>
 
 #### <a name="therapy"></a> Group Therapy&mdash;Come and Share Your Fear and Pain Relating to AI and Vulns?
-
-<!-- <img style="border:1px solid black;" src="../assets/nacho.jpg" width="150" alt="Natalie Kilber" /> -->
 
 <table>
     <tr>
