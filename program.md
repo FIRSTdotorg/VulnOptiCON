@@ -300,7 +300,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 10:00
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#therapy">Group Therapy &mdash;Come and Share Your Fear and Pain Relating to AI and Vulns</a></p>
+                <p class="cat4 presentation"><a href="#therapy">Group Therapy&mdash;Come and Share Your Fear and Pain Relating to AI and Vulns</a></p>
                 <p class="presenter">Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann, Internet Librarian <br> Art Manion, Tharros</p>
             </td>
         </tr>
@@ -535,9 +535,19 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 
 <hr>
 
-#### <a name="therapy"></a> Group Therapy &mdash;Come and Share Your Fear and Pain Relating to AI and Vulns?
+#### <a name="therapy"></a> Group Therapy&mdash;Come and Share Your Fear and Pain Relating to AI and Vulns?
 
 <!-- <img style="border:1px solid black;" src="../assets/nacho.jpg" width="150" alt="Natalie Kilber" /> -->
+
+<table>
+    <tr>
+        <td>
+            <img style="border:1px solid black;" src="../assets/claus.png" width="150" alt="Claus Cramon-Houmann" />
+            Claus Cramon-Houmann, Infosec Librarian
+        </td>
+    </tr>
+</table>
+
 
 Claus Cramon-Houmann, Infosec Librarian <br>
 Alexandre Dulaunoy, CIRCL <br>
