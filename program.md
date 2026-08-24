@@ -547,7 +547,7 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
         </td>
         <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" /><br>
-            <a href="#adulau-bio"Alexandre Dulaunoy, CIRCL</a>
+            <a href="#adulau-bio">Alexandre Dulaunoy, CIRCL</a>
         </td>
         <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/art.jpg" width="150" alt="Art Manion" /><br>
