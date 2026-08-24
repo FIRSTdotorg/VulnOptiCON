@@ -542,16 +542,19 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 <table>
     <tr>
         <td>
-            <img style="border:1px solid black;" src="../assets/claus.png" width="150" alt="Claus Cramon-Houmann" />
+            <img style="border:1px solid black;" src="../assets/claus.png" width="150" alt="Claus Cramon-Houmann" /><br>
             Claus Cramon-Houmann, Infosec Librarian
+        </td>
+        <td>
+            <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" /><br>
+            Alexandre Dulaunoy, CIRCL
+        </td>
+        <td>
+            <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Art Manion" /><br>
+            Art Manion, Tharros
         </td>
     </tr>
 </table>
-
-
-Claus Cramon-Houmann, Infosec Librarian <br>
-Alexandre Dulaunoy, CIRCL <br>
-Art Manion, Tharros
 
 There's been a lot of hype and fear, uncertainty, and doubt (FUD) around rapidly evolving AI capabilities to discover and exploit vulnerabilities. Despite the huge amount of misreporting, misunderstanding, and uncertainty, the aggregate impact of LLMs over the last 12+ months IS a significant step change for defenders. We're only just beginning to see the new reality; however, as defenders, we must quickly adjust to it and mitigate the shifting risk landscape. Mythos and various other AI models have created enough noise to overwhelm even large and well-resourced corporations. We're now starting to see signs of meaningful change in conversations and activity to tackle this. This requires substantially reframing current understandings, baselines for security behaviour and processes, budgets and risk management frameworks. What does a machine-speed response look like? Can such a response be useful, and if so, how and when? Come join our group therapy session on this timely issue of AI pain and uncertainty in the vulnerability ecosystem. We'll have a frank, guided discussion with as many participants as want to join in, kicked-off by Claus and Alexandre sharing their own experiences, concerns, and response plans. Bring your perspectives on the emerging realities, predictions of what is to come, and suggestions for ideas and architecture to respond to the evolving risk.
 
