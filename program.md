@@ -300,7 +300,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 10:00
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#therapy">Group Therapy &mdash;Bring Your AI Uncertainty and Pain</a></p>
+                <p class="cat4 presentation"><a href="#therapy">Group Therapy &mdash;Come and Share Your Fear and Pain Relating to AI and Vulns</a></p>
                 <p class="presenter">Alexandre Dulaunoy, CIRCL <br> Claus Cramon Houmann <br> Art Manion</p>
             </td>
         </tr>
@@ -535,7 +535,17 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 
 <hr>
 
-<!-- therapy -->
+#### <a name="therapy"></a> Group Therapy &mdash;Come and Share Your Fear and Pain Relating to AI and Vulns?
+
+<!-- <img style="border:1px solid black;" src="../assets/nacho.jpg" width="150" alt="Natalie Kilber" /> -->
+
+Claus Cramon-Houmann, Infosec Librarian
+Alexandre Dulaunoy, CIRCL
+Art Manion, Tharros
+
+There's been a lot of hype and fear, uncertainty, and doubt (FUD) around rapidly evolving AI capabilities to discover and exploit vulnerabilities. Despite the huge amount of misreporting, misunderstanding, and uncertainty, the aggregate impact of LLMs over the last 12+ months IS a significant step change for defenders. We're only just beginning to see the new reality; however, as defenders, we must quickly adjust to it and mitigate the shifting risk landscape. Mythos and various other AI models have created enough noise to overwhelm even large and well-resourced corporations. We're now starting to see signs of meaningful change in conversations and activity to tackle this. This requires substantially reframing current understandings, baselines for security behaviour and processes, budgets and risk management frameworks. What does a machine-speed response look like? Can such a response be useful, and if so, how and when? Come join our group therapy session on this timely issue of AI pain and uncertainty in the vulnerability ecosystem. We'll have a frank, guided discussion with as many participants as want to join in, kicked-off by Claus and Alexandre sharing their own experiences, concerns, and response plans. Bring your perspectives on the emerging realities, predictions of what is to come, and suggestions for ideas and architecture to respond to the evolving risk.
+
+Claus Cramon-Houmann
 
 #### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
 
