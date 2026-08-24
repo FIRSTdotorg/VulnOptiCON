@@ -541,15 +541,15 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 
 <table>
     <tr>
-        <td>
+        <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/claus.png" width="150" alt="Claus Cramon-Houmann" /><br>
             Claus Cramon-Houmann, Infosec Librarian
         </td>
-        <td>
+        <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" /><br>
             Alexandre Dulaunoy, CIRCL
         </td>
-        <td>
+        <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/art.jpg" width="150" alt="Art Manion" /><br>
             Art Manion, Tharros
         </td>
