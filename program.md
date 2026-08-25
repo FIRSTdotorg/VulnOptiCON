@@ -519,7 +519,7 @@ Regina Joseph
 <table>
     <tr>
         <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Nuno Rodrigues Carvalho" /><br>
+            <img style="border:1px solid black;" src="../assets/nuno" width="150" alt="Nuno Rodrigues Carvalho" /><br>
             <a href="#nuno-bio">Nuno Rodrigues Carvalho, ENISA</a>
         </td>
         <td style="width:200px">
