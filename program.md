@@ -212,7 +212,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#cve">You, Me, and CVE: What Does the Future Hold for the CVE Program?</a></p>
-                <p class="presenter">Jen Ellis MBE, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente <br> Lindsey Cerkovnik, CISA <br> Nuno Rodrigues Carvalho, ENISA</p>
+                <p class="presenter">Nuno Rodrigues Carvalho, ENISA <br> Lindsey Cerkovnik, CISA <br> Jen Ellis MBE, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente</p>
             </td>
         </tr>
         <tr class="even">
