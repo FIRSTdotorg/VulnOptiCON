@@ -527,7 +527,7 @@ Regina Joseph
             <a href="#lindsey-bio">Lindsey Cerkovnik, CISA</a>
         </td>
         <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/jen.jpg" width="150" alt="Jen Ellis" /><br>
+            <img style="border:1px solid black;" src="../assets/Jen.jpg" width="150" alt="Jen Ellis" /><br>
             <a href="#jen-bio">Jen Ellis MBE, NextJen Security</a>
         </td>
         <td style="width:200px">
