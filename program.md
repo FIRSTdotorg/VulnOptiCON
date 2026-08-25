@@ -427,6 +427,7 @@ Johannes Clos, ENISA
 
 As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA rolls out the Single Reporting Platform, this session offers a timely deep dive into how ENISA is scaling its EU Vulnerability Services, including the European Vulnerability Database (EUVD), support to Member States’ coordinated vulnerability disclosure processes, and a growing operational role in the global vulnerability management ecosystem. The session will show how ENISA together with the EU CSIRTs network transforms vulnerability information into actionable guidance, prioritised mitigation, and more effective risk reduction across critical systems and supply chains. The talk will also examine lessons learned from real-world implementation, the importance of global interoperability and cooperation, and how AI is reshaping vulnerability discovery, potential exploitation, and faster remediation.
 
+<a name="johannes-bio"></a>
 *Johannes Kaspar Clos discovered an interest in computers initially through his passion for audio engineering and signal processing. Encountering the power of applied cryptography got him interested in information security and the political implications of technology. After receiving his diploma in computer science from TU Darmstadt, he followed initial research at Fraunhofer-Gesellschaft and University of Newcastle and worked as a network security engineer. In 2010, he joined CERT-Bund, Germany's national CSIRT section at the Federal Office for Information Security's (BSI). While supporting the team with building up its vulnerability coordination capacity, abuse automation, and strategic development, he cultivated a passion for CSIRT collaboration. Today, he is working for ENISA’s Incident and Vulnerability ServicesJ section where his tasks include the implementation of the EU vulnerability services catalogue.*
 
 <hr>
@@ -514,6 +515,41 @@ Regina Joseph
 <!-- ruben -->
 
 <!-- cve -->
+<table>
+    <tr>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Nuno Rodrigues Carvalho" /><br>
+            <a href="#nuno-bio">Nuno Rodrigues Carvalho, ENISA</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/lindsey.jpg" width="150" alt="Lindsey Cerkovnik" /><br>
+            <a href="#lindsey-bio">Lindsey Cerkovnik, CISA</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/jen.jpg" width="150" alt="Jen Ellis" /><br>
+            <a href="#jen-bio">Jen Ellis MBE, NextJen Security</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/jeroen.jpg" width="150" alt="Jeroen van der Ham-de Vos" /><br>
+            <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente</a>
+        </td>
+    </tr>
+</table>
+
+A year ago, the CVE Program seemed to be in peril due to a contracting/funding issue. While the issue was quickly resolved and CISA has since confirmed its ongoing commitment to supporting the CVE Program, speculation continues around its future health. With political tensions casting a shadow of potential balkanisation, long-standing criticisms of lack of coverage and investment, AI threatening to overwhelm the program, and US government processes and complications delaying needed updates, questions remain over the long-term health and viability of the CVE Program. This session will provide a brief summary of relevant developments over the past 18 months, followed by a panel and audience discussion on the challenges, needs, and future of the Program. The debate panel will include CISA's Lindsey Cerkovnik, the CVE Board's Jen Ellis, vulnerability researcher and academic, Jeroen van der Ham-de Vos, and Nuno Rodrigues Carvalho from ENISA.
+
+<a name="nuno-bio"></a>
+*Nuno Rodrigues Carvalho currently serves as Head of Sector of the Incident & Vulnerabilities Services within the Operations and Situational Awareness Unit (OSA) of the European Union Agency for Cybersecurity (ENISA). He leads the department in ENISA dealing with the development of Vulnerability Services (including the European Union Vulnerability Database), of the Single Reporting Platform of the Cyber Resilience Act and the Cybersecurity Incident Reporting and Analysis System (CIRAS) and the reports stemming from the NIS 2 legislation related to that system. Before joining ENISA as a Senior Threat and Vulnerability Analyst, he developed more than 15 years of experience in strategic, tactical, and operational analysis and situational awareness through roles at both national and international levels. Previously, he also worked at the European Parliament and in the banking sector.*
+
+<a name="lindsey-bio"></a>
+*Lindsey Cerkovnik serves as the Chief of Vulnerability Response and Coordination (VRC) at CISA. In this role, she leads the teams responsible for CISA’s Coordinated Vulnerability Disclosure (CVD) process, the Known Exploited Vulnerabilities (KEV) catalog, and vulnerability prioritization efforts that serve as the foundation for U.S. federal, civilian, executive branch agencies’ vulnerability response efforts. Lindsey also serves as the CISA Liaison to the CVE Board. She and her team help to maintain, support, and advance the global vulnerability ecosystem by sponsoring, overseeing, and participating in the CVE and CVE Numbering Authority (CNA) programs, leading the production and dissemination of machine-readable vulnerability information, and engaging in valuable technical collaboration with the vulnerability research community. Through their work analyzing, triaging, and disclosing hundreds of thousands of vulnerabilities, they understand the value of prioritization, automation, and scalability for a growing and changing technology world. Prior to her work at CISA, Lindsey conducted cybersecurity investigations with a focus on digital forensics in support of national security. She also conducted intelligence analysis and research and development (R&D) related to industrial control systems (ICS) and operational technology (OT) cybersecurity, energy infrastructure supply chains, ICS/OT vulnerability discovery and disclosure, and software development and testing.*
+
+<a name="jen-bio"></a>
+*Jen Ellis MBE has been a staunch advocate for vulnerability research, coordinated disclosure, and robust vulnerability remediation programmes for 15 years. She serves on both the CVE Board and the board of the Security Research Legal Defense Fund (SRLDF) and is a long-standing member of I Am The Cavalry. She has worked extensively on public policy and community leadership initiatives to advance the understanding and adoption of vulnerability coordination and remediation practices. In 2015, Jen testified before Congress on the need for greater support for vulnerability research. She currently serves on the UK’s Government Cyber Advisory Board, the board of the Center for Cybersecurity Policy and Law, and co-hosts the Distilling Cyber Policy podcast. She is also an associate fellow of the Royal United Services Institute (RUSI) and the Institute for Security and Technology.*
+
+<a name="jeroen-bio"></a>
+
+<hr>
 
 #### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
 
