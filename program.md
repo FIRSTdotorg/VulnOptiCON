@@ -519,7 +519,7 @@ Regina Joseph
 <table>
     <tr>
         <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/nuno" width="150" alt="Nuno Rodrigues Carvalho" /><br>
+            <img style="border:1px solid black;" src="../assets/nuno.jpg" width="150" alt="Nuno Rodrigues Carvalho" /><br>
             <a href="#nuno-bio">Nuno Rodrigues Carvalho, ENISA</a>
         </td>
         <td style="width:200px">
@@ -549,7 +549,6 @@ A year ago, the CVE Program seemed to be in peril due to a contracting/funding i
 *Jen Ellis MBE has been a staunch advocate for vulnerability research, coordinated disclosure, and robust vulnerability remediation programmes for 15 years. She serves on both the CVE Board and the board of the Security Research Legal Defense Fund (SRLDF) and is a long-standing member of I Am The Cavalry. She has worked extensively on public policy and community leadership initiatives to advance the understanding and adoption of vulnerability coordination and remediation practices. In 2015, Jen testified before Congress on the need for greater support for vulnerability research. She currently serves on the UK’s Government Cyber Advisory Board, the board of the Center for Cybersecurity Policy and Law, and co-hosts the Distilling Cyber Policy podcast. She is also an associate fellow of the Royal United Services Institute (RUSI) and the Institute for Security and Technology.*
 
 <a name="jeroen-bio"></a>
-
 <hr>
 
 #### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
