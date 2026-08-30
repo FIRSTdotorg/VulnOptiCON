@@ -553,7 +553,7 @@ Regina Joseph
             <a href="#jen-bio">Jen Ellis MBE, NextJen Security</a>
         </td>
         <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/jeroen.jpg" width="150" alt="Jeroen van der Ham-de Vos" /><br>
+            <img style="border:1px solid black;" src="../assets/jeroen.png" width="150" alt="Jeroen van der Ham-de Vos" /><br>
             <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente</a>
         </td>
     </tr>
@@ -571,6 +571,8 @@ A year ago, the CVE Program seemed to be in peril due to a contracting/funding i
 *Jen Ellis MBE has been a staunch advocate for vulnerability research, coordinated disclosure, and robust vulnerability remediation programmes for 15 years. She serves on both the CVE Board and the board of the Security Research Legal Defense Fund (SRLDF) and is a long-standing member of I Am The Cavalry. She has worked extensively on public policy and community leadership initiatives to advance the understanding and adoption of vulnerability coordination and remediation practices. In 2015, Jen testified before Congress on the need for greater support for vulnerability research. She currently serves on the UK’s Government Cyber Advisory Board, the board of the Center for Cybersecurity Policy and Law, and co-hosts the Distilling Cyber Policy podcast. She is also an associate fellow of the Royal United Services Institute (RUSI) and the Institute for Security and Technology.*
 
 <a name="jeroen-bio"></a>
+*Jeroen van der Ham-de Vos (he/him) is associate professor at the University of Twente. His research currently focuses on vulnerability prioritisation and management, incdent response, the many developments in coordinated vulnerability disclosure and ethics of cybersecurity and computer science. Jeroen is member of the editorial board of the ACM journal Digital Threats: Research and Practice, is an active member of the FIRST community, and was the co-editor of the Code of Ethics for Incident and Security Teams, and serves on several programme committees.*
+
 <hr>
 
 #### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
