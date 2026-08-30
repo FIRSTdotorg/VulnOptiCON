@@ -451,7 +451,7 @@ As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA r
         </td>
         <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/cedric.jpg" width="150" alt="Cedric Bonhomme" /><br>
-            Cedric Bonhomme, CIRCL
+            <a href="#cedric-bio">Cedric Bonhomme, CIRCL</a>
         </td>
     </tr>
 </table>
@@ -460,6 +460,9 @@ The vulnerability ecosystem has become critical infrastructure for defenders, ve
 
 <a name="adulau-bio"></a>
 *Alexandre encountered his first computer in the eighties, and he disassembled it to know how the thing works. While pursuing his logical path towards information security and free software, he worked as senior security network consultant at different places (e.g. Ubizen, now Cybertrust). He co-founded a startup called Conostix specialized in information security management, and the past 6 years, he was the manager of global information security at SES, a leading international satellite operator. He is now working at the Luxembourgian Computer Security Incident Response Team (CSIRT) called CIRCL in the research and operational fields. He is also lecturer in information security at Paul-Verlaine University in Metz and the University of Luxembourg. Alexandre enjoys working on projects where there is a blend of “free information,” innovation, and a direct social improvement. When not gardening binary streams, he likes facing the reality of ecosystems while gardening or doing photography.*
+
+<a name="cedric-bio"></a>
+*Cédric Bonhomme is a computer scientist at CIRCL with over 15 years of experience contributing to open-source software. Holding a Licence in Mathematics and a Master’s degree in Computer Science, he combines a strong theoretical foundation with hands-on expertise in cybersecurity and privacy. From 2010 to 2017, he worked as an R&D Engineer at a research center, specializing in Multi-Agent Systems and cybersecurity. More recently, Cédric has been actively involved in CSIRT operations and the development of innovative tools, most notably as the main developer of Vulnerability-Lookup, a platform dedicated to identifying, correlating, and managing software vulnerabilities. Among his recent work, he has focused on designing specialized AI models to enhance vulnerability classification and analysis. Beyond his professional work, Cédric is a dedicated pianist, runner, photographer, and philosopher bringing the same precision and curiosity to his hobbies as he does to cybersecurity research. He thrives in dynamic, collaborative environments and has a long-standing passion for connecting with open-source and security communities.*
 
 <hr>
 
