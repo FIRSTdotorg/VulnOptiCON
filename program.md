@@ -217,7 +217,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                14:30
+                14:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#meta">Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language</a></p>
