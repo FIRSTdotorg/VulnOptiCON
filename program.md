@@ -186,7 +186,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:30
+                11:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#nestle">Beyond Remediation: Integrating Countermeasures into Vulnerability Management</a></p>
@@ -213,6 +213,15 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#cve">You, Me, and CVE: What Does the Future Hold for the CVE Program?</a></p>
                 <p class="presenter">Nuno Rodrigues Carvalho, ENISA <br> Lindsey Cerkovnik, CISA <br> Jen Ellis MBE, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente</p>
+            </td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">
+                14:30
+            </td>
+            <td class="sess0 not-empty">
+                <p class="cat4 presentation"><a href="#meta">Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language</a></p>
+                <p class="presenter">Barnabás Tarcali, University of Groningen <br> Hidde-Jan Jongsma, University of Groningen</p>
             </td>
         </tr>
         <tr class="even">
@@ -554,6 +563,31 @@ A year ago, the CVE Program seemed to be in peril due to a contracting/funding i
 #### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
 
 A data scientist specialising in the analysis of vulnerability data and focused on applying data-driven approaches to support risk-informed decision-making.
+
+<hr>
+
+#### <a name="meta"></a> Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language
+
+<table>
+    <tr>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/Barnabas.png" width="150" alt="Barnabás Tarcali" /><br>
+            <a href="#barnabas-bio">Barnabás Tarcali, University of Groningen</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/Jongsma.png" width="150" alt="Hidde-Jan Jongsma" /><br>
+            <a href="#jongsma-bio">Hidde-Jan Jongsma, University of Groningen</a>
+        </td>
+    </tr>
+</table>
+
+In this talk we propose a system model that represents software, hardware, and connectivity in a unified structure, enabling systematic reasoning about dependency‑driven vulnerability propagation. Using this model, we investigate methods for reliably identifying vulnerability chains in a system under test, as well as techniques for reducing computation efforts when new vulnerabilities are disclosed. In particular, we examine how precomputing attacker capabilities within local subsystems can accelerate global vulnerability analysis. Instances of this model are constructed using machine readable dependency and composition information from CycloneDX 2.0-based BOM documents. The results improve both the precision and performance of vulnerability assessment in large‑scale, heterogeneous infrastructures, providing practical insights for vulnerability chain impact analysis.
+
+<a name="barnabas-bio"></a>
+*Barnabas Tarcali is a cybersecurity researcher who recently completed his MSc in Computing Science at the University of Groningen. During his studies, he developed an interest in vulnerability management and automated security analysis, which led to research at TNO on ICT infrastructure modelling and vulnerability analysis using SBOMs.*
+
+<a name="jongsma-bio"></a>
+*Dr. Hidde-Jan Jongsma is a cybersecurity researcher at TNO with a focus on software supply chain security, secure software development, risk analysis, and security automation. He works on developing practical approaches for managing cyber risk throughout the software lifecycle, with particular interest in SBOMs, machine-readable security advisories, and automated vulnerability management. Hidde-Jan collaborates with public and private sector partners to improve software transparency and supply chain resilience, and contributes to several open source cybersecurity initiatives.*
 
 <hr>
 
