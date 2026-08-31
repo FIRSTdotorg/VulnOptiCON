@@ -530,7 +530,16 @@ Regina Joseph
 
 <hr>
 
-<!-- jerry -->
+#### <a name="jerry"></a> The CVE Panopticon: What Happens When The Prisoners Set The Standards?
+
+<img style="border:1px solid black;" src="../assets/jerry.png" width="150" alt="Jerry Gamblin, Empirical Security" />
+
+Jerry Gamblin, Empirical Security
+
+<a name="jerry-bio"></a>
+*Jerry Gamblin is Head of Research at Empirical Security, where he builds predictive models for vulnerability management. He is the creator of CVE.ICU and the founder of RogoLabs, an open source vulnerability intelligence lab behind tools including CNAScorecard, CVEForecast, and PatchThis. Much of his recent work looks hard at how the CVE ecosystem governs itself: who assigns identifiers, who enriches them, and how the quality and incentives of CVE Numbering Authorities shape the data everyone else depends on. A longtime contributor to the EPSS Special Interest Group and a Dark Reading contributor, he has held senior research roles at Cisco and Kenna Security, and is a regular on the Black Hat, DEF CON, FIRST VulnCon, and BSides stages. He is known for turning messy public CVE data into decisions defenders can actually use, with open methods and reproducible numbers rather than hot takes.*
+
+<hr>
 
 <!-- nestle -->
 
