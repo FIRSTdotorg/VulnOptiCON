@@ -510,7 +510,7 @@ Suddenly, automated vulnerability discovery has become the eldritch monster stal
 
 #### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
 
-<img style="border:1px solid black;" src="../assets/jay-jacobs.jpg" width="150" alt="Jay Jacobs" />
+<img style="border:1px solid black;" src="../assets/jay.jpg" width="150" alt="Jay Jacobs" />
 
 Jay Jacobs, Empirical Security
 
