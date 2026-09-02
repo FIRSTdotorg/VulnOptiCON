@@ -478,12 +478,6 @@ Somewhere on your team is the person every finding eventually lands on. They spe
 
 <hr>
 
-#### <a name="carson"></a> Interactive Tabletop Game
-
-TBC
-
-<hr>
-
 #### <a name="ktn"></a> Drowning in Disclosure: The Operational Reality of Vulnerability Response
 
 <img style="border:1px solid black;" src="../assets/ktn.jpg" width="150" alt="Katie Noble" />
@@ -541,7 +535,35 @@ Jerry Gamblin, Empirical Security
 
 <hr>
 
-<!-- nestle -->
+#### <a name="nestle"></a> Beyond Remediation: Integrating Countermeasures into Vulnerability Management
+
+<table>
+    <tr>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/angelo.jpg" width="150" alt="Angelo Punturiero" /><br>
+            <a href="#nuno-bio">Angelo Punturiero, Nestlé</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/martin.jpg" width="150" alt="Martin Karel" /><br>
+            <a href="#martin-bio">Martin Karel, Nestlé</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/alexia.jpg" width="150" alt="Alexia Sorel" /><br>
+            <a href="#alexia-bio">Alexia Sorel, Nestlé</a>
+        </td>
+    </tr>
+</table>
+
+While traditional vulnerability management programs usually focus on detection and remediation timelines, many vulnerabilities remain exposed due to operational constraints, patching limitations, or complex dependencies. This creates a level of risk that is not effectively addressed. A Countermeasure Framework, currently being developed within a Nestle CSOC, aims to extend vulnerability management by embedding active countermeasures directly into operational workflows, helping to better understand and control risk when remediation is not immediately feasible. Its scope focuses on mapping specific vulnerabilities and technology contexts to proven compensating controls, including network-layer protections, segmentation strategies, and similar measures. Leveraging contextual information could make it possible to reassess the effective risk and impact of a specific finding, enabling more informed adjustments in terms of prioritization, risk rating, or remediation timelines. As this concept continues to evolve, it aims to contribute to a broader discussion on how countermeasures can be more effectively integrated into vulnerability management practices, and it remains open to external insights and collaboration.
+
+<a name="angelo-bio"></a>
+Angelo is a cybersecurity product owner with more than a decade of experience translating complex security challenges into scalable and effective solutions. His expertise in Vulnerability Management spans Cloud Security, Infrastructure Security, IoT/OT, and AI Security, enabling him to connect technical risk assessments with strategic business priorities. As CyberSOC Vulnerability Assessment Lead at Nestlé, he drives the transition from reactive security operations to proactive, metrics-based risk reduction programs. He leads initiatives focused on security posture improvement, vulnerability governance, risk transparency, and the adoption of data-driven cybersecurity practices across global environments. Previously, he held leadership and consulting roles at Lutech Security and Accenture Security, where he developed extensive expertise in incident response, SOC operations, security transformation, and global vendor management. Based in Spain, he combines deep technical expertise with a collaborative leadership approach, helping organizations strengthen cyber resilience, improve operational efficiency, and align security objectives with long-term organizational goals.
+
+<a name="martin-bio"></a>
+
+<a name="alexia-bio"></a>
+
+<hr>
 
 <!-- ruben -->
 
