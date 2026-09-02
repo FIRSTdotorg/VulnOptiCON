@@ -560,9 +560,7 @@ While traditional vulnerability management programs usually focus on detection a
 Angelo is a cybersecurity product owner with more than a decade of experience translating complex security challenges into scalable and effective solutions. His expertise in Vulnerability Management spans Cloud Security, Infrastructure Security, IoT/OT, and AI Security, enabling him to connect technical risk assessments with strategic business priorities. As CyberSOC Vulnerability Assessment Lead at Nestlé, he drives the transition from reactive security operations to proactive, metrics-based risk reduction programs. He leads initiatives focused on security posture improvement, vulnerability governance, risk transparency, and the adoption of data-driven cybersecurity practices across global environments. Previously, he held leadership and consulting roles at Lutech Security and Accenture Security, where he developed extensive expertise in incident response, SOC operations, security transformation, and global vendor management. Based in Spain, he combines deep technical expertise with a collaborative leadership approach, helping organizations strengthen cyber resilience, improve operational efficiency, and align security objectives with long-term organizational goals.
 
 <a name="martin-bio"></a>
-
 <a name="alexia-bio"></a>
-
 <hr>
 
 <!-- ruben -->
