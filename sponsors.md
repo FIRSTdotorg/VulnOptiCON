@@ -9,9 +9,6 @@ attributes:
 # Our 2026 Event Sponsors
 ## VulnOptiCON 2026
 
-FIRST is looking for one more [sponsor](sponsorship) for VulnOptiCON 2026!
-<br>
-
 * ![CIRCL](/_/e/_logos/sponsor-circl-wd.svg "CIRCL")
 ### Event Partner and Host | &nbsp;&nbsp;&nbsp; [CIRCL](https://circl.lu/)
 The Computer Incident Response Center Luxembourg (CIRCL) is a government-led initiative aimed at collecting, analyzing, reporting, and addressing computer security threats and incidents. CIRCL serves as the host for several open-source software projects, including MISP and AIL, which play critical roles in facilitating information sharing and enhancing threat intelligence capabilities.
@@ -26,10 +23,9 @@ Brinqa ingests and correlates limitless exposure data into a single, trusted fou
 <hr>
 
 
-* ![Enisa](/_/e/_logos/sponsor-enisa-wd.svg "Enisa")
-### Gold Sponsor | &nbsp;&nbsp;&nbsp; [Enisa](https://www.enisa.europa.eu)
-
-"Achieving a high common level of cybersecurity across Europe."
+* ![ENISA](/_/e/_logos/sponsor-enisa-wd.svg "ENISA")
+### Gold Sponsor | &nbsp;&nbsp;&nbsp; [ENISA](https://www.enisa.europa.eu)
+Achieving a high common level of cybersecurity across Europe.
 
 <hr>
 
