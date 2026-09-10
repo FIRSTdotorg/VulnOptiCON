@@ -16,8 +16,9 @@ Luxembourg Marriott Hotel Alfa
 
 ## Key updates:
 
-3/08/2026 Registration opens!  
-2/29/2026 Keynote announcement: Regina Joseph  
+GCVE workshop the day before!
+
+https://gcve.eu/2026/09/01/gcve-workshop-22-september-2026-1400-1800-luxembourg-before-the-vulnopticon-conference/
 
 ## Luxembourg, September 23-25, 2026
 
