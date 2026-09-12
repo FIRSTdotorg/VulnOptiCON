@@ -91,8 +91,8 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 13:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#itg">Interactive Tabletop Game</a></p>
-                <p class="presenter">TBC</p>
+                <p class="cat4 presentation"><a href="#cve">You, Me, and CVE: What Does the Future Hold for the CVE Program?</a></p>
+                <p class="presenter">Nuno Rodrigues Carvalho, ENISA <br> Lindsey Cerkovnik, CISA <br> Jen Ellis MBE, NextJen Security <br> Jeroen van der Ham-de Vos, University of Twente</p>
             </td>
         </tr>
         <tr class="odd">
@@ -478,6 +478,45 @@ Somewhere on your team is the person every finding eventually lands on. They spe
 
 <hr>
 
+#### <a name="cve"></a> You, Me, and CVE: What Does the Future Hold for the CVE Program?
+
+<table>
+    <tr>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/nuno.jpg" width="150" alt="Nuno Rodrigues Carvalho" /><br>
+            <a href="#nuno-bio">Nuno Rodrigues Carvalho, ENISA</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/lindsey.jpg" width="150" alt="Lindsey Cerkovnik" /><br>
+            <a href="#lindsey-bio">Lindsey Cerkovnik, CISA</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/Jen.jpg" width="150" alt="Jen Ellis" /><br>
+            <a href="#jen-bio">Jen Ellis MBE, NextJen Security</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/jeroen.png" width="150" alt="Jeroen van der Ham-de Vos" /><br>
+            <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente</a>
+        </td>
+    </tr>
+</table>
+
+A year ago, the CVE Program seemed to be in peril due to a contracting/funding issue. While the issue was quickly resolved and CISA has since confirmed its ongoing commitment to supporting the CVE Program, speculation continues around its future health. With political tensions casting a shadow of potential balkanisation, long-standing criticisms of lack of coverage and investment, AI threatening to overwhelm the program, and US government processes and complications delaying needed updates, questions remain over the long-term health and viability of the CVE Program. This session will provide a brief summary of relevant developments over the past 18 months, followed by a panel and audience discussion on the challenges, needs, and future of the Program. The debate panel will include CISA's Lindsey Cerkovnik, the CVE Board's Jen Ellis, vulnerability researcher and academic, Jeroen van der Ham-de Vos, and Nuno Rodrigues Carvalho from ENISA.
+
+<a name="nuno-bio"></a>
+*Nuno Rodrigues Carvalho currently serves as Head of Sector of the Incident & Vulnerabilities Services within the Operations and Situational Awareness Unit (OSA) of the European Union Agency for Cybersecurity (ENISA). He leads the department in ENISA dealing with the development of Vulnerability Services (including the European Union Vulnerability Database), of the Single Reporting Platform of the Cyber Resilience Act and the Cybersecurity Incident Reporting and Analysis System (CIRAS) and the reports stemming from the NIS 2 legislation related to that system. Before joining ENISA as a Senior Threat and Vulnerability Analyst, he developed more than 15 years of experience in strategic, tactical, and operational analysis and situational awareness through roles at both national and international levels. Previously, he also worked at the European Parliament and in the banking sector.*
+
+<a name="lindsey-bio"></a>
+*Lindsey Cerkovnik serves as the Chief of Vulnerability Response and Coordination (VRC) at CISA. In this role, she leads the teams responsible for CISA’s Coordinated Vulnerability Disclosure (CVD) process, the Known Exploited Vulnerabilities (KEV) catalog, and vulnerability prioritization efforts that serve as the foundation for U.S. federal, civilian, executive branch agencies’ vulnerability response efforts. Lindsey also serves as the CISA Liaison to the CVE Board. She and her team help to maintain, support, and advance the global vulnerability ecosystem by sponsoring, overseeing, and participating in the CVE and CVE Numbering Authority (CNA) programs, leading the production and dissemination of machine-readable vulnerability information, and engaging in valuable technical collaboration with the vulnerability research community. Through their work analyzing, triaging, and disclosing hundreds of thousands of vulnerabilities, they understand the value of prioritization, automation, and scalability for a growing and changing technology world. Prior to her work at CISA, Lindsey conducted cybersecurity investigations with a focus on digital forensics in support of national security. She also conducted intelligence analysis and research and development (R&D) related to industrial control systems (ICS) and operational technology (OT) cybersecurity, energy infrastructure supply chains, ICS/OT vulnerability discovery and disclosure, and software development and testing.*
+
+<a name="jen-bio"></a>
+*Jen Ellis MBE has been a staunch advocate for vulnerability research, coordinated disclosure, and robust vulnerability remediation programmes for 15 years. She serves on both the CVE Board and the board of the Security Research Legal Defense Fund (SRLDF) and is a long-standing member of I Am The Cavalry. She has worked extensively on public policy and community leadership initiatives to advance the understanding and adoption of vulnerability coordination and remediation practices. In 2015, Jen testified before Congress on the need for greater support for vulnerability research. She currently serves on the UK’s Government Cyber Advisory Board, the board of the Center for Cybersecurity Policy and Law, and co-hosts the Distilling Cyber Policy podcast. She is also an associate fellow of the Royal United Services Institute (RUSI) and the Institute for Security and Technology.*
+
+<a name="jeroen-bio"></a>
+*Jeroen van der Ham-de Vos (he/him) is associate professor at the University of Twente. His research currently focuses on vulnerability prioritisation and management, incdent response, the many developments in coordinated vulnerability disclosure and ethics of cybersecurity and computer science. Jeroen is member of the editorial board of the ACM journal Digital Threats: Research and Practice, is an active member of the FIRST community, and was the co-editor of the Code of Ethics for Incident and Security Teams, and serves on several programme committees.*
+
+<hr>
+
 #### <a name="ktn"></a> Drowning in Disclosure: The Operational Reality of Vulnerability Response
 
 <img style="border:1px solid black;" src="../assets/ktn.jpg" width="150" alt="Katie Noble" />
@@ -563,45 +602,6 @@ Angelo is a cybersecurity product owner with more than a decade of experience tr
 <hr>
 
 <!-- ruben -->
-
-#### <a name="cve"></a> You, Me, and CVE: What Does the Future Hold for the CVE Program?
-
-<table>
-    <tr>
-        <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/nuno.jpg" width="150" alt="Nuno Rodrigues Carvalho" /><br>
-            <a href="#nuno-bio">Nuno Rodrigues Carvalho, ENISA</a>
-        </td>
-        <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/lindsey.jpg" width="150" alt="Lindsey Cerkovnik" /><br>
-            <a href="#lindsey-bio">Lindsey Cerkovnik, CISA</a>
-        </td>
-        <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/Jen.jpg" width="150" alt="Jen Ellis" /><br>
-            <a href="#jen-bio">Jen Ellis MBE, NextJen Security</a>
-        </td>
-        <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/jeroen.png" width="150" alt="Jeroen van der Ham-de Vos" /><br>
-            <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente</a>
-        </td>
-    </tr>
-</table>
-
-A year ago, the CVE Program seemed to be in peril due to a contracting/funding issue. While the issue was quickly resolved and CISA has since confirmed its ongoing commitment to supporting the CVE Program, speculation continues around its future health. With political tensions casting a shadow of potential balkanisation, long-standing criticisms of lack of coverage and investment, AI threatening to overwhelm the program, and US government processes and complications delaying needed updates, questions remain over the long-term health and viability of the CVE Program. This session will provide a brief summary of relevant developments over the past 18 months, followed by a panel and audience discussion on the challenges, needs, and future of the Program. The debate panel will include CISA's Lindsey Cerkovnik, the CVE Board's Jen Ellis, vulnerability researcher and academic, Jeroen van der Ham-de Vos, and Nuno Rodrigues Carvalho from ENISA.
-
-<a name="nuno-bio"></a>
-*Nuno Rodrigues Carvalho currently serves as Head of Sector of the Incident & Vulnerabilities Services within the Operations and Situational Awareness Unit (OSA) of the European Union Agency for Cybersecurity (ENISA). He leads the department in ENISA dealing with the development of Vulnerability Services (including the European Union Vulnerability Database), of the Single Reporting Platform of the Cyber Resilience Act and the Cybersecurity Incident Reporting and Analysis System (CIRAS) and the reports stemming from the NIS 2 legislation related to that system. Before joining ENISA as a Senior Threat and Vulnerability Analyst, he developed more than 15 years of experience in strategic, tactical, and operational analysis and situational awareness through roles at both national and international levels. Previously, he also worked at the European Parliament and in the banking sector.*
-
-<a name="lindsey-bio"></a>
-*Lindsey Cerkovnik serves as the Chief of Vulnerability Response and Coordination (VRC) at CISA. In this role, she leads the teams responsible for CISA’s Coordinated Vulnerability Disclosure (CVD) process, the Known Exploited Vulnerabilities (KEV) catalog, and vulnerability prioritization efforts that serve as the foundation for U.S. federal, civilian, executive branch agencies’ vulnerability response efforts. Lindsey also serves as the CISA Liaison to the CVE Board. She and her team help to maintain, support, and advance the global vulnerability ecosystem by sponsoring, overseeing, and participating in the CVE and CVE Numbering Authority (CNA) programs, leading the production and dissemination of machine-readable vulnerability information, and engaging in valuable technical collaboration with the vulnerability research community. Through their work analyzing, triaging, and disclosing hundreds of thousands of vulnerabilities, they understand the value of prioritization, automation, and scalability for a growing and changing technology world. Prior to her work at CISA, Lindsey conducted cybersecurity investigations with a focus on digital forensics in support of national security. She also conducted intelligence analysis and research and development (R&D) related to industrial control systems (ICS) and operational technology (OT) cybersecurity, energy infrastructure supply chains, ICS/OT vulnerability discovery and disclosure, and software development and testing.*
-
-<a name="jen-bio"></a>
-*Jen Ellis MBE has been a staunch advocate for vulnerability research, coordinated disclosure, and robust vulnerability remediation programmes for 15 years. She serves on both the CVE Board and the board of the Security Research Legal Defense Fund (SRLDF) and is a long-standing member of I Am The Cavalry. She has worked extensively on public policy and community leadership initiatives to advance the understanding and adoption of vulnerability coordination and remediation practices. In 2015, Jen testified before Congress on the need for greater support for vulnerability research. She currently serves on the UK’s Government Cyber Advisory Board, the board of the Center for Cybersecurity Policy and Law, and co-hosts the Distilling Cyber Policy podcast. She is also an associate fellow of the Royal United Services Institute (RUSI) and the Institute for Security and Technology.*
-
-<a name="jeroen-bio"></a>
-*Jeroen van der Ham-de Vos (he/him) is associate professor at the University of Twente. His research currently focuses on vulnerability prioritisation and management, incdent response, the many developments in coordinated vulnerability disclosure and ethics of cybersecurity and computer science. Jeroen is member of the editorial board of the ACM journal Digital Threats: Research and Practice, is an active member of the FIRST community, and was the co-editor of the Code of Ethics for Incident and Security Teams, and serves on several programme committees.*
-
-<hr>
 
 #### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
 
