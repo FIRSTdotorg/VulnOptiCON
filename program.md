@@ -529,7 +529,8 @@ Modern PSIRTs face a growing imbalance between vulnerability demand and defensiv
 
 <hr>
 
-#### <a name="erick"></a> I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents
+<a name="erick"></a>
+#### I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents
 
 <img style="border:1px solid black;" src="../assets/dorfy.jpg" width="150" alt="Erick Galinkin" />
 
