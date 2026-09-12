@@ -22,13 +22,12 @@ Brinqa ingests and correlates limitless exposure data into a single, trusted fou
 
 <hr>
 
-
 * ![ENISA](/_/e/_logos/sponsor-enisa-wd.svg "ENISA")
 ### Gold Sponsor | &nbsp;&nbsp;&nbsp; [ENISA](https://www.enisa.europa.eu)
 Achieving a high common level of cybersecurity across Europe.
-
+<br>
+<br>
 <hr>
-
 
 * ![Vulners](/_/e/_logos/sponsor-vulners-wd.svg "Vulners")
 ### Bronze Sponsor | &nbsp;&nbsp;&nbsp; [Vulners](https://vulners.com/)
