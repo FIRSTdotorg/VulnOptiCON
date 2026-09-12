@@ -28,6 +28,8 @@ Achieving a high common level of cybersecurity across Europe.
 <br>
 <br>
 <br>
+<br>
+<br>
 <hr>
 
 * ![Vulners](/_/e/_logos/sponsor-vulners-wd.svg "Vulners")
@@ -39,6 +41,8 @@ Vulners is an all-in-one vulnerability intelligence database that aggregates ove
 * ![Dux](../assets/dux.png "Dux")
 ### Bronze Sponsor | &nbsp;&nbsp;&nbsp; [Dux](https://dux.io/)
 Safety at machine speed.
+<br>
+<br>
 <br>
 <br>
 <br>
