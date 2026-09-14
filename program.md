@@ -353,13 +353,13 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
                 13:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#zap">Lightning Debates &mdash;Bring Us Your Topics!</a></p>
-                <p class="presenter">Jen Ellis MBE, NextJen Security <br> &hellip;and her Mysterious Debators</p>
+                <p class="cat4 presentation"><a href="#zap">Ye Olde Data Workshoppe - TBC</a></p>
+                <p class="presenter">Data nerdz!</p>
             </td>
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                14:20
+                14:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#trey">On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging</a></p>
@@ -368,7 +368,7 @@ Jump to: [Day 1](#day-1) (23 September), [Day 2](#day-2) (24 September), [Day 3]
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                14:45
+                14:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
