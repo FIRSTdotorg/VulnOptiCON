@@ -704,7 +704,17 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 
 <hr>
 
-<!-- ben -->
+#### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
+
+<img style="border:1px solid black;" src="../assets/ben.jpg" width="150" alt="Ben Edwards" />
+
+Ben Edwards, Empirical
+
+Vulnerability data is predominantly sparse, categorical, and full of missing data, confounding efforts to effectively make comparisons, predictions, or other inferences. To address this, we introduce CVE2VEC, a Missing Data Importance-Weighted Autoencoder (MIWAE) that compresses roughly 2,400 sparse vulnerability features into a 128-dimensional dense embedding. This representation puts a wide variety of tools at our disposal, including vulnerability clustering, missing and incorrect value imputation, and temporal predictions. This approach may provide a salve for many vuln researchers in the age of deteriorating CVE data quality.
+
+*Dr. Benjamin Edwards is Head of Modeling at Empirical. Ben has spent his career doing data-driven security research at such prestigious institutions as IBM Research, the Cyentia Institute, Bitsight, and now Empirical. This career trajectory means he’s delved into threat intelligence, vulnerability management, app sec, bank fraud, and even nation state cyberstrategy. He is happiest scrutinizing the output of a well-crafted model, making beautiful visualizations to bring meaning to that model, and then pontificating to a rapt audience about why it all matters. He resides in the Midwest and wrote this bio in the third person without AI.*
+
+<hr>
 
 <!-- cassie -->
 
