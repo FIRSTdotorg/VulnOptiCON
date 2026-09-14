@@ -17,10 +17,12 @@ The Computer Incident Response Center Luxembourg (CIRCL) is a government-led ini
 ### Platinum Sponsor | &nbsp;&nbsp;&nbsp; [Brinqa](https://brinqa.com/)
 Your AI, Our Foundation. Exposure Management Built for You.
 Brinqa ingests and correlates limitless exposure data into a single, trusted foundation-deduplicated, attributed, and ready for your AI agents, your models, and your team-so you know which exposures matter most and how to act.
+<p><hr></p>
 
 * ![ENISA](/_/e/_logos/sponsor-enisa-wd.svg "ENISA")
 ### Gold Sponsor | &nbsp;&nbsp;&nbsp; [ENISA](https://www.enisa.europa.eu)
 Achieving a high common level of cybersecurity across Europe.
+<p><hr></p>
 
 * ![Vulners](/_/e/_logos/sponsor-vulners-wd.svg "Vulners")
 ### Bronze Sponsor | &nbsp;&nbsp;&nbsp; [Vulners](https://vulners.com/)
