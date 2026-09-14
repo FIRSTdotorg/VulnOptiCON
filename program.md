@@ -704,7 +704,7 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 
 <hr>
 
-#### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
+#### <a name="ben"></a> CVE2VEC: Making sparse vulnerability data dense for inferring missing values and understanding future exploitation patterns
 
 <img style="border:1px solid black;" src="../assets/ben.jpg" width="150" alt="Ben Edwards" />
 
