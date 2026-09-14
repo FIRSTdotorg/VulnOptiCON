@@ -496,7 +496,11 @@ Somewhere on your team is the person every finding eventually lands on. They spe
         </td>
         <td style="width:200px">
             <img style="border:1px solid black;" src="../assets/jeroen.png" width="150" alt="Jeroen van der Ham-de Vos" /><br>
-            <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente</a>
+            <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente &amp; DIVD</a>
+        </td>
+        <td style="width:200px">
+            <img style="border:1px solid black;" src="../assets/tom.jpeg" width="150" alt="Tom Turner" /><br>
+            <a href="#tom-bio">Tom Turner, ARM</a>
         </td>
     </tr>
 </table>
@@ -515,6 +519,8 @@ A year ago, the CVE Program seemed to be in peril due to a contracting/funding i
 <a name="jeroen-bio"></a>
 *Jeroen van der Ham-de Vos (he/him) is associate professor at the University of Twente. His research currently focuses on vulnerability prioritisation and management, incdent response, the many developments in coordinated vulnerability disclosure and ethics of cybersecurity and computer science. Jeroen is member of the editorial board of the ACM journal Digital Threats: Research and Practice, is an active member of the FIRST community, and was the co-editor of the Code of Ethics for Incident and Security Teams, and serves on several programme committees.*
 
+<a name="tom-bio"></a>
+*Tom Turner is a Principal Product Security Engineer at Arm and a founding member of its Product Security Incident Response Team (PSIRT). He manages vulnerability reporting, investigation and disclosure across Arm’s hardware, firmware and software products, and played a key role in establishing its bug bounty programmes. Tom works closely with partners across Arm’s cloud, mobile and automotive ecosystems, providing security guidance and support, and is an active member of various vulnerability disclosure working groups. Previously, he held similar roles at Citrix and Cloud Software Group, and worked as a security consultant at a penetration testing and vulnerability management consultancy.*
 <hr>
 
 #### <a name="ktn"></a> Drowning in Disclosure: The Operational Reality of Vulnerability Response
