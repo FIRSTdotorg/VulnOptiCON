@@ -499,7 +499,7 @@ Somewhere on your team is the person every finding eventually lands on. They spe
             <a href="#jeroen-bio">Jeroen van der Ham-de Vos, University of Twente &amp; DIVD</a>
         </td>
         <td style="width:200px">
-            <img style="border:1px solid black;" src="../assets/tom.jpeg" width="150" alt="Tom Turner" /><br>
+            <img style="border:1px solid black;" src="../assets/tom.jpg" width="150" alt="Tom Turner" /><br>
             <a href="#tom-bio">Tom Turner, ARM</a>
         </td>
     </tr>
