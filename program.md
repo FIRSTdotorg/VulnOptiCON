@@ -652,7 +652,7 @@ Following the expansion of IoT systems, spanning from devices to cloud backends,
 Tina Rezaei, University of Twente
 
 <a name="tina-bio"></a>
-*Tina Rezaei is a researcher at the DACS group of the University of Twente where she is in the final stages of her PhD research.*
+*Tina Rezaei is a researcher at the DACS group of the University of Twente where she is in the final stages of her PhD research. Her research focuses on enhancing security and privacy in IoT systems, spanning privacy-driven computation offloading for smart homes and data-driven analysis of IoT vulnerabilities. Her current research investigates how publicly disclosed vulnerabilities propagate across the IoT ecosystem. Tina is an advocate of open science and always makes her research and code publicly available.*
 
 <hr>
 
