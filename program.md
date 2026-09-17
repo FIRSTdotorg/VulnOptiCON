@@ -12,6 +12,12 @@ All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC
 
 Reminder! Day 1 is in a different location than Days 2 and 3. See [Hotel and Venues](hotel).
 
+The busses leave from Marriot Hotel Alfa at 9 AM sharp for the venue. They cannot wait long outside the hotel as there is no parking so please assemble in the lobby from 8:45.
+
+After the event there will be a bus leaving at 19:30 and another at 20:30 to bring people back to the hotel.
+
+It is also possible to get taxis, Ubers, or public transport in Luxembourg is very smooth and reliable.
+
 Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 September), [Day 3](#day-3) (Friday 25 September)
 <br>
 <br>
