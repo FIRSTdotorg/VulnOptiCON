@@ -211,7 +211,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
                 13:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#dsit">YWorkshop: Maximising Data Use to Reduce Cyber Risk Across Government Domains</a></p>
+                <p class="cat4 presentation"><a href="#dsit">Workshop: Maximising Data Use to Reduce Cyber Risk Across Government Domains</a></p>
                 <p class="presenter">Nick Woodcraft, DSIT</p>
             </td>
         </tr>
