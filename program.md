@@ -616,7 +616,7 @@ While traditional vulnerability management programs usually focus on detection a
 <a name="dsit"></a>
 #### Maximising Data Use to Reduce Cyber Risk Across Government Domains
 
-<img style="border:1px solid black;" src="../assets/nick.png" width="150" alt="Nick Woodcraft, DSIT" />
+<img style="border:1px solid black;" src="../assets/nick2.png" width="150" alt="Nick Woodcraft, DSIT" />
 
 Nick Woodcraft, DSIT
 
