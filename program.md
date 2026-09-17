@@ -138,7 +138,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
 
 <h3 id="Day-2">
     <a name="day-2"></a>
-    Day 2: 24 September
+    Day 2: Thursday 24 September
 </h3>
 <p>Luxembourg Mariott Hotel Alfa</p>
 <table>
@@ -271,7 +271,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
 
 <h3 id="Day-3">
     <a name="day-3"></a>
-    Day 3: 25 September
+    Day 3: Friday 25 September
 </h3>
 <p>Luxembourg Mariott Hotel Alfa</p>
 <table>
@@ -560,7 +560,8 @@ Ask security practitioners to define "vulnerability" and you will get a variety 
 
 <hr>
 
-#### <a name="day-2-keynote"></a> Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
+<a name="day-2-keynote"></a>
+#### Day 2 Keynote: Signal and Noise: What A Decade In Forecasting Science Has Taught Me
 
 <img style="border:1px solid black;" src="../assets/regina-joseph.jpg" width="150" alt="Regina Joseph" />
 
@@ -570,7 +571,8 @@ Regina Joseph
 
 <hr>
 
-#### <a name="jerry"></a> The CVE Panopticon: What Happens When The Prisoners Set The Standards?
+<a name="jerry"></a>
+#### The CVE Panopticon: What Happens When The Prisoners Set The Standards?
 
 <img style="border:1px solid black;" src="../assets/jerry.png" width="150" alt="Jerry Gamblin, Empirical Security" />
 
@@ -581,7 +583,8 @@ Jerry Gamblin, Empirical Security
 
 <hr>
 
-#### <a name="nestle"></a> Beyond Remediation: Integrating Countermeasures into Vulnerability Management
+<a name="nestle"></a>
+#### Beyond Remediation: Integrating Countermeasures into Vulnerability Management
 
 <table>
     <tr>
@@ -611,7 +614,7 @@ While traditional vulnerability management programs usually focus on detection a
 <!-- ruben -->
 
 <a name="dsit"></a>
-#### Maximising Data Use to Reduce Cyber Risk Across Government Domains?
+#### Maximising Data Use to Reduce Cyber Risk Across Government Domains
 
 <img style="border:1px solid black;" src="../assets/nick.png" width="150" alt="Nick Woodcraft, DSIT" />
 
@@ -655,8 +658,6 @@ In this talk we propose a system model that represents software, hardware, and c
 
 <hr>
 
-
-<!-- sok -->
 #### <a name="sok"></a> SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT
 
 Following the expansion of IoT systems, spanning from devices to cloud backends, reported IoT CVE vulnerabilities have increased at an alarming pace. Since most IoT attacks exploit known vulnerabilities, understanding known vulnerabilities is vital for defense and security research. In this work, we systematize the prior research on studying IoT vulnerabilities, revealing the absence of consistent IoT definitions, reliable and scalable classification methodologies, and high-quality IoT CVE datasets. To overcome these limitations, we design LLIoT, a novel and LLM-assisted approach that systematically and automatically distinguishes IoT-specific CVEs at large scale, enabling in-depth understanding of IoT vulnerabilities. First, leveraging the systematization knowledge from the literature, we derive a four-layer IoT ecosystem taxonomy and define classification criteria for distinguishing IoT CVEs. Then, using an expert-validated ground-truth dataset, we demonstrate that LLMs can reliably distinguish IoT from non-IoT CVEs with high accuracy of 95%, outperforming humans by avoiding cognitive errors and gaps in domain knowledge. Applying LLIoT to CVEs from 2013–2024, we build a dataset of 15,066 IoT-specific vulnerabilities, of which 8,391 are newly classified with respect to previous datasets. Using this dataset, which we share with the research community for further research and reproducibility, we characterize how IoT vulnerabilities differ from traditional IT vulnerabilities. Upon our observation, we provide actionable recommendations for responsible stakeholders.
@@ -670,12 +671,8 @@ Tina Rezaei, University of Twente
 
 <hr>
 
-#### <a name="meta"></a> Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language
-
-
-
-
-#### <a name="leverett"></a> Exploitation Saturation and Designing for Detection
+<a name="leverett"></a>
+#### Exploitation Saturation and Designing for Detection
 
 <img style="border:1px solid black;" src="../assets/leverett.jpg" width="150" alt="Éireann Leverett" />
 
@@ -687,7 +684,8 @@ There's a limit to how many CVEs are necessary to exploit a product successfully
 
 <hr>
 
-#### <a name="davi"></a> Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?
+<a name="davi"></a>
+#### Hard on the Outside, Soft in the Middle: How Many Clicks to Post Quantum?
 
 <img style="border:1px solid black;" src="../assets/davi.png" width="150" alt="Davi Ottenheimer" />
 
@@ -699,7 +697,8 @@ A CDN reported in late 2025 that more than half its traffic uses hybrid key agre
 
 <hr>
 
-#### <a name="therapy"></a> Group Therapy&mdash;Come and Share Your Fear and Pain Relating to AI and Vulns?
+<a name="therapy"></a>
+#### Group Therapy&mdash;Come and Share Your Fear and Pain Relating to AI and Vulns?
 
 <table>
     <tr>
@@ -722,7 +721,8 @@ There's been a lot of hype and fear, uncertainty, and doubt (FUD) around rapidly
 
 <hr>
 
-#### <a name="nacho"></a> Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
+<a name="nacho"></a>
+#### Detecting What Cannot Yet Be Named&mdash;Can We Optimize the Vulnerability Ecoystem?
 
 <img style="border:1px solid black;" src="../assets/nacho.jpg" width="150" alt="Natalie Kilber" />
 
@@ -742,7 +742,8 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 
 <hr>
 
-#### <a name="ben"></a> CVE2VEC: Making sparse vulnerability data dense for inferring missing values and understanding future exploitation patterns
+<a name="ben"></a>
+#### CVE2VEC: Making sparse vulnerability data dense for inferring missing values and understanding future exploitation patterns
 
 <img style="border:1px solid black;" src="../assets/ben.jpg" width="150" alt="Ben Edwards" />
 
@@ -756,7 +757,8 @@ Vulnerability data is predominantly sparse, categorical, and full of missing dat
 
 <!-- cassie -->
 
-#### <a name="trey"></a> On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
+<a name="trey"></a>
+#### On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
 
 <img style="border:1px solid black;" src="../assets/trey.jpg" width="150" alt="Trey Darley" />
 
@@ -774,7 +776,8 @@ The talk closes with a helpful refresher on Roseannadanna's Law: "It's always so
 
 <hr>
 
-#### <a name="andrey"></a> Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half
+<a name="andrey"></a>
+#### Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half
 
 <img style="border:1px solid black;" src="../assets/andrey.jpg" width="150" alt="Andrey Lukashenkov" />
 
@@ -798,7 +801,8 @@ The talk assumes you already know CVSS, EPSS, KEV, VEX, SBOM, and PURL and that 
 
 <hr>
 
-#### <a name="adulau"></a> The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu
+<a name="adulau"></a>
+#### The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu
 
 <img style="border:1px solid black;" src="../assets/adulau.jpg" width="150" alt="Alexandre Dulaunoy" />
 
