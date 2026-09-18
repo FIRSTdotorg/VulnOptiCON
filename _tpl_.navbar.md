@@ -23,4 +23,4 @@ attributes:
 
 #### Bronze Sponsor
 
-[![Dux](../assets/sponsor-dux-wd.png)](https://dux.io/ "Dux")
+[![Dux](../assets/dux.png)](https://dux.io/ "Dux")
