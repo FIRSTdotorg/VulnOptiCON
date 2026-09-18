@@ -26,7 +26,9 @@ There are many other hotels within walking distance if this block is sold out:
 
 Day 1 of the conference (23 September) will be held at the Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval, Esch-sur-Alzette ([Google Maps](https://maps.app.goo.gl/E3EojbzQ1xrSebZw8), building 02 on [this map](https://www.uni.lu/wp-content/uploads/sites/11/2026/07/21162230/belval-map.png)). 
 
-There is a bus service (two buses of 74 seats each) leaving the Marriott at 9:00 AM for the venue. It will be returning at 5:45 from the venue to the hotel. Do not be late as the busses cannot wait outside the hotel or venue for any extended periods.
+There is a bus service (two buses of 74 seats each) leaving the Marriott at 9:00 AM for the venue. Do not be late as the busses cannot wait outside the hotel or venue for any extended periods, so please convene in the hotel lobby at 8:45.
+
+The buses will do a return service in the evening at 19:30 and the second one at 20:30 from the venue to the hotel.
 
 Here is a [train](https://maps.app.goo.gl/MPpuvSLrnDE452wu9) option if you miss the bus or choose to come at a different time.
 
