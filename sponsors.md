@@ -12,6 +12,8 @@ attributes:
 * ![CIRCL](/_/e/_logos/sponsor-circl-wd.svg "CIRCL")
 ### Event Partner and Host | &nbsp;&nbsp;&nbsp; [CIRCL](https://circl.lu/)
 The Computer Incident Response Center Luxembourg (CIRCL) is a government-led initiative aimed at collecting, analyzing, reporting, and addressing computer security threats and incidents. CIRCL serves as the host for several open-source software projects, including MISP and AIL, which play critical roles in facilitating information sharing and enhancing threat intelligence capabilities.
+<br>
+<br>
 <hr>
 
 * ![Brinqa](/_/e/_logos/sponsor-brinqa-wd.svg "Brinqa")
