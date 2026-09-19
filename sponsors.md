@@ -21,14 +21,11 @@ Brinqa ingests and correlates limitless exposure data into a single, trusted fou
 * ![ENISA](/_/e/_logos/sponsor-enisa-wd.svg "ENISA")
 ### Gold Sponsor | &nbsp;&nbsp;&nbsp; [ENISA](https://www.enisa.europa.eu)
 Achieving a high common level of cybersecurity across Europe.
-<hr>
 
 * ![Vulners](/_/e/_logos/sponsor-vulners-wd.svg "Vulners")
 ### Bronze Sponsor | &nbsp;&nbsp;&nbsp; [Vulners](https://vulners.com/)
 Vulners is an all-in-one vulnerability intelligence database that aggregates over 200 data sources, providing a unified platform for accessing a vast array of security-related information. With more than 4 million constantly updated entries, it includes Common Vulnerabilities and Exposures (CVEs), vendor security advisories, exploits, and Indicators of Compromise (IoC), making it essential for staying updated on cybersecurity threats. Vulners platform offers a robust scalable API for complex search queries allowing users to find vulnerabilities by various parameters such as software name and version, or CPE. Vulners also offers enriched context for vulnerabilities, including proprietary AI Score and common metrics like CVSS, EPSS, SSVC, enabling users to prioritize remediation efforts effectively.
-<hr>
 
 * ![Dux](../assets/sponsor-dux-sq.png "Dux")
 ### Bronze Sponsor | &nbsp;&nbsp;&nbsp; [Dux](https://dux.io/)
 Safety at machine speed.
-<hr>
