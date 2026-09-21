@@ -15,7 +15,7 @@ title: "Hotel and Venues | VulnOptiCON 2026"
 There are many other hotels within walking distance if this block is sold out:
 
 | Hotel | Address |
-|---|---|
+| :---  | :---    |
 | [Hotel Empire](https://www.booking.com/hotel/lu/empire.html) | 34 Place de la Gare, L-1616 Luxembourg |
 | [Hotel Grey](https://www.hotelgrey.lu/en/reservation) | 4 Rue Joseph Junck, L-1839 Luxembourg |
 | [City Hotel](https://cityhotel.lu/en/) | 1 Rue de Strasbourg, L-2561 Luxembourg |
