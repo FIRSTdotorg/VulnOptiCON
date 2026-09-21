@@ -1,24 +1,25 @@
 # VulnOptiCON
 
-## Registration now open!
+Registration is open!
 
-<h4 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register for the conference now</a></h4>
+<h4 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register for VulnOptiCON</a></h4>
 
-## Day one will be held at:
+## Venues
 
-Maison des Arts et des Étudiants - Grande Salle - Place de l'Université
-Belval (Esch-sur-Alzette)
+VulnOptiCON will be held at two different [venues](hotel#venues). For details, see the [Hotels and Venues](hotel) page.
 
-## Day two and three will be held at:
+### Day One
+
+Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval (Esch-sur-Alzette)
+
+### Days Two and Three
 
 Luxembourg Marriott Hotel Alfa
 16, Place de la Gare, L-1616 Luxembourg
 
-## Key updates:
+## News
 
-GCVE workshop the day before!
-
-https://gcve.eu/2026/09/01/gcve-workshop-22-september-2026-1400-1800-luxembourg-before-the-vulnopticon-conference/
+GCVE (Global CVE Allocation System) is [holding a workshop](https://gcve.eu/2026/09/01/gcve-workshop-22-september-2026-1400-1800-luxembourg-before-the-vulnopticon-conference/) on 22 September, the day before VulnOptCON.  The workshop isfree to attend, registration required.
 
 ## Luxembourg, September 23-25, 2026
 
@@ -29,7 +30,6 @@ A good vulnerability forecast doesn’t start with code or exploits; it starts w
 We offer several session formats, so even if you only have the beginnings of an idea, it is worth exploring how it might fit. This is a great environment for both new speakers (we’re a small-ish, friendly group), and seasoned speakers looking for feedback (we’re highly engaged and want to get involved). You do not need to be a data visualisation guru or Dr DataScience to get involved – though they are always welcome, and have built the foundation for this conference.
 
 Oh also, you have to be living under a cyber rock to have missed the recent hoopla around #ProjectGlasswing and #Mythos. This is not the end of the story. The AI landscape is vast and evolving and our challenge to you is to tell or show us something about #AI and #securityvulnerabilities that we haven’t already seen or heard…
-
 
 ## [Sponsorships Available](/sponsorship)
 
