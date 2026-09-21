@@ -1,17 +1,13 @@
-# VulnOptiCON
-
 ## Updates
 
 ### Venues and Transportation
 
 VulnOptiCON will be held at two different [venues](hotel#venues). For details, see the [Hotels and Venues](hotel) page.
-
 #### Day One
 
 Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval (Esch-sur-Alzette)
 
 Busses will be provided between the two venues.
-
 #### Days Two and Three
 
 Luxembourg Marriott Hotel Alfa
@@ -20,7 +16,6 @@ Luxembourg Marriott Hotel Alfa
 ### Registration
 
 Registration is open!
-
 <h5 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register Now</a></h5>
 
 ### GCVE Workshop
