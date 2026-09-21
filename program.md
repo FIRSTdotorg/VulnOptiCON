@@ -3,6 +3,7 @@
 title: "Program | VulnOptiCON 2026"
 ...
 -->
+
 # Program and Speakers
 ## VulnOptiCON 2026
 
@@ -10,7 +11,7 @@ This year, we’re adding a day (aptly named Day 1, on 23 September) to more bro
 
 All times are Luxembourg local, that is, Central European Summer Time (CEST, UTC+2).
 
-Reminder! Day 1 is in a different location than Days 2 and 3. See [Hotel and Venues](hotel).
+Reminder! Day 1 is in a different location than Days 2 and 3. See [Hotel and Venues](hotel#venue).
 
 The busses leave from Marriot Hotel Alfa at 9 AM sharp for the venue. They cannot wait long outside the hotel as there is no parking so please assemble in the lobby from 8:45.
 
@@ -434,7 +435,8 @@ Jaya Baloo, AISLE
 
 <hr>
 
-#### <a name="enisa"></a> Establishing a Unified Model for EU Vulnerability Services
+<a name="enisa"></a>
+#### Establishing a Unified Model for EU Vulnerability Services
 
 <img style="border:1px solid black;" src="../assets/johannes-clos.jpg" width="150" alt="Johannes Clos" />
 
