@@ -1,23 +1,29 @@
 # VulnOptiCON
 
-Registration is open!
+## Updates
 
-<h4 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register for VulnOptiCON</a></h4>
-
-## Venues
+### Venues and Transportation
 
 VulnOptiCON will be held at two different [venues](hotel#venues). For details, see the [Hotels and Venues](hotel) page.
 
-### Day One
+#### Day One
 
 Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval (Esch-sur-Alzette)
 
-### Days Two and Three
+Busses will be provided between the two venues.
+
+#### Days Two and Three
 
 Luxembourg Marriott Hotel Alfa
 16, Place de la Gare, L-1616 Luxembourg
 
-## News
+### Registration
+
+Registration is open!
+
+<h5 class="ui-buttons"><a href="https://pretix.eu/circl/vulnopticon2026/" title="Register now!" class="button color-button animated" target="_blank">Register Now</a></h5>
+
+### GCVE Workshop
 
 GCVE (Global CVE Allocation System) is [holding a workshop](https://gcve.eu/2026/09/01/gcve-workshop-22-september-2026-1400-1800-luxembourg-before-the-vulnopticon-conference/) on 22 September, the day before VulnOptCON.  The workshop isfree to attend, registration required.
 
