@@ -142,7 +142,15 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
         </tr>
         <tr class="even">
             <td class="agenda-time">17:00</td>
-            <td class="sess0 not-empty"><p class="cat5 break">End of Day 1</p></td>
+            <td class="sess0 not-empty"><p class="cat5 break">Reception</p></td>
+        </tr>
+        <tr class="odd">
+            <td class="agenda-time">19:30</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Bus to Marriott Alfa</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">20:30</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Bus to Marriott Alfa</p></td>
         </tr>
     </tbody>
 </table>
