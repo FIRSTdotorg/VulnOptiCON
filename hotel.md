@@ -3,6 +3,10 @@
 title: "Hotel and Venues | VulnOptiCON 2026"
 ...
 -->
+# Travelling from the airport
+
+Public transport is free all across Luxembourg, and you can get the T1 for free from the airport. Come outside, ignore the taxis, and turn right. You will see a tram marked Stadion (T1), and you a ride it to Gare Central. The Alpha is just across the road from there. You can also get a taxi, but the tram is clean, nice, and free. Just get on, and keep track of your stops.
+
 # Hotel and Venues
 ## VulnOptiCON 2026
 
