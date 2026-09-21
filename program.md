@@ -228,7 +228,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#meta">Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language</a></p>
-                <p class="presenter">Barnabás Tarcali, University of Groningen <br> Hidde-Jan Jongsma, TNO/p>
+                <p class="presenter">Barnabás Tarcali, University of Groningen <br> Hidde-Jan Jongsma, TNO</p>
             </td>
         </tr>
         <tr class="even">
