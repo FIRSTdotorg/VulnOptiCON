@@ -432,7 +432,8 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
 <hr>
 <br>
 
-#### <a name="day-1-keynote"></a> Day 1 Keynote: AI Innovations for Vulnerability Management
+<a name="day-1-keynote"></a>
+#### Day 1 Keynote: AI Innovations for Vulnerability Management
 
 <img style="border:1px solid black;" src="../assets/JayaBaloo.jpg" width="150" alt="Jaya Baloo" />
 
@@ -482,7 +483,8 @@ The vulnerability ecosystem has become critical infrastructure for defenders, ve
 
 <hr>
 
-#### <a name="brinqa"></a> Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management
+<a name="brinqa"></a>
+#### Would You Let an AI Close That Ticket? Earning a Security Team's Trust in Exposure Management
 
 <img style="border:1px solid black;" src="../assets/dovich.jpg" width="150" alt="Ron Dovich" />
 
@@ -494,7 +496,8 @@ Somewhere on your team is the person every finding eventually lands on. They spe
 
 <hr>
 
-#### <a name="cve"></a> You, Me, and CVE: What Does the Future Hold for the CVE Program?
+<a name="cve"></a>
+#### You, Me, and CVE: What Does the Future Hold for the CVE Program?
 
 <table>
     <tr>
@@ -539,7 +542,8 @@ A year ago, the CVE Program seemed to be in peril due to a contracting/funding i
 *Tom Turner is a Principal Product Security Engineer at Arm and a founding member of its Product Security Incident Response Team (PSIRT). He manages vulnerability reporting, investigation and disclosure across Arm’s hardware, firmware and software products, and played a key role in establishing its bug bounty programmes. Tom works closely with partners across Arm’s cloud, mobile and automotive ecosystems, providing security guidance and support, and is an active member of various vulnerability disclosure working groups. Previously, he held similar roles at Citrix and Cloud Software Group, and worked as a security consultant at a penetration testing and vulnerability management consultancy.*
 <hr>
 
-#### <a name="ktn"></a> Drowning in Disclosure: The Operational Reality of Vulnerability Response
+<a name="ktn"></a>
+#### Drowning in Disclosure: The Operational Reality of Vulnerability Response
 
 <img style="border:1px solid black;" src="../assets/ktn.jpg" width="150" alt="Katie Noble" />
 
@@ -564,7 +568,8 @@ Suddenly, automated vulnerability discovery has become the eldritch monster stal
 
 <hr>
 
-#### <a name="jacobs"></a> Broken, Reachable, and Harmful: Rethinking Vulnerabilities
+<a name="jacobs"></a>
+#### Broken, Reachable, and Harmful: Rethinking Vulnerabilities
 
 <img style="border:1px solid black;" src="../assets/jay.jpg" width="150" alt="Jay Jacobs" />
 
