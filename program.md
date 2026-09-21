@@ -50,7 +50,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
-                <p class="presenter">FIRST VulnOptiCON Program Committee</p>
+                <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
         <tr class="odd">
@@ -103,12 +103,12 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">15:00</td>
+            <td class="agenda-time">14:45</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                15:30
+                15:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#ktn">Drowning in Disclosure: The Operational Reality of Vulnerability Response</a></p>
@@ -117,7 +117,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                16:00
+                15:45
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#erick">I Reject Your Reality and Substitute My Own: Two Years of Vulnerability Discovery with LLM Agents</a></p>
@@ -126,7 +126,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:30
+                16:15
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#jacobs">Broken, Reachable, and Harmful: Rethinking Vulnerabilities</a></p>
@@ -134,6 +134,13 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
         </tr>
         <tr class="odd">
+            <td class="agenda-time">16:45</td>
+            <td class="sess0 not-empty">
+                <p class="cat5 break">Closing remarks</p>
+                <p class="presenter">VulnOptiCON Program Committee</p>
+        </td>
+        </tr>
+        <tr class="even">
             <td class="agenda-time">17:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">End of Day 1</p></td>
         </tr>
@@ -166,7 +173,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
-                VulnOptiCON Program Committee
+                <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
         <tr class="odd">
@@ -299,7 +306,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
-                VulnOptiCON Program Committee
+                <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
         <tr class="odd">
@@ -410,7 +417,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Closing Remarks</p>
-                VulnOptiCON Program Commitee
+                <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
         <tr class="odd">
@@ -449,7 +456,8 @@ As the Cyber Resilience Act’s reporting obligations begin to apply and ENISA r
 
 <hr>
 
-#### <a name="gcve"></a> GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
+<a name="gcve"></a>
+#### GCVE: Rebooting Vulnerability Tracking for an Open Security Ecosystem
 
 <table>
     <tr>
