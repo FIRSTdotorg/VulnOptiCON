@@ -651,12 +651,24 @@ While traditional vulnerability management programs usually focus on detection a
 <a name="alexia-bio"></a>
 <hr>
 
-<!-- ruben -->
+<a name="ruben"></a>
+#### Measuring and Forecasting Exploitation Conditions
+
+<img style="border:1px solid black;" src="../assets/ruben.png" width="150" alt="Ruben Bos, Volerion" />
+
+Ruben Bos, Volerion
+
+Vulnerability forecasting has made important progress in estimating future CVE volume, severity, and exploitation likelihood. This talk explores a complementary question: what conditions shape how those vulnerabilities can actually be exploited in practice? Using attack graphs, we model exploitation conditions as structured data: attacker knowledge, positioning, environment, execution state, configuration, mitigations, and dependency on other attack vectors. We then examine how these conditions appear across vulnerabilities, how often they co-occur, how they change over time, and what they can tell us about future vulnerability behavior. By measuring exploitation conditions, we can explore whether different condition patterns help estimate outcomes such as mass exploitation potential, time to exploitation, exploit automation, or the amount of target-specific effort required. The goal is to make exploitation conditions a measurable input to vulnerability forecasting, rather than an implicit assumption buried in prose advisories.
+
+<a name="ruben-bio"></a>
+*Ruben Bos is co-founder of Volerion, where he and co-founder Karel Knibbe use AI to improve the quality, consistency, and timeliness of CVE data. Ruben studied software engineering and holds a cum laude Bachelor’s degree in Cyber Security. He has over a decade of experience in bug bounty and penetration testing, including winning multiple live hacking events hosted by companies such as Meta and Intel. Over the past two years, he has focused on high-accuracy CVSS automation and vulnerability enrichment, progressing from direct vector prediction to guided walkthrough approaches and ultimately to a graph-based method that models exploitation as explicit scenarios and derives CVSS vectors programmatically.*
+
+<hr>
 
 <a name="dsit"></a>
 #### Maximising Data Use to Reduce Cyber Risk Across Government Domains
 
-<img style="border:1px solid black;" src="../assets/nick2.png" width="150" alt="Nick Woodcraft, DSIT" />
+<img style="border:1px solid black;" src="../assets/nick.png" width="150" alt="Nick Woodcraft, DSIT" />
 
 Nick Woodcraft, DSIT
 
@@ -795,7 +807,19 @@ Vulnerability data is predominantly sparse, categorical, and full of missing dat
 
 <hr>
 
-<!-- cassie -->
+<a name="cassie"></a>
+#### The Silent Fix Gap
+
+<img style="border:1px solid black;" src="../assets/cassie.jpg" width="150" alt="Cassie Crossley" />
+
+Cassie Crossley, VulNow
+
+Vulnerability management traditionally begins when a vulnerability is disclosed. But what happens before that point? Security-relevant fixes can appear in public open source repositories well before a CVE or advisory gives defenders something to act on. During that interval, the code has changed, the evidence may already be public, and conventional vulnerability management tools may still report nothing. This session examines that largely overlooked period between a security fix and formal disclosure, using findings from a large-scale analysis of open source repositories and subsequently confirmed vulnerabilities. We will explore how disclosure delays, silent fixes, transitive dependencies, and an increasingly strained vulnerability disclosure ecosystem can create blind spots for security teams that depend primarily on published vulnerability records. 
+Rather than proposing another scanner, the session focuses on what defenders can learn from signals that already exist in the software supply chain. Attendees will leave with a different way to think about vulnerability visibility, the limits of a clean scan, and practical ways to reduce exposure during the period before traditional vulnerability intelligence arrives.
+
+*Cassie Crossley is the CEO/Co-Founder of the cybersecurity company VulNow, focused on software supply chain vulnerability intelligence. A global leader in technology and risk management, she has more than 25 years of experience driving innovation and resilience across critical infrastructure, manufacturing, and technology sectors. Previously VP, Supply Chain Security at Schneider Electric, Cassie established one of the industry’s most comprehensive supplier cybersecurity programs and helped shape global standards for software supply chain assurance. She is the author of “Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware” (O’Reilly Media) and a recognized authority on operational resilience, transparency, and cyber risk governance.*
+
+<hr>
 
 <a name="trey"></a>
 #### On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging
