@@ -5,6 +5,7 @@ title: "Program | VulnOptiCON 2026"
 -->
 
 # Program and Speakers
+
 ## VulnOptiCON 2026
 
 This year, we’re adding a day (aptly named Day 1, on 23 September) to more broadly cover All the (Vulnerability) Things. The expanded scope of Day 1 will provide a forum for the European vulnerability community to network and discuss vulnerability management, the anticipated AI vulnpocalypse, the realities of building a VDP, legal and policy considerations, and more.
@@ -19,9 +20,12 @@ After the event there will be a bus leaving at 19:30 and another at 20:30 to bri
 
 It is also possible to get taxis, Ubers, or public transport in Luxembourg is very smooth and reliable.
 
-Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 September), [Day 3](#day-3) (Friday 25 September)
-<br>
-<br>
+Jump to:
+
+* [Day 1](#day-1) (Wednesday 23 September)
+* [Day 2](#day-2) (Thursday 24 September)
+* [Day 3](#day-3) (Friday 25 September)
+
 <hr>
 <br>
 
@@ -41,13 +45,19 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
     </thead>
     <tbody>
         <tr class="odd">
+            <td class="agenda-time">08:45</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Bus to Place de l'Université Belval</p></td>
+        </tr>
+        <tr class="even">
+            <td class="agenda-time">09:00</td>
+            <td class="sess0 not-empty"><p class="cat5 break">Bus to Place de l'Université Belval</p></td>
+        </tr>
+        <tr class="odd">
             <td class="agenda-time">9:00</td>
             <td class="sess0 not-empty">Venue open</td>
         </tr>
         <tr class="even">
-            <td class="agenda-time">
-                9:45
-            </td>
+            <td class="agenda-time">9:45</td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
@@ -157,7 +167,6 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
 <p>
     <br>
 </p>
-
 <h3 id="Day-2">
     <a name="day-2"></a>
     Day 2: Thursday 24 September
@@ -172,12 +181,12 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
     </thead>
     <tbody>
         <tr class="odd">
-            <td class="agenda-time">8:30</td>
+            <td class="agenda-time">9:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Venue open</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                9:00
+                9:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Opening remarks</p>
@@ -186,7 +195,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                9:15
+                9:45
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Day 2 Keynote: <a href="#day-2-keynote">Signal and Noise: What A Decade In Forecasting Science Has Taught Me</a></p>
@@ -195,7 +204,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                10:00
+                10:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#jerry">The CVE Panopticon: What Happens When The Prisoners Set The Standards?</a></p>
@@ -203,21 +212,21 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">10:30</td>
+            <td class="agenda-time">11:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                11:00
+                11:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#nestle">Beyond Remediation: Integrating Countermeasures into Vulnerability Management</a></p>
-                <p class="presenter">Angelo Punturiero, Nestlé; Martin Karel, Nestlé; Alexia Sorel, Nestlé</p>
+                <p class="presenter">Angelo Punturiero, Nestlé <br> Martin Karel, Nestlé</p>
             </td>
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                11:20
+                11:50
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#ruben">Measuring and Forecasting Exploitation Conditions</a></p>
@@ -225,7 +234,7 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
         </tr>
         <tr class="even">
-            <td class="agenda-time">12:00</td>
+            <td class="agenda-time">12:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Lunch</p></td>
         </tr>
         <tr class="odd">
@@ -278,19 +287,20 @@ Jump to: [Day 1](#day-1) (Wednesday 23 September), [Day 2](#day-2) (Thursday 24 
             </td>
         </tr>
         <tr class="even">
+            <td class="agenda-time">16:45</td>
+            <td class="sess0 not-empty">
+                <p class="cat5 break">Closing remarks</p>
+                <p class="presenter">VulnOptiCON Program Committee</p>
+        </td>
+        <tr class="odd">
             <td class="agenda-time">17:00</td>
             <td class="sess0 not-empty">End of Day 2</td>
-        </tr>
-        <tr class="odd">
-            <td class="agenda-time">18:00</td>
-            <td class="sess0 not-empty">Social Event</td>
         </tr>
     </tbody>
 </table>
 <p>
-    <br>
+<br>
 </p>
-
 <h3 id="Day-3">
     <a name="day-3"></a>
     Day 3: Friday 25 September

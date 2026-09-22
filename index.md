@@ -1,17 +1,18 @@
+# VulnOptiCON 2026
+
 ## Updates
 
 ### Venues and Transportation
 
 VulnOptiCON will be held at two different [venues](hotel#venues). For details, see the [Hotels and Venues](hotel) page.
-#### Day One
 
-Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval (Esch-sur-Alzette)
+* Day One
+<p>Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval (Esch-sur-Alzette)<br>
+Busses will be provided between the two venues.</p>
 
-Busses will be provided between the two venues.
-#### Days Two and Three
-
-Luxembourg Marriott Hotel Alfa
-16, Place de la Gare, L-1616 Luxembourg
+* Days Two and Three
+<p>Luxembourg Marriott Hotel Alfa<br>
+16, Place de la Gare, L-1616 Luxembourg</p>
 
 ### Registration
 
@@ -22,7 +23,7 @@ Registration is open!
 
 GCVE (Global CVE Allocation System) is [holding a workshop](https://gcve.eu/2026/09/01/gcve-workshop-22-september-2026-1400-1800-luxembourg-before-the-vulnopticon-conference/) on 22 September, the day before VulnOptCON.  The workshop isfree to attend, registration required.
 
-## Luxembourg, September 23-25, 2026
+## About VulnOptiCON
 
 VulnOptiCON (formerly the [Vuln4Cast TC](https://www.first.org/events/colloquia/vuln4cast25/)) is a FIRST Technical Colloquium dedicated to exploring and sharing practical and creative ways to put vulnerability, configuration, or exploit data to work. Whether you are estimating, measuring, predicting, tracking, visualising or otherwise playing with vulnerability and exploit data, this may be the event for you. Our goal is to make the workshop as interactive as possible, so that as a community, we can inform and strengthen each other’s outcomes, adopt and adapt new ways of thinking, and uncover new opportunities.
 
@@ -32,10 +33,10 @@ We offer several session formats, so even if you only have the beginnings of an 
 
 Oh also, you have to be living under a cyber rock to have missed the recent hoopla around #ProjectGlasswing and #Mythos. This is not the end of the story. The AI landscape is vast and evolving and our challenge to you is to tell or show us something about #AI and #securityvulnerabilities that we haven’t already seen or heard…
 
-## [Sponsorships Available](/sponsorship)
+## Sponsorships Available
 
-Sponsorship gives your organization different avenues to reach both experienced and up-and-coming vulnerability management and cybersecurity data science professionals. A motivated community of interest makes a good event, but sponsorship makes the event great. Sponsorship helps defray various event costs including the venue, food and beverage, keynote, and travel. Perhaps more importantly, sponsorship supports new people and new thinking by covering ticket costs for a number of students.
+[Sponsorship](/sponsorship) gives your organization different avenues to reach both experienced and up-and-coming vulnerability management and cybersecurity data science professionals. A motivated community of interest makes a good event, but sponsorship makes the event great. Sponsorship helps defray various event costs including the venue, food and beverage, keynote, and travel. Perhaps more importantly, sponsorship supports new people and new thinking by covering ticket costs for a number of students.
 
 To discuss sponsorship opportunities please [contact the Program Committee](mailto:vulnopticon@gmail.com).
 
-<h4 class="ui-buttons"><a href="assets/first-sponsorship-vulnopticon2026.pdf" title="Sponsorship Prospectus" class="button color-button animated" target="_blank">Sponsorship Prospectus</a></h4>
+<h5 class="ui-buttons"><a href="assets/first-sponsorship-vulnopticon2026.pdf" title="Sponsorship Prospectus" class="button color-button animated" target="_blank">Sponsorship Prospectus</a></h5>
