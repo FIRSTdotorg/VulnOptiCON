@@ -654,7 +654,7 @@ While traditional vulnerability management programs usually focus on detection a
 <a name="ruben"></a>
 #### Measuring and Forecasting Exploitation Conditions
 
-<img style="border:1px solid black;" src="../assets/ruben.png" width="150" alt="Ruben Bos, Volerion" />
+<img style="border:1px solid black;" src="../assets/ruben.jpg" width="150" alt="Ruben Bos, Volerion" />
 
 Ruben Bos, Volerion
 
