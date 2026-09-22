@@ -679,13 +679,15 @@ This is an active workshopping session to explore how various types of domain da
 
 <hr>
 
-#### <a name="ncsc"></a> What Does NCSC (UK) Actually Do With Vulnerability Data?
+<a name="ncsc"></a>
+####  What Does NCSC (UK) Actually Do With Vulnerability Data?
 
 A data scientist specialising in the analysis of vulnerability data and focused on applying data-driven approaches to support risk-informed decision-making.
 
 <hr>
 
-#### <a name="meta"></a> Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language
+<a name="meta"></a>
+#### Improved CVE-Chain Analysis: Reducing False Positives Using Meta Attack Language
 
 <table>
     <tr>
@@ -710,7 +712,8 @@ In this talk we propose a system model that represents software, hardware, and c
 
 <hr>
 
-#### <a name="sok"></a> SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT
+<a name="sok"></a>
+#### SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT
 
 Following the expansion of IoT systems, spanning from devices to cloud backends, reported IoT CVE vulnerabilities have increased at an alarming pace. Since most IoT attacks exploit known vulnerabilities, understanding known vulnerabilities is vital for defense and security research. In this work, we systematize the prior research on studying IoT vulnerabilities, revealing the absence of consistent IoT definitions, reliable and scalable classification methodologies, and high-quality IoT CVE datasets. To overcome these limitations, we design LLIoT, a novel and LLM-assisted approach that systematically and automatically distinguishes IoT-specific CVEs at large scale, enabling in-depth understanding of IoT vulnerabilities. First, leveraging the systematization knowledge from the literature, we derive a four-layer IoT ecosystem taxonomy and define classification criteria for distinguishing IoT CVEs. Then, using an expert-validated ground-truth dataset, we demonstrate that LLMs can reliably distinguish IoT from non-IoT CVEs with high accuracy of 95%, outperforming humans by avoiding cognitive errors and gaps in domain knowledge. Applying LLIoT to CVEs from 2013–2024, we build a dataset of 15,066 IoT-specific vulnerabilities, of which 8,391 are newly classified with respect to previous datasets. Using this dataset, which we share with the research community for further research and reproducibility, we characterize how IoT vulnerabilities differ from traditional IT vulnerabilities. Upon our observation, we provide actionable recommendations for responsible stakeholders.
 
