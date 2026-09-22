@@ -20,6 +20,8 @@ After the event there will be a bus leaving at 19:30 and another at 20:30 to bri
 
 It is also possible to get taxis, Ubers, or public transport in Luxembourg is very smooth and reliable.
 
+Here's a public [Google Calendar](https://calendar.google.com/calendar/embed?src=035b144ec15f94aad9f8ee4581bb9529306702e1813cbe62aea7a840341b4597%40group.calendar.google.com&ctz=Europe%2FLuxembourg) (and [ICS](https://calendar.google.com/calendar/ical/035b144ec15f94aad9f8ee4581bb9529306702e1813cbe62aea7a840341b4597%40group.calendar.google.com/public/basic.ics) version).
+
 Jump to:
 * [Day 1](#day-1) (Wednesday 23 September)
 * [Day 2](#day-2) (Thursday 24 September)
