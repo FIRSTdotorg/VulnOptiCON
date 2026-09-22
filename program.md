@@ -55,7 +55,7 @@ Jump to:
         </tr>
         <tr class="odd">
             <td class="agenda-time">9:00</td>
-            <td class="sess0 not-empty">Venue open</td>
+            <td class="sess0 not-empty">Venue Open</td>
         </tr>
         <tr class="even">
             <td class="agenda-time">9:45</td>
@@ -183,7 +183,7 @@ Jump to:
     <tbody>
         <tr class="odd">
             <td class="agenda-time">9:00</td>
-            <td class="sess0 not-empty"><p class="cat5 break">Venue open</p></td>
+            <td class="sess0 not-empty"><p class="cat5 break">Venue Open</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
@@ -317,7 +317,7 @@ Jump to:
     <tbody>
         <tr class="odd">
             <td class="agenda-time">8:30</td>
-            <td class="sess0 not-empty">Venue open</td>
+            <td class="sess0 not-empty">Venue Open</td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
