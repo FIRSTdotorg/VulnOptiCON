@@ -8,6 +8,7 @@ VulnOptiCON will be held at two different [venues](hotel#venues). For details, s
 
 * Day One
 <p>Maison des Arts et des Étudiants - Grande Salle - Place de l'Université Belval (Esch-sur-Alzette)<br>
+<br>
 Busses will be provided between the two venues.</p>
 
 * Days Two and Three

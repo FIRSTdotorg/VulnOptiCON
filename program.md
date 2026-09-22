@@ -21,12 +21,13 @@ After the event there will be a bus leaving at 19:30 and another at 20:30 to bri
 It is also possible to get taxis, Ubers, or public transport in Luxembourg is very smooth and reliable.
 
 Jump to:
-
 * [Day 1](#day-1) (Wednesday 23 September)
 * [Day 2](#day-2) (Thursday 24 September)
 * [Day 3](#day-3) (Friday 25 September)
 
+<br>
 <hr>
+<br>
 <br>
 
 <div class="data-preview">
@@ -385,13 +386,13 @@ Jump to:
                 13:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#zap">Ye Olde Data Workshoppe - TBC</a></p>
-                <p class="presenter">Data nerdz!</p>
+                <p class="cat4 presentation"><a href="#zap">VulnOptiCON Mass Debating Session</a></p>
+                <p class="presenter">*?!%#</p>
             </td>
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                14:00
+                14:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#trey">On the Mineshaft Gap: Infinite Vulnerabilities, One Deadline, Zero Public Messaging</a></p>
@@ -400,7 +401,7 @@ Jump to:
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                14:30
+                15:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#andrey">Pick a Number Anyway: Measuring the SBOM &rarr; CRA Article 14 Pipeline When Your Tools Disagree by Half</a></p>
@@ -408,12 +409,12 @@ Jump to:
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">15:00</td>
+            <td class="agenda-time">15:30</td>
             <td class="sess0 not-empty"><p class="cat5 break">Break</p></td>
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                15:30
+                16:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation"><a href="#adulau">The Missing Map: Crowdsourcing Better CPEs for Vulnerability Management with cpe.gcve.eu</a></p>
@@ -422,7 +423,7 @@ Jump to:
         </tr>
         <tr class="odd">
             <td class="agenda-time">
-                16:00
+                16:30
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">VulnOptiCON 2027, The Next Episode</p>
@@ -431,7 +432,7 @@ Jump to:
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:15
+                16:45
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Closing Remarks</p>
@@ -439,7 +440,7 @@ Jump to:
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">16:30</td>
+            <td class="agenda-time">17:00</td>
             <td class="sess0 not-empty"><p class="cat5 break">Fin</p></td>
         </tr>
     </tbody>
