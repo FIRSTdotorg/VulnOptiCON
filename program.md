@@ -60,7 +60,7 @@ Jump to:
         <tr class="even">
             <td class="agenda-time">9:45</td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation">Opening remarks</p>
+                <p class="cat4 presentation">Opening Remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
@@ -147,7 +147,7 @@ Jump to:
         <tr class="odd">
             <td class="agenda-time">16:45</td>
             <td class="sess0 not-empty">
-                <p class="cat5 break">Closing remarks</p>
+                <p class="cat5 break">Closing Remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
         </td>
         </tr>
@@ -190,7 +190,7 @@ Jump to:
                 9:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation">Opening remarks</p>
+                <p class="cat4 presentation">Opening Remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
@@ -290,7 +290,7 @@ Jump to:
         <tr class="even">
             <td class="agenda-time">16:45</td>
             <td class="sess0 not-empty">
-                <p class="cat5 break">Closing remarks</p>
+                <p class="cat5 break">Closing Remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
         </td>
         <tr class="odd">
@@ -324,7 +324,7 @@ Jump to:
                 9:00
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation">Opening remarks</p>
+                <p class="cat4 presentation">Opening Remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
             </td>
         </tr>
@@ -798,7 +798,7 @@ Running beneath all three is a foundational epistemological tension: zero-day de
 <hr>
 
 <a name="ben"></a>
-#### CVE2VEC: Making sparse vulnerability data dense for inferring missing values and understanding future exploitation patterns
+#### CVE2VEC: Making Sparse Vulnerability Data Dense for Inferring Missing Values and Understanding Future Exploitation Patterns
 
 <img style="border:1px solid black;" src="../assets/ben.jpg" width="150" alt="Ben Edwards" />
 
