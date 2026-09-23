@@ -147,14 +147,14 @@ Jump to:
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">16:45</td>
+            <td class="agenda-time">17:00</td>
             <td class="sess0 not-empty">
                 <p class="cat5 break">Closing Remarks</p>
                 <p class="presenter">VulnOptiCON Program Committee</p>
         </td>
         </tr>
         <tr class="even">
-            <td class="agenda-time">17:00</td>
+            <td class="agenda-time">17:15</td>
             <td class="sess0 not-empty"><p class="cat5 break">Reception</p></td>
         </tr>
         <tr class="odd">
