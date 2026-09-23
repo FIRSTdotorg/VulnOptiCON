@@ -285,10 +285,10 @@ Jump to:
                 16:15
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation"><a href="#leverett">Exploitation Saturation and Designing for Detection</a></p>
-                <p class="presenter">Éireann Leverett, Concinnity Risks</p>
+                <p class="cat4 presentation">VulnOptiCON 2027, The Next Episode</p>
+                <p class="presenter">Everyone</p>
             </td>
-        </tr>
+            </tr>
         <tr class="even">
             <td class="agenda-time">16:45</td>
             <td class="sess0 not-empty">
@@ -428,13 +428,15 @@ Jump to:
                 16:30
             </td>
             <td class="sess0 not-empty">
-                <p class="cat4 presentation">VulnOptiCON 2027, The Next Episode</p>
-                <p class="presenter">Everyone</p>
+                <p class="cat4 presentation"><a href="#leverett">Exploitation Saturation and Designing for Detection</a></p>
+                <p class="presenter">Éireann Leverett, Concinnity Risks</p>
             </td>
+            
+
         </tr>
         <tr class="even">
             <td class="agenda-time">
-                16:45
+                17:00
             </td>
             <td class="sess0 not-empty">
                 <p class="cat4 presentation">Closing Remarks</p>
@@ -442,7 +444,7 @@ Jump to:
             </td>
         </tr>
         <tr class="odd">
-            <td class="agenda-time">17:00</td>
+            <td class="agenda-time">17:15</td>
             <td class="sess0 not-empty"><p class="cat5 break">Fin</p></td>
         </tr>
     </tbody>
