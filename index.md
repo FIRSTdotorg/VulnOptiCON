@@ -2,7 +2,7 @@
 
 ## Updates
 
-Already excited about VulnOptiCON 2027? We're always looking for volunteers to make it an awesome event again, please email us at (vulnopticon@gmail.com)[mailto:vulnopticon@gmail.com] !
+Already excited about VulnOptiCON 2027? We're always looking for volunteers to make it an awesome event again, please email us at [vulnopticon@gmail.com](mailto:vulnopticon@gmail.com) !
 
 ### Venues and Transportation
 
