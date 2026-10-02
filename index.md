@@ -2,6 +2,8 @@
 
 ## Updates
 
+Already excited about VulnOptiCON 2027? We're always looking for volunteers to make it an awesome event again, please email us at (vulnopticon@gmail.com)[mailto:vulnopticon.gmail.com]!
+
 ### Venues and Transportation
 
 VulnOptiCON will be held at two different [venues](hotel#venues). For details, see the [Hotels and Venues](hotel) page.
